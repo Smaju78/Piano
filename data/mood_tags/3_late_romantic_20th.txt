@@ -1,0 +1,249 @@
+scriabin-op-11 Dr Pa Me
+scriabin-op-9-no-2 Te Dr
+scriabin-op-28 Pa St He
+scriabin-op-32-no-1 Dr Pa
+scriabin-op-72 Da St Vi
+scriabin-op-6 Me Pa Da
+scriabin-op-19 Dr Pa St
+scriabin-op-23 Pa St He
+scriabin-op-30 Dr Pa
+scriabin-op-53 Pa Vi Dr
+scriabin-op-62 Da Dr
+scriabin-op-64 Co Dr Vi
+scriabin-op-66 Dr Co
+scriabin-op-68 Da St
+scriabin-op-70 Dr Pl
+scriabin-op-20 Pa Te
+rachmaninoff-op-3-no-1 Me Pa
+rachmaninoff-op-3-no-3 Te Me
+rachmaninoff-op-3-no-4 Pl Vi
+rachmaninoff-op-3-no-5 Dn Me
+rachmaninoff-op-16-no-1 Me Dr
+rachmaninoff-op-16-no-2 St Pa
+rachmaninoff-op-16-no-3 Me Co Da
+rachmaninoff-op-16-no-4 St Vi Pa
+rachmaninoff-op-16-no-5 Ca Dr
+rachmaninoff-op-16-no-6 He Pa Vi
+rachmaninoff-op-23-no-1 Me Dr
+rachmaninoff-op-23-no-2 He Vi
+rachmaninoff-op-23-no-3 Dn Pl
+rachmaninoff-op-23-no-4 Te Ca Dr
+rachmaninoff-op-23-no-5 He Dn Te
+rachmaninoff-op-23-no-6 Te Ca
+rachmaninoff-op-23-no-7 St Vi
+rachmaninoff-op-23-no-8 Pa Vi
+rachmaninoff-op-23-no-9 St Vi
+rachmaninoff-op-23-no-10 Co Te
+rachmaninoff-op-32-no-1 St Vi
+rachmaninoff-op-32-no-2 Me Dr
+rachmaninoff-op-32-no-3 He Jo
+rachmaninoff-op-32-no-4 St Pa
+rachmaninoff-op-32-no-5 Dr Ca Te
+rachmaninoff-op-32-no-6 St Da
+rachmaninoff-op-32-no-7 Te Pl
+rachmaninoff-op-32-no-8 Pl St
+rachmaninoff-op-32-no-9 Pa Te
+rachmaninoff-op-32-no-10 Me Da Co
+rachmaninoff-op-32-no-11 Te Ca
+rachmaninoff-op-32-no-12 Me Dr
+rachmaninoff-op-32-no-13 He Pa
+rachmaninoff-op-33 St Pa Vi
+rachmaninoff-op-39-no-1 St Vi
+rachmaninoff-op-39-no-2 Me Dr Co
+rachmaninoff-op-39-no-3 St Vi
+rachmaninoff-op-39-no-4 Pl Dn
+rachmaninoff-op-39-no-5 Pa He St
+rachmaninoff-op-39-no-6 Da Pl Vi
+rachmaninoff-op-39-no-7 Me Da He
+rachmaninoff-op-39-no-8 Dr Me
+rachmaninoff-op-39-no-9 He Vi Jo
+rachmaninoff-op-28 Da Pa St
+rachmaninoff-op-36 St Pa Vi
+rachmaninoff-op-22 Me Co Vi
+rachmaninoff-op-42 Me Da Vi
+rachmaninoff-op-1 Pa He Vi
+rachmaninoff-op-30 Pa He Vi
+rachmaninoff-op-40 Pa Pl
+rachmaninoff-op-43 Vi Pa Pl
+rachmaninoff-op-10 Te Me
+medtner-op-38 Te Me Dn
+medtner-op-38-no-1 Me Te Co
+medtner-op-22 St Pa
+medtner-op-25-no-2 St Da
+medtner-op-50 Pa He
+busoni-bv-b-24 He Da Co
+busoni-op-39 He Co Vi
+strauss-trv-145 Pl Vi
+macdowell-op-51-no-1 Te Ca
+macdowell-op-23 Pa Vi
+debussy-l-66-no-1 Dr Te Ca
+debussy-l-66-no-2 Pl Jo
+debussy-l-75 Dr Te Dn
+debussy-l-100 Dr Dn
+debussy-l-100-no-1 Dr Co
+debussy-l-100-no-2 Dn Dr
+debussy-l-100-no-3 Pl St Vi
+debussy-l-110 Dr Co
+debussy-l-110-no-2 Co Me
+debussy-l-110-no-3 Pl Vi
+debussy-l-111 Dr Co
+debussy-l-111-no-1 Dr Ca
+debussy-l-111-no-2 Co Dr Ca
+debussy-l-111-no-3 Pl Vi Dr
+debussy-l-113 Pl Te
+debussy-l-113-no-1 Pl Vi
+debussy-l-113-no-6 Pl Dn Jo
+debussy-l-117-no-1 Ca Co
+debussy-l-117-no-2 Dr Ca
+debussy-l-117-no-3 St Dr
+debussy-l-117-no-4 Dr Te
+debussy-l-117-no-5 Jo Dn
+debussy-l-117-no-6 Me Co Ca
+debussy-l-117-no-7 St Da Vi
+debussy-l-117-no-8 Te Ca
+debussy-l-117-no-9 Pl Dn
+debussy-l-117-no-11 Pl Dr
+debussy-l-117-no-12 Pl Dn
+debussy-l-123-no-1 Dr Da
+debussy-l-123-no-2 Me Co
+debussy-l-123-no-3 Dn Pa
+debussy-l-123-no-4 Pl Dr
+debussy-l-123-no-5 Ca Te
+debussy-l-123-no-6 Pl Dn
+debussy-l-123-no-7 Dr Ca
+debussy-l-123-no-8 Pl Dr
+debussy-l-123-no-9 Pl He
+debussy-l-123-no-10 Co Ca Da
+debussy-l-123-no-11 Pl Vi
+debussy-l-123-no-12 Vi Jo Dr
+debussy-l-68 Dr Ca Te
+debussy-l-95 Vi He Te
+debussy-l-105 Dn Da
+debussy-l-106 Jo Vi Pa
+debussy-l-121 Dn Te Pl
+debussy-l-136 Vi Pl
+debussy-l-73 Dr Jo
+debussy-l-71 Dn Te
+debussy-l-114 Pl Dn
+ravel-m-7 Dn Co
+ravel-m-19 Me Ca Te
+ravel-m-30 Dr Jo Vi
+ravel-m-40 Te Dr Pl
+ravel-m-61 Dn Te Dr
+ravel-m-72 Dn Da Vi
+ravel-m-43 Dr Vi
+ravel-m-43-no-2 Me Dr
+ravel-m-43-no-3 Dr St Vi
+ravel-m-43-no-4 Dn Vi Pl
+ravel-m-55 Dr Da Vi
+ravel-m-55-no-1 Dr Vi
+ravel-m-55-no-2 Da Co
+ravel-m-68 Dn Te Co
+ravel-m-68-no-6 Vi Pl
+ravel-m-82 Da He Vi
+satie-gymnopedie-no-2 Ca Dr
+satie-gymnopedie-no-3 Ca Me
+satie-gnossienne-no-1 Dr Me
+satie-gnossienne-no-2 Dr Ca
+satie-gnossienne-no-3 Me Dr
+satie-gnossienne-no-4 Me Co
+satie-gnossienne-no-5 Te Pl
+satie-gnossienne-no-6 Co Ca
+satie-je-te-veux Te Dn Jo
+satie-le-picadilly Pl Dn
+falla-danza-ritual-del-fuego Dn Da Vi
+falla-fantasia-baetica Dn Vi Pa
+falla-noches-en-los-jardines-de-espana Dr Pa Dn
+mompou-musica-callada Co Ca
+mompou-canco-i-dansa-no-6 Te Dn
+mompou-impresiones-intimas Co Me
+szymanowski-op-34 Dr Vi
+szymanowski-op-29 Dr Pa
+szymanowski-op-4-no-3 Pa Me
+janacek-in-the-mists Me Co
+janacek-piano-sonata-1-x-1905 Me Da St
+janacek-on-an-overgrown-path Te Me Co
+bartok-sz-49 St Dn Da
+bartok-sz-55 Dn Pl
+bartok-sz-56 Dn Pl Te
+bartok-sz-62 Dn Pl Da
+bartok-sz-80 St Dn Vi
+bartok-sz-81 Da Dr St
+bartok-sz-107 Pl Co
+bartok-sz-42 Pl Te
+bartok-sz-83 St Da Dn
+bartok-sz-95 Vi He Pl
+bartok-sz-119 Te Jo Co
+prokofiev-op-1 Pa St
+prokofiev-op-14 Pl St Vi
+prokofiev-op-28 St Vi
+prokofiev-op-29 Da Co
+prokofiev-op-38 Pl Te
+prokofiev-op-82 St Da Vi
+prokofiev-op-84 Co Pa Vi
+prokofiev-op-103 Ca Pl
+prokofiev-op-4-no-4 Da St Vi
+prokofiev-op-11 Vi St
+prokofiev-op-17 Pl Da St
+prokofiev-op-22 Pl Dr
+prokofiev-op-75 Dn Te Da
+prokofiev-op-75-no-6 Da He Dn
+prokofiev-op-10 He Vi
+prokofiev-op-16 Da St Vi
+prokofiev-op-26 Jo Vi Pl
+prokofiev-op-53 Pl Vi
+prokofiev-op-55 Pl Vi
+prokofiev-op-31 Me Dr
+poulenc-fp-14 Pl Ca
+poulenc-fp-84 Pl Te
+poulenc-fp-105 Me Te
+poulenc-fp-176 Me Te
+poulenc-fp-61 Pl Jo Dr
+poulenc-fp-146 Pl Jo
+poulenc-fp-51 Pl Dn
+gershwin-three-preludes Pl Dn Te
+gershwin-george-gershwin-s-songbook Pl Te Jo
+gershwin-concerto-in-f Jo Pa Dn
+gershwin-second-rhapsody Pl He
+gershwin-variations-on-i-got-rhythm Pl Jo Vi
+shostakovich-op-5 Pl Dn
+shostakovich-op-34 Pl Me
+shostakovich-op-61 Da St Co
+shostakovich-op-87 Co Da Me
+shostakovich-op-35 Pl Vi Me
+shostakovich-op-102 Jo Te Pl
+messiaen-preludes Dr Co
+messiaen-vingt-regards-sur-l-enfant-jesus Co Jo Vi
+messiaen-le-baiser-de-l-enfant-jesus Te Co Ca
+messiaen-quatre-etudes-de-rythme Vi Da
+messiaen-catalogue-d-oiseaux Co Dr Pl
+messiaen-canteyodjaya Dn Vi
+khachaturian-toccata-in-e-flat-minor Vi St Dn
+khachaturian-piano-concerto-in-d-flat-major He Dn Vi
+kabalevsky-op-13-no-1 Pl Jo
+kabalevsky-op-46 Jo Pl
+kabalevsky-op-23 St Vi
+kabalevsky-op-50 Jo He
+villa-lobos-a-prole-do-bebe-no-1 Pl Te Dn
+villa-lobos-rudepoema St Vi Dn
+villa-lobos-choros-no-5 Me Dn
+villa-lobos-bachianas-brasileiras-no-4-piano-version Co Me
+villa-lobos-bachianas-brasileiras-no-3 Co Pa
+ginastera-op-2 Dn Me Vi
+ginastera-op-7 Dn Vi
+ginastera-op-22 Dn St Vi
+ginastera-op-28 Da St Vi
+barber-op-20 Pl Dn
+barber-op-26 St Da Vi
+barber-op-38 Pa Vi Me
+copland-piano-variations Da St Co
+copland-piano-sonata Co Me
+copland-the-cat-and-the-mouse Pl Vi
+copland-four-piano-blues Te Me
+copland-piano-concerto Pl Dn
+ligeti-etudes-pour-piano-book-1 Vi St
+ligeti-etudes-pour-piano-book-2 Vi Da
+ligeti-automne-a-varsovie Me St Vi
+ligeti-l-escalier-du-diable Da St Vi
+ligeti-musica-ricercata Pl Da Me
+ligeti-piano-concerto Pl Vi

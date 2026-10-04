@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Piano · Solo works and concertos</title>
+<meta name="description" content="Piano: the well-known classical piano repertoire, from Bach to Ligeti. Solo works and piano concertos with details, movements, moods and the best YouTube performances, plus a jukebox.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='20' rx='3' fill='%23f6f2ea' stroke='%231c1a17' stroke-width='2'/%3E%3Cpath d='M10 6v12M16 6v12M22 6v12' stroke='%231c1a17' stroke-width='1.5'/%3E%3Crect x='8' y='6' width='4' height='11' fill='%231c1a17'/%3E%3Crect x='14' y='6' width='4' height='11' fill='%231c1a17'/%3E%3Crect x='20' y='6' width='4' height='11' fill='%231c1a17'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/">
+    <span class="brand-mark" aria-hidden="true"></span>
+    <span class="brand-name">Piano</span>
+    <span class="brand-sub">Solo works &amp; concertos</span>
+  </a>
+  <nav class="nav" aria-label="Main">
+    <a href="#/" data-nav="home">Listen</a>
+    <a href="#/browse/composer" data-nav="browse">Browse</a>
+    <a href="#/jukebox" data-nav="jukebox">Jukebox</a>
+  </nav>
+</header>
+
+<main id="view" tabindex="-1">
+  <p class="loading">Loading the repertoire…</p>
+</main>
+
+<!-- The jukebox stays in the page on every route (moved off-screen when not shown) so playback continues. -->
+<section id="jukebox" class="jukebox offstage" aria-label="Jukebox">
+  <div class="jb-stage">
+    <div class="jb-player">
+      <div id="yt-player"></div>
+      <div class="jb-empty" id="jb-empty">
+        <p id="jb-empty-msg">Press Play for a shuffle of works that match your filters.</p>
+        <button class="btn" type="button" id="jb-empty-clear" hidden>Clear filters</button>
+      </div>
+    </div>
+    <div class="jb-side">
+      <div class="jb-now" id="jb-now"><p class="hint">Nothing playing yet.</p></div>
+      <div class="jb-controls">
+        <button id="jb-prev" class="btn icon" type="button" disabled aria-label="Previous work">⏮</button>
+        <button id="jb-play" class="btn primary" type="button">▶ Play</button>
+        <button id="jb-skip" class="btn icon" type="button" disabled aria-label="Next work">⏭</button>
+        <button id="jb-like" class="btn" type="button" disabled aria-pressed="false" title="Liked works come up 4× as often">♥ Like</button>
+        <button id="jb-never" class="btn" type="button" disabled title="Never play this work in the jukebox">Never play</button>
+      </div>
+      <p class="jb-next hint" id="jb-next"></p>
+      <div id="jb-movements"></div>
+    </div>
+  </div>
+
+  <div class="jb-filterbar">
+    <span class="jb-count" id="jb-count"></span>
+    <div class="jb-active" id="jb-active"></div>
+    <button class="btn small" type="button" id="jb-edit" aria-expanded="false" aria-controls="jb-filters">Edit filters</button>
+  </div>
+  <div class="jb-filters" id="jb-filters" hidden></div>
+  <details class="jb-prefs" id="jb-prefs"></details>
+</section>
+
+<div class="mini" id="mini" hidden>
+  <a class="mini-title" id="mini-title" href="#/jukebox"></a>
+  <div class="mini-btns">
+    <button class="btn icon" type="button" id="mini-play" aria-label="Pause">❚❚</button>
+    <button class="btn icon" type="button" id="mini-skip" aria-label="Next work">⏭</button>
+    <button class="btn icon" type="button" id="mini-like" aria-pressed="false" aria-label="Like">♥</button>
+  </div>
+</div>
+
+<footer class="foot">
+  <p>Work data checked against <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>;
+  movements from <a href="https://musicbrainz.org" target="_blank" rel="noopener">MusicBrainz</a> (both CC0).
+  Recordings play from YouTube. Personal, non-commercial project.</p>
+  <p>This site uses YouTube API Services:
+  <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms of Service</a> ·
+  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> ·
+  <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

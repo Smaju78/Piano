@@ -1,0 +1,251 @@
+bach-bwv-847 St Vi
+bach-bwv-848 Jo Pl
+bach-bwv-849 Co Me Da
+bach-bwv-850 Jo Vi
+bach-bwv-851 St Da
+bach-bwv-852 Jo Co
+bach-bwv-853 Me Co Da
+bach-bwv-854 Ca Te
+bach-bwv-855 Me St
+bach-bwv-856 Jo Pl
+bach-bwv-857 Me Co
+bach-bwv-858 Te Jo
+bach-bwv-859 Me Co
+bach-bwv-860 Jo Pl
+bach-bwv-861 Me Co
+bach-bwv-862 Te Ca
+bach-bwv-863 Me Co
+bach-bwv-864 Jo Ca
+bach-bwv-865 St Da
+bach-bwv-866 Jo Pl
+bach-bwv-867 Co Da Me
+bach-bwv-868 Ca Te
+bach-bwv-869 Co Me Da
+bach-bwv-870 Jo Co
+bach-bwv-871 Co Me
+bach-bwv-872 Jo Pl
+bach-bwv-873 Me Co
+bach-bwv-874 He Jo
+bach-bwv-875 St Vi
+bach-bwv-876 Ca Te
+bach-bwv-877 Me Co
+bach-bwv-878 Co Ca
+bach-bwv-879 St Me
+bach-bwv-880 Jo Pl
+bach-bwv-881 Me Te
+bach-bwv-882 Te Jo
+bach-bwv-883 Me Co
+bach-bwv-884 Jo Pl
+bach-bwv-885 St Da
+bach-bwv-886 Te Co
+bach-bwv-887 Me Co
+bach-bwv-888 Jo Pl
+bach-bwv-889 Da Co
+bach-bwv-890 Jo Te
+bach-bwv-891 Co Da Me
+bach-bwv-892 Co Ca
+bach-bwv-893 Me St
+bach-bwv-772 Jo Pl
+bach-bwv-773 Me Co
+bach-bwv-774 Jo Pl
+bach-bwv-775 St Me
+bach-bwv-776 Te Co
+bach-bwv-777 Jo Dn
+bach-bwv-778 Me Co
+bach-bwv-779 Jo Pl Vi
+bach-bwv-780 Me Co
+bach-bwv-781 Jo Pl
+bach-bwv-782 Me Co
+bach-bwv-783 Jo Dn
+bach-bwv-784 St Pl
+bach-bwv-785 Jo Pl
+bach-bwv-786 St Me
+bach-bwv-787-801 Co Ca Me
+bach-bwv-812 Co Me Dn
+bach-bwv-813 Me Te Dn
+bach-bwv-814 Me Dn
+bach-bwv-815 Te Ca Dn
+bach-bwv-816 Jo Dn Te
+bach-bwv-817 Jo Dn Pl
+bach-bwv-806 Jo Dn
+bach-bwv-807 St Dn Co
+bach-bwv-808 Me Dn Co
+bach-bwv-809 Jo Dn
+bach-bwv-810 St Dn Me
+bach-bwv-811 St Da Dn
+bach-bwv-825 Jo Te Dn
+bach-bwv-827 Pl Dn Me
+bach-bwv-828 He Jo Dn
+bach-bwv-829 Jo Pl Dn
+bach-bwv-830 Co Me Da
+bach-bwv-910 St Co
+bach-bwv-911 St Da
+bach-bwv-912 Jo Vi
+bach-bwv-913 Da St
+bach-bwv-914 Me Co
+bach-bwv-915 St Me
+bach-bwv-916 Jo Vi
+bach-bwv-831 He Dn Co
+bach-bwv-971 Jo Vi He
+bach-bwv-903 St Da Vi
+bach-bwv-906 St Da
+bach-bwv-992 Pl Me Jo
+bach-bwv-anh-114 Te Dn Ca
+bach-bwv-1053 Jo Te
+bach-bwv-1054 Jo He
+bach-bwv-1055 Jo Te
+bach-bwv-1056 Me Te
+bach-bwv-1058 St Me
+bach-bwv-1080 Co Da
+bach-bwv-933-938 Jo Pl
+handel-hwv-430 Jo Te
+handel-hwv-432 He Da
+handel-hwv-434 Jo Te
+handel-hwv-437 Me Co Da
+handel-hwv-435 Jo Co
+scarlatti-k-1 Pl Jo
+scarlatti-k-9 Te Ca
+scarlatti-k-11 Me Te
+scarlatti-k-13 Jo Pl
+scarlatti-k-20 Jo Vi
+scarlatti-k-27 Me Co
+scarlatti-k-32 Me Ca
+scarlatti-k-87 Co Me
+scarlatti-k-96 Vi He Jo
+scarlatti-k-135 Jo Dn
+scarlatti-k-159 Jo Pl
+scarlatti-k-208 Te Ca
+scarlatti-k-213 Me Co
+scarlatti-k-322 Pl Jo
+scarlatti-k-380 He Jo Dn
+scarlatti-k-427 Vi Pl
+scarlatti-k-455 Jo Vi
+scarlatti-k-466 Me Te Co
+scarlatti-k-481 Me Co
+scarlatti-k-492 Jo Vi Dn
+scarlatti-k-517 St Vi
+scarlatti-k-519 St Vi
+scarlatti-k-531 Jo Dn
+scarlatti-k-30 Me Co
+rameau-les-tendres-plaintes Te Me
+rameau-tambourin Dn Pl
+rameau-les-sauvages Dn Pl He
+rameau-la-poule Pl Vi
+rameau-gavotte-et-six-doubles-in-a-minor Te Co Vi
+rameau-l-entretien-des-muses Ca Co
+rameau-les-cyclopes Vi St
+couperin-les-barricades-mysterieuses Dr Ca
+couperin-le-tic-toc-choc-ou-les-maillotins Pl Vi
+couperin-le-rossignol-en-amour Te Ca
+couperin-s-ur-monique Te Ca
+haydn-hob-xvi-20 Me Pa
+haydn-hob-xvi-23 Jo Pl
+haydn-hob-xvi-32 St Pl
+haydn-hob-xvi-34 Me Pl
+haydn-hob-xvi-35 Jo Pl
+haydn-hob-xvi-37 Jo Pl
+haydn-hob-xvi-48 Jo Te
+haydn-hob-xvi-49 Te Jo
+haydn-hob-xvi-52 He Jo Vi
+haydn-hob-xvii-6 Me Co
+haydn-hob-xviii-11 Jo Dn
+haydn-hob-xviii-4 Jo Te
+mozart-k-279 Jo Pl
+mozart-k-280 Jo Me
+mozart-k-281 Pl Te
+mozart-k-282 Te Ca
+mozart-k-283 Jo Pl
+mozart-k-284 Jo He
+mozart-k-309 Jo Pl
+mozart-k-310 St Me
+mozart-k-311 Jo Pl
+mozart-k-330 Jo Te
+mozart-k-332 Jo Te Pl
+mozart-k-333 Jo Te
+mozart-k-457 St Da
+mozart-k-545 Jo Pl
+mozart-k-570 Jo Te
+mozart-k-576 Jo Vi
+mozart-k-397 Me Da Jo
+mozart-k-475 Da St Co
+mozart-k-485 Jo Pl
+mozart-k-511 Me Te
+mozart-k-540 Me Co Da
+mozart-k-265 Pl Jo
+mozart-k-573 Pl Jo
+mozart-k-271 Jo Te
+mozart-k-365 Jo Pl
+mozart-k-414 Jo Te
+mozart-k-453 Jo Pl Te
+mozart-k-456 Te Jo
+mozart-k-459 Jo Pl
+mozart-k-466 St Da Te
+mozart-k-482 He Te
+mozart-k-488 Te Me Jo
+mozart-k-491 Da St Me
+mozart-k-503 He Jo
+mozart-k-537 He Jo
+mozart-k-595 Te Ca Me
+mozart-k-175 Jo He
+mozart-k-238 Jo Te
+mozart-k-242 Jo Te
+mozart-k-246 Jo Te
+mozart-k-413 Jo Te
+mozart-k-415 He Jo
+mozart-k-449 Jo Pl
+mozart-k-450 Jo Vi
+mozart-k-451 He Jo
+mozart-k-386 Jo Te
+mozart-k-574 Pl Co
+mozart-k-455 Pl Jo
+clementi-op-36 Jo Pl
+clementi-op-25-no-5 Me Pa
+beethoven-op-2-no-1 St Me
+beethoven-op-2-no-2 Jo Pl
+beethoven-op-2-no-3 He Jo Vi
+beethoven-op-7 He Jo
+beethoven-op-10-no-1 St Me
+beethoven-op-10-no-2 Pl Jo
+beethoven-op-10-no-3 Me Jo He
+beethoven-op-14-no-1 Te Jo
+beethoven-op-14-no-2 Pl Jo
+beethoven-op-22 Jo He
+beethoven-op-26 Me He Te
+beethoven-op-27-no-1 Dr Jo
+beethoven-op-28 Ca Jo Te
+beethoven-op-31-no-1 Pl Jo
+beethoven-op-31-no-2 St Da Me
+beethoven-op-31-no-3 Jo Pl
+beethoven-op-49-no-1 Me Te
+beethoven-op-49-no-2 Jo Te Dn
+beethoven-op-53 He Jo Vi
+beethoven-op-54 Pl Co
+beethoven-op-57 St Pa Da
+beethoven-op-78 Te Jo
+beethoven-op-79 Pl Jo
+beethoven-op-81a Me He Jo
+beethoven-op-90 Te Me
+beethoven-op-101 Co Te He
+beethoven-op-106 He Co Vi
+beethoven-op-109 Co Te
+beethoven-op-110 Co Me He
+beethoven-op-111 Co St Ca
+beethoven-op-129 Pl Vi
+beethoven-op-33 Pl Te
+beethoven-op-119 Pl Te
+beethoven-op-126 Co Te
+beethoven-woo-57 Te Ca
+beethoven-woo-80 St Vi
+beethoven-op-35 He Pl Vi
+beethoven-op-120 Pl Co He
+beethoven-op-15 Jo He
+beethoven-op-19 Jo Te
+beethoven-op-37 St He
+beethoven-op-58 Co Te He
+beethoven-op-73 He Jo
+beethoven-op-80 He Jo
+hummel-op-85 Pa Vi
+hummel-op-89 Vi St
+hummel-op-11 Pl Vi
+hummel-op-81 St Pa
+mozart-k-533 Co Pl Jo

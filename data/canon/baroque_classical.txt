@@ -1,0 +1,333 @@
+@ Johann Sebastian Bach
+## The Well-Tempered Clavier, Book I | 1722 | prelude and fugue
+BWV 846 | Prelude and Fugue in C major
+BWV 847 | Prelude and Fugue in C minor
+BWV 848 | Prelude and Fugue in C-sharp major
+BWV 849 | Prelude and Fugue in C-sharp minor
+BWV 850 | Prelude and Fugue in D major
+BWV 851 | Prelude and Fugue in D minor
+BWV 852 | Prelude and Fugue in E-flat major
+BWV 853 | Prelude and Fugue in E-flat minor
+BWV 854 | Prelude and Fugue in E major
+BWV 855 | Prelude and Fugue in E minor
+BWV 856 | Prelude and Fugue in F major
+BWV 857 | Prelude and Fugue in F minor
+BWV 858 | Prelude and Fugue in F-sharp major
+BWV 859 | Prelude and Fugue in F-sharp minor
+BWV 860 | Prelude and Fugue in G major
+BWV 861 | Prelude and Fugue in G minor
+BWV 862 | Prelude and Fugue in A-flat major
+BWV 863 | Prelude and Fugue in G-sharp minor
+BWV 864 | Prelude and Fugue in A major
+BWV 865 | Prelude and Fugue in A minor
+BWV 866 | Prelude and Fugue in B-flat major
+BWV 867 | Prelude and Fugue in B-flat minor
+BWV 868 | Prelude and Fugue in B major
+BWV 869 | Prelude and Fugue in B minor
+## The Well-Tempered Clavier, Book II | 1742 | prelude and fugue
+BWV 870 | Prelude and Fugue in C major
+BWV 871 | Prelude and Fugue in C minor
+BWV 872 | Prelude and Fugue in C-sharp major
+BWV 873 | Prelude and Fugue in C-sharp minor
+BWV 874 | Prelude and Fugue in D major
+BWV 875 | Prelude and Fugue in D minor
+BWV 876 | Prelude and Fugue in E-flat major
+BWV 877 | Prelude and Fugue in D-sharp minor
+BWV 878 | Prelude and Fugue in E major
+BWV 879 | Prelude and Fugue in E minor
+BWV 880 | Prelude and Fugue in F major
+BWV 881 | Prelude and Fugue in F minor
+BWV 882 | Prelude and Fugue in F-sharp major
+BWV 883 | Prelude and Fugue in F-sharp minor
+BWV 884 | Prelude and Fugue in G major
+BWV 885 | Prelude and Fugue in G minor
+BWV 886 | Prelude and Fugue in A-flat major
+BWV 887 | Prelude and Fugue in G-sharp minor
+BWV 888 | Prelude and Fugue in A major
+BWV 889 | Prelude and Fugue in A minor
+BWV 890 | Prelude and Fugue in B-flat major
+BWV 891 | Prelude and Fugue in B-flat minor
+BWV 892 | Prelude and Fugue in B major
+BWV 893 | Prelude and Fugue in B minor
+## Two-Part Inventions | 1723 | invention
+BWV 772 | Invention No. 1 in C major
+BWV 773 | Invention No. 2 in C minor
+BWV 774 | Invention No. 3 in D major
+BWV 775 | Invention No. 4 in D minor
+BWV 776 | Invention No. 5 in E-flat major
+BWV 777 | Invention No. 6 in E major
+BWV 778 | Invention No. 7 in E minor
+BWV 779 | Invention No. 8 in F major
+BWV 780 | Invention No. 9 in F minor
+BWV 781 | Invention No. 10 in G major
+BWV 782 | Invention No. 11 in G minor
+BWV 783 | Invention No. 12 in A major
+BWV 784 | Invention No. 13 in A minor
+BWV 785 | Invention No. 14 in B-flat major
+BWV 786 | Invention No. 15 in B minor
+## - | | invention
+BWV 787–801 | Sinfonias (Three-Part Inventions) | 1723 | | Three-Part Inventions
+## French Suites | 1722 | suite
+BWV 812 | French Suite No. 1 in D minor
+BWV 813 | French Suite No. 2 in C minor
+BWV 814 | French Suite No. 3 in B minor
+BWV 815 | French Suite No. 4 in E-flat major
+BWV 816 | French Suite No. 5 in G major
+BWV 817 | French Suite No. 6 in E major
+## English Suites | 1715 | suite
+BWV 806 | English Suite No. 1 in A major
+BWV 807 | English Suite No. 2 in A minor
+BWV 808 | English Suite No. 3 in G minor
+BWV 809 | English Suite No. 4 in F major
+BWV 810 | English Suite No. 5 in E minor
+BWV 811 | English Suite No. 6 in D minor
+## Partitas (Clavier-Übung I) | 1726 | partita
+BWV 825 | Partita No. 1 in B-flat major
+BWV 826 | Partita No. 2 in C minor
+BWV 827 | Partita No. 3 in A minor
+BWV 828 | Partita No. 4 in D major
+BWV 829 | Partita No. 5 in G major
+BWV 830 | Partita No. 6 in E minor
+## Toccatas | 1710 | toccata
+BWV 910 | Toccata in F-sharp minor
+BWV 911 | Toccata in C minor
+BWV 912 | Toccata in D major
+BWV 913 | Toccata in D minor
+BWV 914 | Toccata in E minor
+BWV 915 | Toccata in G minor
+BWV 916 | Toccata in G major
+## - | | piece
+BWV 831 | Overture in the French style in B minor | 1735 | suite | French Overture
+BWV 971 | Italian Concerto in F major | 1735 | piece | Italian Concerto
+BWV 988 | Goldberg Variations in G major | 1741 | variations | Goldberg Variations; Aria with Diverse Variations
+BWV 903 | Chromatic Fantasia and Fugue in D minor | 1720 | fantasy
+BWV 906 | Fantasia in C minor | 1738 | fantasy
+BWV 992 | Capriccio on the Departure of a Beloved Brother in B-flat major | 1704 | piece
+BWV Anh. 114 | Minuet in G major | 1725 | dance | Minuet in G
+## - | | concerto
+BWV 1052 | Keyboard Concerto No. 1 in D minor | 1738
+BWV 1053 | Keyboard Concerto No. 2 in E major | 1738
+BWV 1054 | Keyboard Concerto No. 3 in D major | 1738
+BWV 1055 | Keyboard Concerto No. 4 in A major | 1738
+BWV 1056 | Keyboard Concerto No. 5 in F minor | 1738
+BWV 1058 | Keyboard Concerto No. 7 in G minor | 1738
+
+@ George Frideric Handel
+## Suites de pièces pour le clavecin (1720) | 1720 | suite
+HWV 430 | Suite No. 5 in E major | | | Harmonious Blacksmith
+HWV 432 | Suite No. 7 in G minor | | | +Passacaglia
+## - | | suite
+HWV 434 | Suite in B-flat major | 1733 | | +Aria and variations
+HWV 437 | Suite in D minor | 1733 | | +Sarabande
+HWV 435 | Chaconne in G major | 1733 | variations | +Chaconne
+
+@ Domenico Scarlatti
+## Keyboard sonatas | | sonata
+K. 1 | Sonata in D minor
+K. 9 | Sonata in D minor | | | Pastorale
+K. 11 | Sonata in C minor
+K. 13 | Sonata in G major
+K. 20 | Sonata in E major
+K. 27 | Sonata in B minor
+K. 32 | Sonata in D minor | | | Aria
+K. 87 | Sonata in B minor
+K. 96 | Sonata in D major
+K. 135 | Sonata in E major
+K. 141 | Sonata in D minor
+K. 159 | Sonata in C major | | | La Caccia
+K. 208 | Sonata in A major
+K. 213 | Sonata in D minor
+K. 322 | Sonata in A major
+K. 380 | Sonata in E major
+K. 427 | Sonata in G major
+K. 455 | Sonata in G major
+K. 466 | Sonata in F minor
+K. 481 | Sonata in F minor
+K. 492 | Sonata in D major
+K. 517 | Sonata in D minor
+K. 519 | Sonata in F minor
+K. 531 | Sonata in E major
+
+@ Jean-Philippe Rameau
+## Pièces de clavecin | | piece
+- | Le rappel des oiseaux | 1724
+- | Les tendres plaintes | 1724
+- | Tambourin | 1724 | dance
+- | Les sauvages | 1728 | dance
+- | La poule | 1728
+- | Gavotte et six doubles in A minor | 1728 | variations | Gavotte with Six Doubles
+- | L'entretien des Muses | 1724
+- | Les cyclopes | 1724
+
+@ François Couperin
+## Pièces de clavecin | | piece
+- | Les barricades mystérieuses | 1717
+- | Le tic-toc-choc, ou Les maillotins | 1722 | | Le tic-toc-choc
+- | Le rossignol en amour | 1722
+- | Sœur Monique | 1722
+
+@ Joseph Haydn
+## Keyboard sonatas | | sonata
+Hob. XVI:20 | Piano Sonata in C minor | 1771
+Hob. XVI:23 | Piano Sonata in F major | 1773
+Hob. XVI:32 | Piano Sonata in B minor | 1776
+Hob. XVI:34 | Piano Sonata in E minor | 1784
+Hob. XVI:35 | Piano Sonata in C major | 1780
+Hob. XVI:37 | Piano Sonata in D major | 1780
+Hob. XVI:48 | Piano Sonata in C major | 1789
+Hob. XVI:49 | Piano Sonata in E-flat major | 1790
+Hob. XVI:50 | Piano Sonata in C major | 1794
+Hob. XVI:52 | Piano Sonata in E-flat major | 1794
+## - | | variations
+Hob. XVII:6 | Variations in F minor | 1793 | | +Andante con variazioni
+## - | | concerto
+Hob. XVIII:11 | Keyboard Concerto in D major | 1782
+Hob. XVIII:4 | Keyboard Concerto in G major | 1770
+
+@ Wolfgang Amadeus Mozart
+## Piano sonatas | | sonata
+K. 279 | Piano Sonata No. 1 in C major | 1774
+K. 280 | Piano Sonata No. 2 in F major | 1774
+K. 281 | Piano Sonata No. 3 in B-flat major | 1774
+K. 282 | Piano Sonata No. 4 in E-flat major | 1774
+K. 283 | Piano Sonata No. 5 in G major | 1774
+K. 284 | Piano Sonata No. 6 in D major | 1775 | | Dürnitz
+K. 309 | Piano Sonata No. 7 in C major | 1777
+K. 310 | Piano Sonata No. 8 in A minor | 1778
+K. 311 | Piano Sonata No. 9 in D major | 1777
+K. 330 | Piano Sonata No. 10 in C major | 1783
+K. 331 | Piano Sonata No. 11 in A major | 1783 | | +Rondo alla Turca; +Turkish March
+K. 332 | Piano Sonata No. 12 in F major | 1783
+K. 333 | Piano Sonata No. 13 in B-flat major | 1783
+K. 457 | Piano Sonata No. 14 in C minor | 1784
+K. 533 | Piano Sonata No. 15 in F major | 1788
+K. 545 | Piano Sonata No. 16 in C major | 1788 | | Sonata facile; Sonata semplice
+K. 570 | Piano Sonata No. 17 in B-flat major | 1789
+K. 576 | Piano Sonata No. 18 in D major | 1789
+## - | | piece
+K. 397 | Fantasia in D minor | 1782 | fantasy
+K. 475 | Fantasia in C minor | 1785 | fantasy
+K. 485 | Rondo in D major | 1786 | rondo
+K. 511 | Rondo in A minor | 1787 | rondo
+K. 540 | Adagio in B minor | 1788 | piece
+K. 265 | Twelve Variations on "Ah vous dirai-je, Maman" in C major | 1781 | variations | Twinkle Twinkle Little Star Variations
+K. 573 | Nine Variations on a Minuet by Duport in D major | 1789 | variations
+## Piano concertos | | concerto
+K. 271 | Piano Concerto No. 9 in E-flat major | 1777 | | Jeunehomme; Jenamy
+K. 365 | Concerto for Two Pianos No. 10 in E-flat major | 1779
+K. 414 | Piano Concerto No. 12 in A major | 1782
+K. 453 | Piano Concerto No. 17 in G major | 1784
+K. 456 | Piano Concerto No. 18 in B-flat major | 1784
+K. 459 | Piano Concerto No. 19 in F major | 1784
+K. 466 | Piano Concerto No. 20 in D minor | 1785
+K. 467 | Piano Concerto No. 21 in C major | 1785 | | +Elvira Madigan
+K. 482 | Piano Concerto No. 22 in E-flat major | 1785
+K. 488 | Piano Concerto No. 23 in A major | 1786
+K. 491 | Piano Concerto No. 24 in C minor | 1786
+K. 503 | Piano Concerto No. 25 in C major | 1786
+K. 537 | Piano Concerto No. 26 in D major | 1788 | | Coronation
+K. 595 | Piano Concerto No. 27 in B-flat major | 1791
+
+@ Muzio Clementi
+## - | | sonatina
+Op. 36 | Six Sonatinas | 1797
+Op. 25 No. 5 | Piano Sonata in F-sharp minor | 1790 | sonata
+
+@ Ludwig van Beethoven
+## Piano sonatas | | sonata
+Op. 2 No. 1 | Piano Sonata No. 1 in F minor | 1795
+Op. 2 No. 2 | Piano Sonata No. 2 in A major | 1795
+Op. 2 No. 3 | Piano Sonata No. 3 in C major | 1795
+Op. 7 | Piano Sonata No. 4 in E-flat major | 1797 | | +Grand Sonata
+Op. 10 No. 1 | Piano Sonata No. 5 in C minor | 1798
+Op. 10 No. 2 | Piano Sonata No. 6 in F major | 1798
+Op. 10 No. 3 | Piano Sonata No. 7 in D major | 1798
+Op. 13 | Piano Sonata No. 8 in C minor | 1798 | | Pathétique Sonata; Pathetique
+Op. 14 No. 1 | Piano Sonata No. 9 in E major | 1799
+Op. 14 No. 2 | Piano Sonata No. 10 in G major | 1799
+Op. 22 | Piano Sonata No. 11 in B-flat major | 1800
+Op. 26 | Piano Sonata No. 12 in A-flat major | 1801 | | Funeral March
+Op. 27 No. 1 | Piano Sonata No. 13 in E-flat major | 1801 | | +Sonata quasi una fantasia
+Op. 27 No. 2 | Piano Sonata No. 14 in C-sharp minor | 1801 | | Moonlight Sonata; Mondscheinsonate
+Op. 28 | Piano Sonata No. 15 in D major | 1801 | | Pastoral Sonata
+Op. 31 No. 1 | Piano Sonata No. 16 in G major | 1802
+Op. 31 No. 2 | Piano Sonata No. 17 in D minor | 1802 | | Tempest Sonata; Der Sturm
+Op. 31 No. 3 | Piano Sonata No. 18 in E-flat major | 1802 | | The Hunt
+Op. 49 No. 1 | Piano Sonata No. 19 in G minor | 1797 | | Sonata facile
+Op. 49 No. 2 | Piano Sonata No. 20 in G major | 1796 | | Sonata facile
+Op. 53 | Piano Sonata No. 21 in C major | 1804 | | Waldstein Sonata
+Op. 54 | Piano Sonata No. 22 in F major | 1804
+Op. 57 | Piano Sonata No. 23 in F minor | 1805 | | Appassionata Sonata
+Op. 78 | Piano Sonata No. 24 in F-sharp major | 1809 | | À Thérèse
+Op. 79 | Piano Sonata No. 25 in G major | 1809 | | Cuckoo; Sonatina
+Op. 81a | Piano Sonata No. 26 in E-flat major | 1810 | | Les Adieux Sonata; Das Lebewohl
+Op. 90 | Piano Sonata No. 27 in E minor | 1814
+Op. 101 | Piano Sonata No. 28 in A major | 1816
+Op. 106 | Piano Sonata No. 29 in B-flat major | 1818 | | Hammerklavier Sonata
+Op. 109 | Piano Sonata No. 30 in E major | 1820
+Op. 110 | Piano Sonata No. 31 in A-flat major | 1821
+Op. 111 | Piano Sonata No. 32 in C minor | 1822
+## - | | piece
+WoO 59 | Bagatelle No. 25 in A minor | 1810 | bagatelle | Für Elise
+Op. 129 | Rondo a capriccio in G major | 1795 | rondo | Rage Over a Lost Penny; Die Wut über den verlorenen Groschen
+Op. 33 | Seven Bagatelles | 1802 | bagatelle
+Op. 119 | Eleven Bagatelles | 1822 | bagatelle
+Op. 126 | Six Bagatelles | 1824 | bagatelle
+WoO 57 | Andante favori in F major | 1803 | piece | Andante favori
+WoO 80 | 32 Variations in C minor | 1806 | variations
+Op. 35 | Eroica Variations in E-flat major | 1802 | variations | Eroica Variations
+Op. 120 | Diabelli Variations in C major | 1823 | variations | 33 Variations on a Waltz by Diabelli
+## - | | concerto
+Op. 15 | Piano Concerto No. 1 in C major | 1795
+Op. 19 | Piano Concerto No. 2 in B-flat major | 1795
+Op. 37 | Piano Concerto No. 3 in C minor | 1800
+Op. 58 | Piano Concerto No. 4 in G major | 1806
+Op. 73 | Piano Concerto No. 5 in E-flat major | 1809 | | Emperor Concerto
+Op. 80 | Choral Fantasy in C minor | 1808 | | +Fantasia for piano, chorus and orchestra
+
+@ Johann Nepomuk Hummel
+## - | | concerto
+Op. 85 | Piano Concerto in A minor | 1816
+Op. 89 | Piano Concerto in B minor | 1819
+## - | | piece
+Op. 11 | Rondo in E-flat major | 1804 | rondo | Rondo favori
+Op. 81 | Piano Sonata in F-sharp minor | 1819 | sonata
+
+@ Carl Maria von Weber
+## - | | piece
+Op. 65 | Invitation to the Dance in D-flat major | 1819 | dance | Aufforderung zum Tanz
+Op. 24 | Piano Sonata No. 1 in C major | 1812 | sonata | Perpetuum mobile
+Op. 79 | Konzertstück in F minor | 1821 | concerto
+
+@ John Field
+## Nocturnes | | nocturne
+- | Nocturne No. 1 in E-flat major | 1812
+- | Nocturne No. 2 in C minor | 1812
+- | Nocturne No. 4 in A major | 1817
+- | Nocturne No. 5 in B-flat major | 1817
+## - | | concerto
+- | Piano Concerto No. 2 in A-flat major | 1811
+
+# additions after the Wikidata gap report
+@ Johann Sebastian Bach
+## - | | fugue
+BWV 1080 | The Art of Fugue in D minor | 1742 | | Die Kunst der Fuge
+BWV 933–938 | Six Little Preludes | 1720 | prelude
+@ Domenico Scarlatti
+## - | | sonata
+K. 30 | Sonata in G minor | 1739 | | Cat's Fugue
+@ Wolfgang Amadeus Mozart
+## - | | concerto
+K. 175 | Piano Concerto No. 5 in D major | 1773
+K. 238 | Piano Concerto No. 6 in B-flat major | 1776
+K. 242 | Concerto for Three Pianos No. 7 in F major | 1776 | | Lodron Concerto
+K. 246 | Piano Concerto No. 8 in C major | 1776 | | Lützow
+K. 413 | Piano Concerto No. 11 in F major | 1782
+K. 415 | Piano Concerto No. 13 in C major | 1782
+K. 449 | Piano Concerto No. 14 in E-flat major | 1784
+K. 450 | Piano Concerto No. 15 in B-flat major | 1784
+K. 451 | Piano Concerto No. 16 in D major | 1784
+K. 386 | Rondo in A major for piano and orchestra | 1782
+## - | | piece
+K. 574 | Gigue in G major | 1789 | dance | Leipzig Gigue
+K. 455 | Ten Variations on "Unser dummer Pöbel meint" in G major | 1784 | variations

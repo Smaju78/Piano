@@ -1,0 +1,3401 @@
+{
+ "haydn-hob-xvi-50": {
+  "mbid": "ea1b28a6-116e-43b0-93f0-f57ddab5ea6c",
+  "title": "Piano Sonata no. 60 in C major, Hob. XVI:50",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Allegro molto"
+  ]
+ },
+ "beethoven-op-27-no-2": {
+  "mbid": "d754d820-2036-39f6-9fd5-636cda85b3b2",
+  "title": "Sonata for Piano no. 14 in C‐sharp minor, op. 27 no. 2 “Moonlight”",
+  "movements": [
+   "I. Adagio sostenuto",
+   "II. Allegretto",
+   "III. Presto agitato"
+  ]
+ },
+ "chopin-op-35": {
+  "mbid": "7f3f7fdf-6a54-3f28-ba5c-765dbe3d689f",
+  "title": "Sonata for Piano no. 2 in B‐flat minor, op. 35 “Funeral March”",
+  "movements": [
+   "I. Grave – Doppio movimento",
+   "II. Scherzo",
+   "III. Marche funèbre. Lento",
+   "IV. Finale. Presto"
+  ]
+ },
+ "schumann-op-15": {
+  "mbid": "a3f0f22c-d4d1-44ea-994b-fda4594f2af0",
+  "title": "Kinderszenen, op. 15",
+  "movements": [
+   "No. 1. Von fremden Ländern und Menschen",
+   "No. 2. Kuriose Geschichte",
+   "No. 3. Hasche-Mann",
+   "No. 4. Bittendes Kind",
+   "No. 5. Glückes genug",
+   "No. 6. Wichtige Begebenheit",
+   "No. 7. Träumerei",
+   "No. 8. Am Kamin",
+   "No. 9. Ritter vom Steckenpferd",
+   "No. 10. Fast zu ernst",
+   "No. 11. Fürchtenmachen",
+   "No. 12. Kind im Einschlummern",
+   "No. 13. Der Dichter spricht"
+  ]
+ },
+ "mussorgsky-pictures-at-an-exhibition": {
+  "mbid": "861ab5cb-e8b0-4818-8a80-dd848fdd610f",
+  "title": "Pictures at an Exhibition",
+  "movements": [
+   "Promenade (1st)",
+   "No. 1 “Gnomus”",
+   "[Untitled] (Interlude, Promenade theme, 1st)",
+   "No. 2 “Il vecchio castello”",
+   "[Untitled] (Interlude, Promenade theme, 2nd)",
+   "No. 3 “Tuileries” (Dispute d’enfants après jeux)",
+   "No. 4 “Bydło”",
+   "[Untitled] (Interlude, Promenade theme, 3rd)",
+   "No. 5 \"Ballet of the Chickens in their Eggs\"",
+   "No. 6 “Samuel” Goldenberg und “Schmuÿle”",
+   "Promenade (2nd)",
+   "No. 7 “Limoges”, le marché (La grande nouvelle)",
+   "No. 8a “Catacombæ” (Sepulcrum romanum)",
+   "No. 8b “Cum mortuis in lingua mortua”",
+   "No. 9 “Избушка на курьихъ ножкахъ” (Баба-Яга) [Izbushka na kuryikh nozhkakh (Baba-Yagá)]",
+   "No. 10 \"The Great Gate at Kiev\""
+  ]
+ },
+ "rachmaninoff-op-18": {
+  "mbid": "aca4167a-b927-41f5-a839-99cf9ad476cc",
+  "title": "Piano Concerto no. 2 in C minor, op. 18",
+  "movements": [
+   "I. Moderato",
+   "II. Adagio sostenuto",
+   "III. Allegro scherzando"
+  ]
+ },
+ "ravel-m-55": {
+  "mbid": "ecccf74c-4bd0-402c-8b7d-e3a4dd47ae08",
+  "title": "Gaspard de la nuit (Trois poèmes pour piano d'après Aloysius Bertrand)",
+  "movements": [
+   "I. Ondine",
+   "II. Le Gibet",
+   "III. Scarbo"
+  ]
+ },
+ "bach-bwv-826": {
+  "mbid": "24e90057-a120-4d28-af83-fb8236c45982",
+  "title": "Partita no. 2 in C minor, BWV 826",
+  "movements": [
+   "I. Sinfonia",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Rondeaux",
+   "VI. Capriccio"
+  ]
+ },
+ "schubert-d-960": {
+  "mbid": "9b2804ae-3991-4ad0-bbee-98d235c8a185",
+  "title": "Sonata for Piano no. 21 in B-flat major, D. 960",
+  "movements": [
+   "I. Molto moderato",
+   "II. Andante sostenuto",
+   "III. Scherzo. Allegro vivace con delicatezza",
+   "IV. Allegro ma non troppo"
+  ]
+ },
+ "bach-bwv-806": {
+  "mbid": "eeaadf72-ce0a-482e-a0c1-a779cf8345f8",
+  "title": "English Suite No. 1 in A Major, BWV 806",
+  "movements": [
+   "I. Prelude",
+   "II. Allemande",
+   "III. Courante I",
+   "IV. Courante II",
+   "IV. Double I",
+   "IV. Double II",
+   "V. Sarabande",
+   "VI. Bourrée I - VII. Bourrée II",
+   "VIII. Gigue"
+  ]
+ },
+ "bach-bwv-807": {
+  "mbid": "49f0be68-0bfc-4766-ad14-a26f3a647c62",
+  "title": "English Suite No. 2 in A Minor, BWV 807",
+  "movements": [
+   "I. Prelude",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Bourree I - II",
+   "VI. Gigue"
+  ]
+ },
+ "bach-bwv-808": {
+  "mbid": "afd1a98a-43fb-49fe-b716-01612b98297f",
+  "title": "Englische Suite Nr. 3 g-Moll, BWV 808",
+  "movements": [
+   "I. Prélude",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Gavotte I",
+   "VI. Gavotte II ou la Musette - Gavotte I da capo",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-825": {
+  "mbid": "ddd67114-e7d5-4b79-bffc-38d6e9ea4ca9",
+  "title": "Partita no. 1 in B-flat major, BWV 825",
+  "movements": [
+   "I. Prelude",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Menuet I",
+   "VI. Menuet II",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-827": {
+  "mbid": "55ab379b-1a4c-4d31-9ed0-e60b4787a79b",
+  "title": "Partita no. 3 in A minor, BWV 827",
+  "movements": [
+   "I. Fantaisie",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Burlesca",
+   "VI. Scherzo",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-828": {
+  "mbid": "d8f36fa6-3653-41b6-97f2-5d3378fc5bb1",
+  "title": "Partita no. 4 in D major, BWV 828",
+  "movements": [
+   "I. Overture",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Aria",
+   "V. Sarabande",
+   "VI. Menuet",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-829": {
+  "mbid": "10b0f6d8-acc5-46c8-8a5a-96077b790e77",
+  "title": "Partita no. 5 in G major, BWV 829",
+  "movements": [
+   "I. Praeambulum",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Tempo di Minuetto",
+   "VI. Passepied",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-830": {
+  "mbid": "13f9f078-8ce3-4b66-be68-7b6815d4fa08",
+  "title": "Partita no. 6 in E minor, BWV 830",
+  "movements": [
+   "I. Toccata",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Air",
+   "V. Sarabande",
+   "VI. Tempo di Gavotta",
+   "VII. Gigue"
+  ]
+ },
+ "bach-bwv-912": {
+  "mbid": "00d4276d-a706-309d-a624-4ba1a85d447c",
+  "title": "Toccata in D major, BWV 912",
+  "movements": [
+   "I. Presto - Allegro",
+   "II. Adagio - Fuga",
+   "III. Con discrezione - Fuga"
+  ]
+ },
+ "bach-bwv-914": {
+  "mbid": "a86749bc-d939-3a92-98c7-b561901ad48f",
+  "title": "Toccata in E minor, BWV 914",
+  "movements": [
+   "I.",
+   "II. Un poco allegro",
+   "III. Adagio",
+   "IV. Fuga a 3. Allegro"
+  ]
+ },
+ "bach-bwv-915": {
+  "mbid": "7404cd22-591c-3790-baa8-a0d16567b3ae",
+  "title": "Toccata in G minor, BWV 915",
+  "movements": [
+   "I. Toccata",
+   "II. Fugue"
+  ]
+ },
+ "bach-bwv-916": {
+  "mbid": "3e14c8a3-287a-39b5-87c6-f3177444d366",
+  "title": "Toccata G-Dur, BWV 916",
+  "movements": [
+   "I. Presto",
+   "II. Adagio",
+   "III. Allegro"
+  ]
+ },
+ "bach-bwv-831": {
+  "mbid": "13c7fae5-83ee-4a34-be2f-efbf7a0e6639",
+  "title": "Ouvertüre nach französischer Art h-Moll, BWV 831",
+  "movements": [
+   "I. Ouverture",
+   "II. Courante",
+   "III. Gavotte I",
+   "IV. Gavotte II",
+   "V. Passepied I",
+   "VI. Passepied II",
+   "VII. Sarabande",
+   "VIII. Bourree I",
+   "IX. Bourree II",
+   "X. Gigue",
+   "XI. Echo"
+  ]
+ },
+ "bach-bwv-971": {
+  "mbid": "97a2c256-65d3-4da7-a633-6624261a7cf4",
+  "title": "Italienisches Konzert F-Dur, BWV 971",
+  "movements": [
+   "I. [Allegro]",
+   "II. Andante",
+   "III. Presto"
+  ]
+ },
+ "bach-bwv-988": {
+  "mbid": "1d51e560-2a59-4e97-8943-13052b6adc03",
+  "title": "Goldberg-Variationen, BWV 988",
+  "movements": [
+   "Aria",
+   "Variatio 1. a 1 Clav.",
+   "Variatio 2. a 1 Clav.",
+   "Variatio 3. Canone all Unisuono. a 1 Clav.",
+   "Variatio 4. a 1 Clav.",
+   "Variatio 5. a 1 ô vero 2 Clav.",
+   "Variatio 6. Canone alla Seconda. a 1 Clav.",
+   "Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga",
+   "Variatio 8. a 2 Clav.",
+   "Variatio 9. Canone alla Terza. a 1 Clav.",
+   "Variatio 10. Fughetta. a 1 Clav.",
+   "Variatio 11. a 2 Clav.",
+   "Variatio 12. Canone alla Quarta",
+   "Variatio 13. a 2 Clav.",
+   "Variatio 14. a 2 Clav.",
+   "Variatio 15. Canone alla Quinta. a 1 Clav. andante",
+   "Variatio 16. Ouverture. a 1 Clav.",
+   "Variatio 17. a 2 Clav.",
+   "Variatio 18. Canone alla Sexta. a 1 Clav.",
+   "Variatio 19. a 1 Clav.",
+   "Variatio 20. a 2 Clav.",
+   "Variatio 21. Canone alla Settima",
+   "Variatio 22. a 1 Clav. alla breve",
+   "Variatio 23. a 2 Clav.",
+   "Variatio 24. Canone all'Ottava. a 1 Clav.",
+   "Variatio 25. a 2 Clav. adagio",
+   "Variatio 26. a 2 Clav.",
+   "Variatio 27. Canone alla Nona. a 2 Clav.",
+   "Variatio 28. a 2 Clav.",
+   "Variatio 29. a 1 ô vero 2 Clav.",
+   "Variatio 30. a 1 Clav. Quodlibet",
+   "Aria da capo"
+  ]
+ },
+ "bach-bwv-903": {
+  "mbid": "7031bd90-b425-421f-b41d-211a76e56359",
+  "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903",
+  "movements": [
+   "I. Fantasie",
+   "II. Fuge"
+  ]
+ },
+ "bach-bwv-1052": {
+  "mbid": "e74a3a95-8008-43e3-939d-50d6bc9a221b",
+  "title": "Keyboard Concerto in D minor, BWV 1052",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Allegro"
+  ]
+ },
+ "bach-bwv-1053": {
+  "mbid": "e7d959a9-0d2d-4198-866d-062357d5d2e5",
+  "title": "Keyboard Concerto no. 2 in E major, BWV 1053",
+  "movements": [
+   "I. Allegro",
+   "II. Siciliano",
+   "III. Allegro"
+  ]
+ },
+ "bach-bwv-1054": {
+  "mbid": "25821d13-6209-4519-8db9-8eca7be5752b",
+  "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio e piano sempre",
+   "III. Allegro"
+  ]
+ },
+ "bach-bwv-1055": {
+  "mbid": "8faf9f08-3f67-4029-8322-b9dc5ce1f098",
+  "title": "Keyboard Concerto no. 4 in A major, BWV 1055",
+  "movements": [
+   "I. Allegro",
+   "II. Larghetto",
+   "III. Allegro ma non tanto"
+  ]
+ },
+ "bach-bwv-1056": {
+  "mbid": "7f5f3f86-b23f-4aea-bcf0-5d0c34bb9d9c",
+  "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056",
+  "movements": [
+   "I. Allegro",
+   "II. Largo",
+   "III. Presto"
+  ]
+ },
+ "bach-bwv-1058": {
+  "mbid": "5f8ebda6-d4f3-4d8b-a66e-897708d13fbb",
+  "title": "Concerto for Keyboard and Orchestra no. 7 in G minor, BWV 1058",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegro assai"
+  ]
+ },
+ "handel-hwv-437": {
+  "mbid": "ae049061-2f11-45f1-8797-440927c15f3b",
+  "title": "Suite de pièce in D minor, Vol. 2 no. 4, HWV 437",
+  "movements": [
+   "I. Prelude",
+   "II. Allemande",
+   "III. Courante",
+   "IV. Sarabande",
+   "V. Gigue"
+  ]
+ },
+ "haydn-hob-xvi-20": {
+  "mbid": "0a1f0af1-b031-4110-8b3f-f9805b522158",
+  "title": "Piano Sonata no. 33 in C minor, Hob. XVI:20",
+  "movements": [
+   "I. Moderato",
+   "II. Andante con moto",
+   "III. Finale: Allegro"
+  ]
+ },
+ "haydn-hob-xvi-23": {
+  "mbid": "9ba063e6-44a4-4e2d-8f99-50e4105a8f67",
+  "title": "Sonata no. 38 in F major, Hob. XVI:23",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Adagio",
+   "III. Finale: Presto"
+  ]
+ },
+ "haydn-hob-xvi-32": {
+  "mbid": "bf814431-637a-4d35-b8dd-fa69275e35f9",
+  "title": "Piano Sonata no. 47 in B minor, Hob. XVI:32",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Menuet",
+   "III. Finale: Presto"
+  ]
+ },
+ "haydn-hob-xvi-34": {
+  "mbid": "0708310e-5d47-48f8-bd14-d8cb956fc519",
+  "title": "Piano Sonata no. 53 in E minor, Hob. XVI:34",
+  "movements": [
+   "I. Presto",
+   "II. Adagio",
+   "III. Vivace molto, innocentemente"
+  ]
+ },
+ "haydn-hob-xvi-35": {
+  "mbid": "9798d00a-fd49-47b5-9b12-4af144fa0166",
+  "title": "Piano Sonata no. 48 in C major, Hob. XVI:35",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Adagio",
+   "III. Finale: Allegro"
+  ]
+ },
+ "haydn-hob-xvi-37": {
+  "mbid": "394cd887-b3a5-49cd-b712-77c5a6ae3361",
+  "title": "Piano Sonata no. 50 in D major, Hob. XVI:37",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Largo e sostenuto",
+   "III. Finale: Presto ma non troppo"
+  ]
+ },
+ "haydn-hob-xvi-48": {
+  "mbid": "3086f611-bc44-4159-a4ef-822a4464e23a",
+  "title": "Piano Sonata no. 58 in C major, Hob. XVI:48",
+  "movements": [
+   "I. Andante con espressione",
+   "II. Rondo: Presto"
+  ]
+ },
+ "haydn-hob-xvi-49": {
+  "mbid": "bf475d51-1d00-4f59-8c39-03114008de44",
+  "title": "Piano Sonata no. 59 in E-flat major, Hob. XVI:49",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio e cantabile",
+   "III. Finale: Tempo di Minuet"
+  ]
+ },
+ "haydn-hob-xvi-52": {
+  "mbid": "19458141-f419-4f39-83f0-544835869584",
+  "title": "Piano Sonata no. 62 in E-flat major, Hob. XVI:52",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Finale: Presto"
+  ]
+ },
+ "mozart-k-279": {
+  "mbid": "62c0bdd8-46ca-4e17-879c-443ad9fd599e",
+  "title": "Sonata for Piano no. 1 in C major, K. 189d/279",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegro"
+  ]
+ },
+ "mozart-k-280": {
+  "mbid": "52912ca4-855d-451d-9abb-d3e3a353e6d2",
+  "title": "Sonata for Piano no. 2 in F major, K. 189e/280",
+  "movements": [
+   "I. Allegro assai",
+   "II. Adagio",
+   "III. Presto"
+  ]
+ },
+ "mozart-k-281": {
+  "mbid": "4495fb34-25b6-48f9-9a53-e2caa9ac8a2c",
+  "title": "Sonata for Piano no. 3 in B-flat major, K. 189f/281",
+  "movements": [
+   "I. Allegro",
+   "II. Andante amoroso",
+   "III. Rondeau. Allegro"
+  ]
+ },
+ "mozart-k-282": {
+  "mbid": "97cc4159-c124-48a6-92ae-d05e8175cb2b",
+  "title": "Sonata for Piano no. 4 in E-flat major, K. 189g/282",
+  "movements": [
+   "I. Adagio",
+   "II. Minuetto I & II",
+   "III. Allegro"
+  ]
+ },
+ "mozart-k-283": {
+  "mbid": "cb47a22e-9fc6-4ab6-9be2-445113373353",
+  "title": "Sonata for Piano no. 5 in G major, K. 189h/283",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Presto"
+  ]
+ },
+ "mozart-k-284": {
+  "mbid": "28017093-d48e-43b9-a908-0e893a1e867e",
+  "title": "Sonata for Piano no. 6 in D major, K. 205b/284 \"Dürnitz\"",
+  "movements": [
+   "I. Allegro",
+   "II. Rondeau en polonaise. Andante",
+   "III. Tema (Andante) and 12 Variations"
+  ]
+ },
+ "mozart-k-309": {
+  "mbid": "645a1b04-b378-4883-91a6-2627553cd365",
+  "title": "Sonata for Piano no. 7 in C major, K. 284b/309",
+  "movements": [
+   "I. Allegro con spirito",
+   "II. Andante un poco adagio",
+   "III. Rondeau. Allegretto grazioso"
+  ]
+ },
+ "mozart-k-311": {
+  "mbid": "bd91e456-789c-4596-bedb-2259f113e3aa",
+  "title": "Sonata for Piano no. 9 in D major, K. 284c/311",
+  "movements": [
+   "I. Allegro con spirito",
+   "II. Andante con espressione",
+   "III. Rondeau. Allegro"
+  ]
+ },
+ "mozart-k-330": {
+  "mbid": "70d1fa96-da75-4ec2-97e4-759ff26eb881",
+  "title": "Sonata for Piano no. 10 in C major, K. 300h/330",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante cantabile",
+   "III. Allegretto"
+  ]
+ },
+ "mozart-k-331": {
+  "mbid": "a488a020-884d-3349-a7e7-18993ffed13e",
+  "title": "Sonata for Piano no. 11 in A major, K. 300i/331 “Alla Turca”",
+  "movements": [
+   "I. Tema con variazioni. Andante grazioso",
+   "II. Minuetto",
+   "III. Rondo alla Turca. Allegretto"
+  ]
+ },
+ "mozart-k-332": {
+  "mbid": "5b587196-bd21-410a-999e-881073dea33b",
+  "title": "Sonata for Piano no. 12 in F major, K. 300k/332",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Allegro assai"
+  ]
+ },
+ "mozart-k-333": {
+  "mbid": "5057d730-7733-4753-aa0f-07498a0c37f0",
+  "title": "Sonata for Piano no. 13 in B-flat major, K. 315c/333",
+  "movements": [
+   "I. Allegro",
+   "II. Andante cantabile",
+   "III. Allegretto grazioso"
+  ]
+ },
+ "mozart-k-457": {
+  "mbid": "c4762043-b408-4991-947e-d5340a9080d6",
+  "title": "Sonata for Piano no. 14 in C minor, K. 457",
+  "movements": [
+   "I. Molto allegro",
+   "II. Adagio",
+   "III. Allegro assai"
+  ]
+ },
+ "mozart-k-533": {
+  "mbid": "11364bbd-1258-4d06-b4f6-3262e4a67000",
+  "title": "Sonata for Piano no. 15 in F major, K. 533",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Rondeau"
+  ]
+ },
+ "mozart-k-545": {
+  "mbid": "a2ad223d-d73b-3775-9580-fd25b4d986e1",
+  "title": "Sonata for Piano no. 16 in C major, K. 545 \"Sonata facile\"",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Rondo"
+  ]
+ },
+ "mozart-k-570": {
+  "mbid": "a484f227-9918-4c5e-85fb-1204db0b7af2",
+  "title": "Sonata for Piano no. 17 in B-flat major, K. 570",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Allegretto"
+  ]
+ },
+ "mozart-k-576": {
+  "mbid": "99538f90-2ca3-4b34-b6b9-f39ca0937066",
+  "title": "Sonata for Piano no. 18 in D major, K. 576 \"Trumpet\", \"Hunt\"",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Allegretto"
+  ]
+ },
+ "mozart-k-475": {
+  "mbid": "95557a03-c668-3619-ab8f-74a141f277dc",
+  "title": "Fantasia no. 4 in C minor, K. 475",
+  "movements": [
+   "I. Adagio",
+   "II. Allegro",
+   "III. Andantino",
+   "IV. Più Allegro",
+   "V. Tempo Primo"
+  ]
+ },
+ "mozart-k-573": {
+  "mbid": "6445acb3-91f5-420b-8b6e-9ddc3e282a11",
+  "title": "9 Variations for Piano in D major on a Menuet by Duport, K. 573",
+  "movements": [
+   "Thema",
+   "Var. I",
+   "Var. II",
+   "Var. III",
+   "Var. IV",
+   "Var. V",
+   "Var. VI",
+   "Var. VII",
+   "Var. VIII",
+   "Var. IX"
+  ]
+ },
+ "mozart-k-271": {
+  "mbid": "bcd1c23c-45ff-4437-9a21-a545b631422a",
+  "title": "Concerto for Piano no. 9 in E-flat major, K. 271 “Jenamy”",
+  "movements": [
+   "I. Allegro",
+   "II. Andantino",
+   "III. Rondeau. Presto – Adagio & Menuetto. Cantabile – Tempo primo"
+  ]
+ },
+ "mozart-k-365": {
+  "mbid": "f49b000a-eb6d-3341-b077-9cf9269e8f65",
+  "title": "Concerto for 2 Pianos & Orchestra no. 10 in E-flat major, K. 316a/365",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Rondo. Allegro"
+  ]
+ },
+ "mozart-k-414": {
+  "mbid": "da9ed009-49bc-4386-9086-2808e72af9e4",
+  "title": "Concerto for Piano no. 12 in A major, K. 385p / K3 386a / KV 414",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Rondo. Allegretto"
+  ]
+ },
+ "mozart-k-453": {
+  "mbid": "24f76afe-b193-3dc6-a306-35af6788727f",
+  "title": "Concerto for Piano no. 17 in G major, K. 453 \"Second Ployer\"",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegretto & Finale. Presto"
+  ]
+ },
+ "mozart-k-456": {
+  "mbid": "1547d657-81d3-4ba3-b1b4-da44f7695e2a",
+  "title": "Concerto for Piano no. 18 in B-flat major, K. 456 \"Paradis\"",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Andante un poco sostenuto",
+   "III. Allegro vivace"
+  ]
+ },
+ "mozart-k-459": {
+  "mbid": "1293f1f1-97bd-448e-83cc-954e2b5bb791",
+  "title": "Concerto for Piano and Orchestra no. 19 in F major, K. 459",
+  "movements": [
+   "I. Allegro",
+   "II. Allegretto",
+   "III. Allegro assai"
+  ]
+ },
+ "mozart-k-466": {
+  "mbid": "63ec17bb-39b9-344c-a006-3c30863c25a7",
+  "title": "Concerto for Piano no. 20 in D minor, K. 466",
+  "movements": [
+   "I. Allegro",
+   "II. Romanze",
+   "III. Rondo. Allegro assai"
+  ]
+ },
+ "mozart-k-467": {
+  "mbid": "f210c793-f668-413c-8821-3628b3c55483",
+  "title": "Concerto for Piano no. 21 in C major, K. 467",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegro vivace assai"
+  ]
+ },
+ "mozart-k-482": {
+  "mbid": "ea68754a-c6dc-3a27-b0cd-c632d5d3a6ab",
+  "title": "Concerto for Piano no. 22 in E-flat major, K. 482",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegro"
+  ]
+ },
+ "mozart-k-488": {
+  "mbid": "7245c9c6-aece-445f-8d50-0045f52fb92a",
+  "title": "Concerto for Piano and Orchestra no. 23 in A major, K. 488",
+  "movements": [
+   "I. Allegro",
+   "II. Andante (Adagio)",
+   "III. Allegro assai"
+  ]
+ },
+ "mozart-k-491": {
+  "mbid": "c225a2bb-ee9f-4ea5-9a00-f8a4259e8263",
+  "title": "Concerto for Piano no. 24 in C minor, K. 491",
+  "movements": [
+   "I. Allegro",
+   "II. Larghetto",
+   "III. Allegretto"
+  ]
+ },
+ "mozart-k-503": {
+  "mbid": "55831a35-6dd0-43dc-bdf4-29d075b211db",
+  "title": "Concerto for Piano and Orchestra no. 25 in C major, K. 503",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Andante",
+   "III. (Allegretto)"
+  ]
+ },
+ "mozart-k-537": {
+  "mbid": "1cc7ad76-726a-35af-921e-301d673cf0e8",
+  "title": "Concerto for Piano no. 26 in D major, K. 537 “Coronation”",
+  "movements": [
+   "I. Allegro",
+   "II. Larghetto",
+   "III. Allegretto"
+  ]
+ },
+ "mozart-k-595": {
+  "mbid": "4469dadb-2ffb-48b7-aef0-881311fdd7c9",
+  "title": "Concerto for Piano no. 27 in B-flat major, K. 595",
+  "movements": [
+   "I. Allegro",
+   "II. Larghetto",
+   "III. Rondo. Allegro"
+  ]
+ },
+ "mozart-k-175": {
+  "mbid": "d0e8a4dc-6327-4273-b3b7-4f2b34827815",
+  "title": "Concerto for Piano and Orchestra no. 5 in D major, K. 175",
+  "movements": [
+   "I. Allegro",
+   "II. Andante ma un poco adagio",
+   "III. Allegro"
+  ]
+ },
+ "mozart-k-238": {
+  "mbid": "4d6b15ec-a109-4e80-b9ca-8d16c1feae4c",
+  "title": "Concerto for Piano and Orchestra no. 6 in B-flat major, K. 238",
+  "movements": [
+   "I. Allegro aperto",
+   "II. Andante un poco adagio",
+   "III. Rondeau. Allegro"
+  ]
+ },
+ "mozart-k-242": {
+  "mbid": "4110deb1-93e0-4637-949e-cdc68c139f67",
+  "title": "Concerto for 3 (or 2) Pianos and Orchestra no. 7 in F major, K. 242 “Lodron”",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Rondo. Tempo di minuetto"
+  ]
+ },
+ "mozart-k-246": {
+  "mbid": "36068d97-bf2d-4efc-a8ae-7bc07b37fc17",
+  "title": "Concerto for Piano and Orchestra no. 8 in C major, K. 246 “Lutzow”",
+  "movements": [
+   "I. Allegro aperto",
+   "II. Andante",
+   "III. Rondeau. Tempo di menuetto"
+  ]
+ },
+ "mozart-k-413": {
+  "mbid": "54afb6b8-423b-4d91-a54c-65d972c57ba9",
+  "title": "Concerto for Piano no. 11 in F major, K. 387a/413",
+  "movements": [
+   "I. Allegro",
+   "II. Larghetto",
+   "III. Tempo di menuetto"
+  ]
+ },
+ "mozart-k-415": {
+  "mbid": "365d3420-2b07-4dd2-993e-c657648be572",
+  "title": "Concerto for Piano no. 13 in C major, K. 387b/415",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Rondeau. Allegro"
+  ]
+ },
+ "mozart-k-449": {
+  "mbid": "4a0c8736-b01c-4cd2-b485-b1cc32303ca6",
+  "title": "Concerto for Piano no. 14 in E‐flat major, K. 449 “First Ployer”",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Andantino",
+   "III. Allegro ma non troppo"
+  ]
+ },
+ "mozart-k-450": {
+  "mbid": "cecf2988-d2c9-4216-b482-07b6481c9156",
+  "title": "Concerto for Piano and Orchestra no. 15 in B-flat major, K. 450",
+  "movements": [
+   "I. Allegro",
+   "II. [Andante]",
+   "III. Allegro"
+  ]
+ },
+ "mozart-k-451": {
+  "mbid": "80962aed-b2ee-483e-abc4-e2bad772c0b9",
+  "title": "Concerto for Piano no. 16 in D major, K. 451",
+  "movements": [
+   "I. Allegro assai",
+   "II. Andante",
+   "III. Rondo. Allegro di molto"
+  ]
+ },
+ "clementi-op-36": {
+  "mbid": "8277788d-de9c-4586-bbb3-d48b671304a8",
+  "title": "Six Sonatinas for the Piano, op. 36",
+  "movements": [
+   "Sonatina in C major, op. 36 no. 1",
+   "Sonatina in G major, op. 36 no. 2",
+   "Sonatina in C major, op. 36 no. 3",
+   "Sonatina in F major, op. 36 no. 4",
+   "Sonatina in G major, op. 36 no. 5",
+   "Sonatina in D major, op. 36 no. 6"
+  ]
+ },
+ "beethoven-op-2-no-1": {
+  "mbid": "d99b54dc-9a4c-4b34-ba9c-1223d7e0b1c5",
+  "title": "Sonata for Piano no. 1 in F minor, op. 2 no. 1",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Menuetto. Allegretto",
+   "IV. Prestissimo"
+  ]
+ },
+ "beethoven-op-2-no-2": {
+  "mbid": "2a2ed89a-05ea-4c0d-9833-8cd659d1bd20",
+  "title": "Sonata for Piano no. 2 in A major, op. 2 no. 2",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Largo appassionato",
+   "III. Scherzo. Allegretto",
+   "IV. Rondo. Grazioso"
+  ]
+ },
+ "beethoven-op-2-no-3": {
+  "mbid": "e4ad988b-b0b2-4c25-863b-e2b8e13c78d3",
+  "title": "Sonata for Piano no. 3 in C major, op. 2 no. 3",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Adagio",
+   "III. Scherzo. Allegro",
+   "IV. Allegro assai"
+  ]
+ },
+ "beethoven-op-7": {
+  "mbid": "f99c736a-9e65-4c13-813a-51776987993d",
+  "title": "Sonata for Piano no. 4 in E‐flat major, op. 7",
+  "movements": [
+   "I. Allegro molto e con brio",
+   "II. Largo, con gran espressione",
+   "III. Allegro",
+   "IV. Rondo. Poco allegretto e grazioso"
+  ]
+ },
+ "beethoven-op-10-no-1": {
+  "mbid": "0aeaff78-1cc6-47e6-b0af-5250ef923974",
+  "title": "Sonata for Piano no. 5 in C minor, op. 10 no. 1",
+  "movements": [
+   "I. Allegro molto e con brio",
+   "II. Adagio molto",
+   "III. Prestissimo"
+  ]
+ },
+ "beethoven-op-10-no-2": {
+  "mbid": "5f914810-c6ef-47d1-b7fc-a0e61d5d98f5",
+  "title": "Sonata for Piano no. 6 in F major, op. 10 no. 2",
+  "movements": [
+   "I. Allegro",
+   "II. Allegretto",
+   "III. Presto"
+  ]
+ },
+ "beethoven-op-10-no-3": {
+  "mbid": "8e093609-d578-4fd6-a919-92962dc9899d",
+  "title": "Sonata for Piano no. 7 in D major, op. 10 no. 3",
+  "movements": [
+   "I. Presto",
+   "II. Largo e mesto",
+   "III. Menuetto. Allegro",
+   "IV. Rondo. Allegro"
+  ]
+ },
+ "beethoven-op-13": {
+  "mbid": "c366ec5b-9d61-3057-827c-afd61a237b23",
+  "title": "Sonata for Piano no. 8 in C minor, op. 13 “Pathétique”",
+  "movements": [
+   "I. Grave – Allegro di molto e con brio",
+   "II. Adagio cantabile",
+   "III. Rondo. Allegro"
+  ]
+ },
+ "beethoven-op-14-no-1": {
+  "mbid": "ee8cc1d1-eda4-4505-964f-ba5bce7d577c",
+  "title": "Sonata for Piano no. 9 in E major, op. 14 no. 1",
+  "movements": [
+   "I. Allegro",
+   "II. Allegretto",
+   "III. Rondo. Allegro comodo"
+  ]
+ },
+ "beethoven-op-14-no-2": {
+  "mbid": "bab36973-3546-4f24-8bc1-2c7bc3e14e83",
+  "title": "Sonata for Piano no. 10 in G major, op. 14 no. 2",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Scherzo. Allegro assai"
+  ]
+ },
+ "beethoven-op-22": {
+  "mbid": "94bc3c50-ea92-421f-b9a7-c9bc2b0b4695",
+  "title": "Sonata for Piano no. 11 in B-flat major, op. 22",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Adagio con molto espressione",
+   "III. Menuetto",
+   "IV. Rondo. Allegretto"
+  ]
+ },
+ "beethoven-op-26": {
+  "mbid": "bff859ad-5e24-4a7f-8717-855dfac72925",
+  "title": "Sonata for Piano no. 12 in A-flat major, op. 26 \"Funeral March\"",
+  "movements": [
+   "I. Andante con Variazioni",
+   "II. Scherzo. Allegro molto",
+   "III. Marcia funebre sulla morte d'un Eroe",
+   "IV. Allegro"
+  ]
+ },
+ "beethoven-op-27-no-1": {
+  "mbid": "98f63744-cec6-393a-8868-c5a0b6facbfe",
+  "title": "Sonata for Piano no. 13 in E-flat major, op. 27 no. 1",
+  "movements": [
+   "I. Andante",
+   "II. Allegro molto e vivace",
+   "III. Adagio con espressione",
+   "IV. Allegro vivace"
+  ]
+ },
+ "beethoven-op-28": {
+  "mbid": "85b66ee4-ada7-3256-8423-a48d849b9b55",
+  "title": "Sonata for Piano no. 15 in D major, op. 28 \"Pastorale\"",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Scherzo. Allegro vivace",
+   "IV. Rondo. Allegro ma non troppo"
+  ]
+ },
+ "beethoven-op-31-no-1": {
+  "mbid": "4e9f3cae-aebd-408e-9d12-6f86e39604d1",
+  "title": "Sonata for Piano no. 16 in G major, op. 31 no. 1",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Adagio grazioso",
+   "III. Rondo. Allegretto"
+  ]
+ },
+ "beethoven-op-31-no-2": {
+  "mbid": "3edecd40-7725-4037-ad2c-b4d34fe903d9",
+  "title": "Sonata for Piano no. 17 in D minor, op. 31 no. 2 \"Tempest\"",
+  "movements": [
+   "I. Largo - Allegro",
+   "II. Adagio",
+   "III. Allegretto"
+  ]
+ },
+ "beethoven-op-31-no-3": {
+  "mbid": "eab83ac8-7c6e-42f2-ab1a-f4f75418bd8e",
+  "title": "Sonata for Piano no. 18 in E-flat major, op. 31 no. 3",
+  "movements": [
+   "I. Allegro",
+   "II. Scherzo. Allegretto vivace",
+   "III. Minuetto. Moderato e grazioso",
+   "IV. Presto con fuoco"
+  ]
+ },
+ "beethoven-op-49-no-1": {
+  "mbid": "05ffeac8-0648-43b5-9a7b-ebfae308dada",
+  "title": "Sonata for Piano no. 19 in G minor, op. 49 no. 1",
+  "movements": [
+   "I. Andante",
+   "II. Rondo. Allegro"
+  ]
+ },
+ "beethoven-op-49-no-2": {
+  "mbid": "69f6660b-42e7-4aa4-94e6-ec358c79d0a1",
+  "title": "Sonata for Piano no. 20 in G major, op. 49 no. 2",
+  "movements": [
+   "I. Allegro ma non troppo",
+   "II. Tempo di menuetto"
+  ]
+ },
+ "beethoven-op-53": {
+  "mbid": "a3c9dc10-0f58-3fcd-9b9f-bd455e386941",
+  "title": "Sonata for Piano no. 21 in C major, op. 53 “Waldstein”",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Introduzione. Adagio molto",
+   "III. Rondo. Allegretto moderato - Prestissimo"
+  ]
+ },
+ "beethoven-op-54": {
+  "mbid": "4b943c15-b04f-4c37-b4e9-bdddc5471bd6",
+  "title": "Sonata for Piano no. 22 in F major, op. 54",
+  "movements": [
+   "I. Tempo di menuetto",
+   "II. Allegretto - Più allegro"
+  ]
+ },
+ "beethoven-op-57": {
+  "mbid": "88a8eaa9-d07b-3b9b-b284-72289e2eeb43",
+  "title": "Sonata for Piano no. 23 in F minor, op. 57 “Appassionata”",
+  "movements": [
+   "I. Allegro assai",
+   "II. Andante con moto",
+   "III. Allegro ma non troppo"
+  ]
+ },
+ "beethoven-op-78": {
+  "mbid": "47207de2-91f8-3cd3-a029-47ab5f12fd5c",
+  "title": "Sonata for Piano no. 24 in F-sharp major, op. 78 \"A Thérèse\"",
+  "movements": [
+   "I. Adagio cantabile - Allegro ma non troppo",
+   "II. Allegro vivace"
+  ]
+ },
+ "beethoven-op-79": {
+  "mbid": "318b575a-a5f8-3408-8ed5-0c5b85611b86",
+  "title": "Sonata for Piano no. 25 in G major, op. 79 \"Cuckoo\"",
+  "movements": [
+   "I. Presto alla tedesca",
+   "II. Andante espressivo",
+   "III. Vivace"
+  ]
+ },
+ "beethoven-op-81a": {
+  "mbid": "9406d239-0efc-40e5-be6c-fbb15a3a091f",
+  "title": "Sonata for Piano no. 26 in E‐flat major, op. 81a “Les Adieux”",
+  "movements": [
+   "I. Das Lebewohl. Adagio – Allegro “Les Adieux”",
+   "II. Die Abwesenheit. Andante espressivo “L’Absence”",
+   "III. Das Wiedersehn. Vivacissimamente “Le Retour”"
+  ]
+ },
+ "beethoven-op-90": {
+  "mbid": "fabb904b-bf7f-3698-8c1b-ce2923850e09",
+  "title": "Sonata for Piano no. 27 in E minor, op. 90",
+  "movements": [
+   "I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck",
+   "II. Nicht zu geschwind und sehr singbar vorzutragen"
+  ]
+ },
+ "beethoven-op-101": {
+  "mbid": "494b657c-aa57-4df6-a750-ee79ac323967",
+  "title": "Sonata for Piano no. 28 in A major, op. 101",
+  "movements": [
+   "I. Etwas lebhaft und mit der innigsten Empfindung. Allegretto ma non troppo",
+   "II. Lebhaft, marschmäßig. Vivace alla marcia",
+   "III. Langsam und sehnsuchtsvoll. Adagio, ma non troppo, con affetto",
+   "IV. Geschwind, doch nicht zu sehr und mit Entschlossenheit. Allegro"
+  ]
+ },
+ "beethoven-op-106": {
+  "mbid": "4a622b0d-b0c0-405e-b49e-05b70c108284",
+  "title": "Sonata for Piano no. 29 in B-flat major, op. 106 \"Hammer-Klavier\"",
+  "movements": [
+   "I. Allegro",
+   "II. Scherzo. Assai vivace",
+   "III. Adagio sostenuto. Appassionato e molto con sentimento",
+   "IV. Largo - Allegro risoluto"
+  ]
+ },
+ "beethoven-op-109": {
+  "mbid": "7405e6a1-130e-4c22-bc33-bcd43c560a55",
+  "title": "Sonata for Piano no. 30 in E major, op. 109",
+  "movements": [
+   "I. Vivace, ma non troppo",
+   "II. Prestissimo",
+   "III. Gesangvoll, mit innigster Empfindung. Andante molto cantabile ed espressivo"
+  ]
+ },
+ "beethoven-op-110": {
+  "mbid": "1c310018-3a56-400a-a6bb-ec0cbebe0545",
+  "title": "Sonata for Piano no. 31 in A-flat major, op. 110",
+  "movements": [
+   "I. Moderato cantabile molto espressivo",
+   "II. Allegro molto",
+   "III. Adagio, ma non troppo - Fuga. Allegro ma non troppo"
+  ]
+ },
+ "beethoven-op-111": {
+  "mbid": "1767f1b8-6374-3ad8-8772-3b5ebd40a53a",
+  "title": "Sonata for Piano no. 32 in C minor, op. 111",
+  "movements": [
+   "I. Maestoso – Allegro con brio ed appassionato",
+   "II. Arietta. Adagio molto semplice e cantabile"
+  ]
+ },
+ "beethoven-op-33": {
+  "mbid": "94a19e47-2c1d-425b-b4f0-63d62d5bf788",
+  "title": "7 Bagatelles, op. 33",
+  "movements": [
+   "No. 1 in E-flat major. Andante grazioso, quasi allegretto",
+   "No. 2 in C major. Scherzo. Allegro",
+   "No. 3 in F major. Allegretto",
+   "No. 4 in A major. Andante",
+   "No. 5 in C major. Allegro ma non troppo",
+   "No. 6 in D major. Allegretto, quasi andante (Con una certa espressione parlante)",
+   "No. 7 in A-flat major. Presto"
+  ]
+ },
+ "beethoven-op-119": {
+  "mbid": "80e8d310-4268-41fd-95e2-4e1c8fbb0090",
+  "title": "11 Bagatelles, op. 119",
+  "movements": [
+   "No. 1 in G minor: Allegretto",
+   "No. 2 in C major: Andante con moto",
+   "No. 3 in D major: à l’Allemande",
+   "No. 4 in A major: Andante cantabile",
+   "No. 5 in C minor: Risoluto",
+   "No. 6 in G major: Andante – Allegretto",
+   "No. 7 in C major: Allegro ma non troppo",
+   "No. 8 in C major: Moderato",
+   "No. 9 in A minor: Vivace moderato",
+   "No. 10 in A major: Allegramente",
+   "No. 11 in B‐flat major: Andante, ma non troppo"
+  ]
+ },
+ "beethoven-woo-80": {
+  "mbid": "508ec4b1-9549-38cd-a61e-1f0d120a6118",
+  "title": "32 Variations for Piano in C minor on an Original Theme, WoO 80",
+  "movements": [
+   "Tema. Allegretto",
+   "Variation 1",
+   "Variation 2",
+   "Variation 3",
+   "Variation 4",
+   "Variation 5",
+   "Variation 6",
+   "Variation 7",
+   "Variation 8",
+   "Variation 9. Espressivo",
+   "Variation 10",
+   "Variation 11",
+   "Variation 12. Maggiore",
+   "Variation 13",
+   "Variation 14",
+   "Variation 15",
+   "Variation 16",
+   "Variation 17. Minore",
+   "Variation 18",
+   "Variation 19",
+   "Variation 20",
+   "Variation 21",
+   "Variation 22",
+   "Variation 23",
+   "Variation 24",
+   "Variation 25. Leggieramente",
+   "Variation 26",
+   "Variation 27",
+   "Variation 28",
+   "Variation 29",
+   "Variation 30",
+   "Variation 31",
+   "Variation 32"
+  ]
+ },
+ "beethoven-op-35": {
+  "mbid": "1e8a2fc5-14a8-33f3-b2f3-7d4c79f43c8f",
+  "title": "15 Variations and a Fugue for Piano in E-flat major on an Original Theme, op. 35 \"Eroica Variations\"",
+  "movements": [
+   "Introduzione col basso del tema. Allegretto vivace",
+   "Tema",
+   "Var. I",
+   "Var. II",
+   "Var. III",
+   "Var. IV",
+   "Var. V",
+   "Var. VI",
+   "Var. VII. Canone all'ottava",
+   "Var. VIII",
+   "Var. IX",
+   "Var. X",
+   "Var. XI",
+   "Var. XII",
+   "Var. XIII",
+   "Var. XIV. Minore",
+   "Var. XV. Largo",
+   "Coda",
+   "Finale. Alla Fuga. Allegro con brio - Andante con moto"
+  ]
+ },
+ "beethoven-op-120": {
+  "mbid": "1c9f6dbc-ea30-4a2c-b775-db345d277d96",
+  "title": "33 Variations for Piano in C major on a Waltz by Anton Diabelli, op. 120",
+  "movements": [
+   "Tema. Vivace",
+   "Var. I. Alla marcia maestoso",
+   "Var. II. Poco allegro",
+   "Var. III. L’istesso tempo",
+   "Var. IV. Un poco più vivace",
+   "Var. V. Allegro vivace",
+   "Var. VI. Allegro ma non troppo e serioso",
+   "Var. VII. Un poco più allegro",
+   "Var. VIII. Poco vivace",
+   "Var. IX. Allegro pesante e risoluto",
+   "Var. X. Presto",
+   "Var. XI. Allegretto",
+   "Var. XII. Un poco più moto",
+   "Var. XIII. Vivace",
+   "Var. XIV. Grave e maestoso",
+   "Var. XV. Presto scherzando",
+   "Var. XVI. Allegro",
+   "Var. XVII. Allegro",
+   "Var. XVIII. Poco moderato",
+   "Var. XIX. Presto",
+   "Var. XX. Andante",
+   "Var. XXI. Allegro con brio",
+   "Var. XXII. Allegro molto",
+   "Var. XXIII. Allegro assai",
+   "Var. XXIV. Fughetta. Andante",
+   "Var. XXV. Allegro",
+   "Var. XXVI. Piacevole",
+   "Var. XXVII. Vivace",
+   "Var. XXVIII. Allegro",
+   "Var. XXIX. Adagio ma non troppo",
+   "Var. XXX. Andante, sempre cantabile",
+   "Var. XXXI. Largo, molto espressivo",
+   "Var. XXXII. Fuga. Allegro – Poco adagio",
+   "Var. XXXIII. Tempo di Menuetto moderato"
+  ]
+ },
+ "beethoven-op-15": {
+  "mbid": "cce0fdf5-ef20-40ee-8df8-1f22fb8a8ac0",
+  "title": "Concerto for Piano and Orchestra no. 1 in C major, op. 15",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Largo",
+   "III. Rondo. Allegro scherzando"
+  ]
+ },
+ "beethoven-op-19": {
+  "mbid": "198cb225-1307-4fcc-a868-050ae17761c9",
+  "title": "Concerto for Piano and Orchestra no. 2 in B-flat major, op. 19",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Adagio",
+   "III. Rondo. Molto allegro"
+  ]
+ },
+ "beethoven-op-37": {
+  "mbid": "82506d40-77ad-4aa7-9e3d-392d5cfb13c7",
+  "title": "Concerto for Piano and Orchestra no. 3 in C minor, op. 37",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Largo",
+   "III. Rondo. Allegro"
+  ]
+ },
+ "beethoven-op-58": {
+  "mbid": "2dd17c0c-8b35-41a3-b23d-e47786277fb4",
+  "title": "Concerto for Piano and Orchestra no. 4 in G major, op. 58",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante con moto",
+   "III. Rondo. Vivace"
+  ]
+ },
+ "beethoven-op-73": {
+  "mbid": "e5cfd8b5-74c2-3330-9ca4-42ecd22dffef",
+  "title": "Concerto for Piano and Orchestra no. 5 in E-flat major, op. 73 “Emperor”",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio un poco mosso",
+   "III. Rondo. Allegro"
+  ]
+ },
+ "beethoven-op-80": {
+  "mbid": "29d54cda-8a84-3e7a-9984-6085fec39624",
+  "title": "Fantasia for Piano, Chorus, and Orchestra in C minor, op. 80 “Choral Fantasy”",
+  "movements": [
+   "I. Adagio",
+   "II. Finale: Allegro – Meno allegro (Allegretto) – Allegro molto – Adagio ma non troppo – Marcia, assai vivace – Allegro – Allegretto ma non troppo quasi andante con moto »Schmeichelnd hold und liebliech klingen« – Presto"
+  ]
+ },
+ "hummel-op-85": {
+  "mbid": "8e37337c-fbba-48f5-9e16-4b60fd1e6260",
+  "title": "Piano Concerto no. 2 in A minor, op. 85",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Larghetto",
+   "III. Allegro moderato"
+  ]
+ },
+ "hummel-op-89": {
+  "mbid": "dae549fc-bb46-4b47-9c67-86f7ae101d10",
+  "title": "Piano Concerto no. 3 in B minor, op. 89",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Larghetto",
+   "III. Finale: Vivace"
+  ]
+ },
+ "hummel-op-81": {
+  "mbid": "576b6f63-91e8-4fb7-b627-dea8535ab62c",
+  "title": "Piano Sonata no. 5 in F-sharp minor, op. 81",
+  "movements": [
+   "I. Allegro",
+   "II. Largo con molto espressione",
+   "III. Finale: Vivace"
+  ]
+ },
+ "schubert-d-537": {
+  "mbid": "6b231ce0-5e45-4328-8f87-dab82c14c2f6",
+  "title": "Sonata for Piano no. 4 in A minor, op. 164, D. 537",
+  "movements": [
+   "I. Allegro ma non troppo",
+   "II. Allegretto quasi andantino",
+   "III. Allegro vivace"
+  ]
+ },
+ "schubert-d-664": {
+  "mbid": "813cd7d1-85f3-4c38-bc9f-83c3e81bd038",
+  "title": "Sonata for Piano no. 13 in A major, op. posth. 120, D. 664",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante",
+   "III. Allegro"
+  ]
+ },
+ "schubert-d-784": {
+  "mbid": "7455dc7d-b00e-47c1-8f54-0f5ac21e9a59",
+  "title": "Sonata for Piano no. 14 in A minor, op. 143, D. 784",
+  "movements": [
+   "I. Allegro giusto",
+   "II. Andante",
+   "III. Allegro vivace"
+  ]
+ },
+ "schubert-d-845": {
+  "mbid": "12b2dd39-728e-4b19-b206-dab05d4c421d",
+  "title": "Sonata for Piano no. 16 in A minor, op. 42, D. 845",
+  "movements": [
+   "I. Moderato",
+   "II. Andante poco mosso",
+   "III. Scherzo. Allegro vivace - Trio. Un poco più lento",
+   "IV. Rondo. Allegro vivace"
+  ]
+ },
+ "schubert-d-850": {
+  "mbid": "c046327a-365e-4097-960f-10fd30ed54a3",
+  "title": "Sonata for Piano no. 17 in D major, op. 53, D. 850 “Gasteiner”",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Con moto",
+   "III. Scherzo. Allegro vivace",
+   "IV. Rondo. Allegro moderato"
+  ]
+ },
+ "schubert-d-894": {
+  "mbid": "d0b81cac-8367-45bc-bccf-c2b7d3a42de2",
+  "title": "Sonata for Piano no. 18 in G major, op. 78, D. 894",
+  "movements": [
+   "I. Molto moderato e cantabile",
+   "II. Andante",
+   "III. Menuetto, allegro moderato",
+   "IV. Allegretto"
+  ]
+ },
+ "schubert-d-958": {
+  "mbid": "5860cd7d-cf07-48de-88f2-17177dd1ea7f",
+  "title": "Sonata for Piano no. 19 in C minor, D. 958",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Menuetto: Allegro – Trio",
+   "IV. Allegro"
+  ]
+ },
+ "schubert-d-959": {
+  "mbid": "c782e7e9-23c8-49e0-a5c9-9eed3696bdb8",
+  "title": "Sonata for Piano no. 20 in A major, D. 959",
+  "movements": [
+   "I. Allegro",
+   "II. Andantino",
+   "III. Scherzo. Allegro vivace",
+   "IV. Rondo. Allegretto"
+  ]
+ },
+ "schubert-d-760": {
+  "mbid": "40f46c9e-a64f-3e4e-bbdd-27a1ead8503a",
+  "title": "Fantasy in C major, D. 760 “Wanderer”",
+  "movements": [
+   "I. Allegro con fuoco ma non troppo",
+   "II. Adagio",
+   "III. Presto",
+   "IV. Allegro"
+  ]
+ },
+ "schubert-d-946": {
+  "mbid": "57082b35-5aee-4494-b422-b16cc9409ccf",
+  "title": "3 Klavierstücke, D. 946",
+  "movements": [
+   "Nr. 1 in es-Moll. Allegro assai",
+   "Nr. 2 in Es-Dur. Allegretto",
+   "Nr. 3 in C-Dur. Allegro"
+  ]
+ },
+ "schubert-d-568": {
+  "mbid": "3a711cc8-ba2f-4ae2-bfd9-51cc24a5c671",
+  "title": "Sonata for Piano no. 7 in E-flat major, op. posth. 122, D. 568",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante molto",
+   "III. Menuetto. Allegretto",
+   "IV. Allegro moderato"
+  ]
+ },
+ "schubert-d-840": {
+  "mbid": "faf31e79-ff5c-4b28-ab2b-0141f5574b9b",
+  "title": "Sonata for Piano no. 15 in C major, D. 840 \"Reliquie\"",
+  "movements": [
+   "I. Moderato",
+   "II. Andante",
+   "III. Menuetto. Allegretto",
+   "IV. Rondo. Allegro"
+  ]
+ },
+ "weber-op-24": {
+  "mbid": "b16834c3-00ee-409a-9b25-55748b139cc5",
+  "title": "Sonata for Piano no. 1 in C major, op. 24",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio",
+   "III. Menuetto",
+   "IV. Rondo. Presto"
+  ]
+ },
+ "weber-op-79": {
+  "mbid": "578ccd3a-15be-49b6-9556-5b06ed188695",
+  "title": "Konzertstück in F minor, op. 79",
+  "movements": [
+   "I. Larghetto affettuoso",
+   "II. Allegro passionato",
+   "III. Tempo di Marcia",
+   "IV. Più mosso - Presto giojoso"
+  ]
+ },
+ "field-piano-concerto-no-2-in-a-flat-major": {
+  "mbid": "1e2b1bad-0da3-489f-a7ba-ef9e4fb98fcb",
+  "title": "Piano Concerto no. 2 in A-flat major, H. 31",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Poco adagio",
+   "III. Moderato innocente"
+  ]
+ },
+ "mendelssohn-op-54": {
+  "mbid": "4bb2c66a-f87b-3479-989c-7e65468d3634",
+  "title": "Variations Sérieuses in D minor, op. 54",
+  "movements": [
+   "Tema, Andante sostenuto",
+   "Variation 1",
+   "Variation 2. Un poco più animato",
+   "Variation 3. Più animato",
+   "Variation 4. Sempre staccato e leggiero",
+   "Variation 5. Agitato. Legato ed espressivo",
+   "Variation 6. A tempo",
+   "Variation 7. Con fuoco",
+   "Variation 8. Allegro vivace",
+   "Variation 9",
+   "Variation 10. Moderato",
+   "Variation 11. Cantabile",
+   "Variation 12. Tempo del tema",
+   "Variation 13. Sempre assai leggiero. Sempre assai marcato",
+   "Variation 14. Adagio",
+   "Variation 15. Poco a poco più agitato",
+   "Variation 16. Allegro vivace",
+   "Variation 17"
+  ]
+ },
+ "mendelssohn-op-28": {
+  "mbid": "c7a2fd28-9036-4d91-a0b8-1522455db535",
+  "title": "Fantasy in F-sharp minor, op. 28",
+  "movements": [
+   "I. Con moto agitato",
+   "II. Allegro con moto",
+   "III. Presto"
+  ]
+ },
+ "mendelssohn-op-25": {
+  "mbid": "16dea66a-88e8-43f6-a091-41800a2acc45",
+  "title": "Piano Concerto no. 1 in G minor, op. 25",
+  "movements": [
+   "I. Molto allegro con fuoco",
+   "II. Andante",
+   "III. Presto - Molto allegro e vivace"
+  ]
+ },
+ "mendelssohn-op-40": {
+  "mbid": "e7479333-a2f9-4129-8229-802f908e6d6c",
+  "title": "Piano Concerto no. 2 in D minor, op. 40",
+  "movements": [
+   "I. Allegro appassionato",
+   "II. Adagio. Molto sostenuto",
+   "III. Finale. Presto scherzando"
+  ]
+ },
+ "chopin-op-4": {
+  "mbid": "f37059d7-7725-4a49-9c11-39354eac6d81",
+  "title": "Sonata for Piano no. 1 in C minor, op. 4",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Menuetto",
+   "III. Larghetto",
+   "IV. Finale. Presto"
+  ]
+ },
+ "chopin-op-58": {
+  "mbid": "2eeca1e5-6ef5-4725-af55-fba234f34528",
+  "title": "Sonata for Piano no. 3 in B minor, op. 58",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Scherzo. Molto vivace",
+   "III. Largo",
+   "IV. Finale. Presto non tanto"
+  ]
+ },
+ "chopin-op-11": {
+  "mbid": "5f7ded0a-9869-38e5-a9fd-8612919f1a94",
+  "title": "Concerto for Piano and Orchestra no. 1 in E minor, op. 11",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Romance. Larghetto",
+   "III. Rondo. Vivace"
+  ]
+ },
+ "chopin-op-21": {
+  "mbid": "dda6229e-96ab-38dc-b48d-9ea6efa48c56",
+  "title": "Concerto for Piano and Orchestra no. 2 in F minor, op. 21",
+  "movements": [
+   "I. Maestoso",
+   "II. Larghetto",
+   "III. Allegro vivace"
+  ]
+ },
+ "chopin-op-2": {
+  "mbid": "76d9aed3-6912-3b9a-a18b-10f8285c2d9c",
+  "title": "Variations in B‐flat major on “Là ci darem la mano”, op. 2",
+  "movements": [
+   "Introduction. Largo",
+   "Tema. Allegretto",
+   "Variation I. Brillante",
+   "Variation II. Veloce, ma accuratamente",
+   "Variation III. Sempre sostenuto",
+   "Variation IV. Con bravura",
+   "Variation V. Adagio – Alla polacca"
+  ]
+ },
+ "chopin-op-13": {
+  "mbid": "953ffa3e-effa-3a72-9d67-b623431a51cc",
+  "title": "Fantasia on Polish Airs in A major, op. 13",
+  "movements": [
+   "I. Introduction: Largo non troppo",
+   "II. Air: Juz miesiac zaszedi: Andantino",
+   "III. Thème de Charles Kurpinski: Allegretto",
+   "IV. Kujawiak: Vivace"
+  ]
+ },
+ "chopin-op-14": {
+  "mbid": "80a00b47-091b-3024-9ea6-5e31bcce9389",
+  "title": "Rondo à la Krakowiak in F major, op. 14",
+  "movements": [
+   "I. Introduction: Andantino quasi allegretto",
+   "II. Rondo: Allegro non troppo"
+  ]
+ },
+ "schumann-op-1": {
+  "mbid": "898d68dc-0cde-3210-8f2e-89e3ba163ddd",
+  "title": "Variations on the name \"Abegg\", op. 1",
+  "movements": [
+   "Theme",
+   "Variation 1",
+   "Variation 2",
+   "Variation 3",
+   "Cantabile",
+   "Finale alla fantasia"
+  ]
+ },
+ "schumann-op-2": {
+  "mbid": "51bf8c8f-06ee-38b2-aaff-f94563911928",
+  "title": "Papillons, op. 2",
+  "movements": [
+   "Introduzione. Moderato",
+   "Nr. 1",
+   "Nr. 2 Prestissimo",
+   "Nr. 3",
+   "Nr. 4 Presto",
+   "Nr. 5",
+   "Nr. 6",
+   "Nr. 7 Semplice",
+   "Nr. 8",
+   "Nr. 9 Prestissimo",
+   "Nr. 10 Vivo - Più lento",
+   "Nr. 11",
+   "Nr. 12 Finale"
+  ]
+ },
+ "schumann-op-6": {
+  "mbid": "304bda09-95e1-49f0-9cea-4b2c3fd4e94d",
+  "title": "Davidsbündlertänze, op. 6",
+  "movements": [
+   "I. Lebhaft",
+   "II. Innig",
+   "III. Mit Humor (Etwas hahnbüchen)",
+   "IV. Ungeduldig",
+   "V. Einfach",
+   "VI. Sehr rasch und in sich hinein",
+   "VII. Nicht schnell mit äußerst starker Empfindung",
+   "VIII. Frisch",
+   "IX. Lebhaft",
+   "X. Balladenmäßig. Sehr rasch",
+   "XI. Einfach",
+   "XII. Mit Humor",
+   "XIII. Wild und lustig",
+   "XIV. Zart und singend",
+   "XV. Frisch",
+   "XVI. Mit gutem Humor",
+   "XVII. Wie aus der Ferne",
+   "XVIII. Nicht schnell (Ganz zum Überfluss)"
+  ]
+ },
+ "schumann-op-9": {
+  "mbid": "20cb8152-c2ad-3e20-a818-bc32624b1838",
+  "title": "Carnaval, op. 9",
+  "movements": [
+   "I. Préambule",
+   "II. Pierrot",
+   "III. Arlequin",
+   "IV. Valse noble",
+   "V. Eusebius",
+   "VI. Florestan",
+   "VII. Coquette",
+   "VIII. Réplique",
+   "Sphinxes",
+   "IX. Papillons",
+   "X. A.S.C.H. - S.C.H.A.: Lettres dansantes",
+   "XI. Chiarina",
+   "XII. Chopin",
+   "XIII. Estrella",
+   "XIV. Reconnaissance",
+   "XV. Pantalon et Colombine",
+   "XVI. Valse allemande",
+   "Intermezzo: Paganini",
+   "XVII. Aveu",
+   "XVIII. Promenade",
+   "XIX. Pause",
+   "XX. Marche des ''Davidsbündler'' contre les Philistins"
+  ]
+ },
+ "schumann-op-12": {
+  "mbid": "e0af92df-05e8-4efd-9aa1-29540d1095cd",
+  "title": "Fantasiestücke, op. 12",
+  "movements": [
+   "I. Des Abends",
+   "II. Aufschwung",
+   "III. Warum?",
+   "IV. Grillen",
+   "V. In der Nacht",
+   "VI. Fabel",
+   "VII. Traumes Wirren",
+   "VIII. Ende vom Lied"
+  ]
+ },
+ "schumann-op-13": {
+  "mbid": "5dfe1c03-1c37-4dec-b438-9328a0601d8a",
+  "title": "Symphonic Etudes for Piano, op. 13",
+  "movements": [
+   "I. Theme - Andante",
+   "II. Etude no. 1 (Var. I) - Un poco più vivo",
+   "III. Etude no. 2 (Var. II) - Andante",
+   "IV. Etude no. 3 - Vivace",
+   "V. Etude no. 4 (Var. III) - Allegro marcato",
+   "VI. Etude no. 5 (Var. IV) - Scherzando",
+   "VII. Etude no. 6 (Var. V) - Agitato",
+   "VIII. Etude no. 7 (Var. VI) - Allegro molto",
+   "IX. Etude no. 8 (Var. VII) - Sempre marcatissimo",
+   "X. Etude no. 9 - Presto possibile",
+   "XI. Etude no. 10 (Var. VIII) - Allegro con energia",
+   "XII. Etude no. 11 (Var. IX) - Andante espressivo",
+   "XIII. Etude no. 12 (Finale) - Allegro brillante"
+  ]
+ },
+ "schumann-op-16": {
+  "mbid": "103b79e5-1115-464b-9d71-834aee584633",
+  "title": "Kreisleriana, op. 16",
+  "movements": [
+   "I. Äußerst bewegt",
+   "II. Sehr innig und nicht zu rasch",
+   "III. Sehr aufgeregt",
+   "IV. Sehr langsam",
+   "V. Sehr lebhaft",
+   "VI. Sehr langsam",
+   "VII. Sehr rasch",
+   "VIII. Schnell und spielend"
+  ]
+ },
+ "schumann-op-17": {
+  "mbid": "27c866d2-6128-4360-a80e-c691ec3ca4c6",
+  "title": "Fantasy in C major, op. 17",
+  "movements": [
+   "I. Durchaus phantastisch und leidenschaftlich vorzutragen - Adagio - Im lebhaften Tempo - Im Legenden Ton",
+   "II. Mäßig. Durchaus energisch - Etwas langsamer - Viel bewegter",
+   "III. Langsam getragen. Durchweg leise zu halten - Etwas bewegter"
+  ]
+ },
+ "schumann-op-20": {
+  "mbid": "f28c047f-c0be-43b6-b1bf-4ca19c033487",
+  "title": "Humoreske, op. 20",
+  "movements": [
+   "I. Einfach - Sehr rasch und leicht - Noch rascher - Erstes Tempo - Wie im Anfang",
+   "II. Hastig - Nach und nach immer lebhafter und starker - Wie vorher - Adagio",
+   "III. Einfach und zart - Intermezzo",
+   "IV. Innig",
+   "V. Sehr lebhaft – Immer lebhafter",
+   "VI. Mit einigem Pomp",
+   "VII. Zum Beschluss - Adagio - Allegro"
+  ]
+ },
+ "schumann-op-21": {
+  "mbid": "419de2c2-4faf-4b5d-af9e-3b458b2d49ee",
+  "title": "Novelletten, op. 21",
+  "movements": [
+   "I. Markiert und kräftig",
+   "II. Äußerst rasch und mit Bravour",
+   "III. Leicht und mit Humor",
+   "IV. Ballmässig. Sehr munter",
+   "V. Rauschend und festlich",
+   "VI. Sehr lebhaft, mit vielem Humor",
+   "VII. Äußerst rasch",
+   "VIII. Sehr lebhaft"
+  ]
+ },
+ "schumann-op-22": {
+  "mbid": "9179cca6-9697-4ac5-aa1e-485bbc80078f",
+  "title": "Piano Sonata no. 2 in G minor, op. 22",
+  "movements": [
+   "I. So rasch wie möglich - Schneller - Noch schneller",
+   "II. Andantino. Getragen",
+   "III. Scherzo. Sehr rasch und markiert",
+   "IV. Rondo. Presto - Etwas langsamer - Prestissimo, quasi cadenza - Immer schneller und schneller"
+  ]
+ },
+ "schumann-op-23": {
+  "mbid": "179f16b1-df15-4230-b2aa-7669a503aa86",
+  "title": "Nachtstücke, op. 23",
+  "movements": [
+   "I. Mehr langsam, oft zurückhaltend",
+   "II. Markiert und lebhaft",
+   "III. Mit großer Lebhaftigkeit",
+   "IV. Ad libitum - Einfach"
+  ]
+ },
+ "schumann-op-26": {
+  "mbid": "8aa6f584-d39e-4bf5-96de-e342a747d41a",
+  "title": "Faschingsschwank aus Wien, op. 26",
+  "movements": [
+   "I. Allegro. Sehr lebhaft",
+   "II. Romanze. Ziemlich langsam",
+   "III. Scherzino",
+   "IV. Intermezzo. Mit größter Energie",
+   "V. Finale. Höchst lebhaft"
+  ]
+ },
+ "schumann-op-82": {
+  "mbid": "5c5a1180-3d87-4ad7-be49-9a7f1efc527c",
+  "title": "Waldszenen, op. 82",
+  "movements": [
+   "I. Eintritt. Nicht zu schnell",
+   "II. Jäger auf der Lauer. Höchst lebhaft",
+   "III. Einsame Blumen. Einfach",
+   "IV. Verrufene Stelle. Ziemlich langsam",
+   "V. Freundliche Landschaft. Schnell",
+   "VI. Herberge. Mäßig",
+   "VII. Vogel als Prophet. Langsam, sehr zart",
+   "VIII. Jagdlied. Rasch, kräftig",
+   "IX. Abschied. Nicht zu schnell"
+  ]
+ },
+ "schumann-op-54": {
+  "mbid": "0883b91a-f2c5-32b1-befb-f009af0ffbd7",
+  "title": "Concerto for Piano and Orchestra in A minor, op. 54",
+  "movements": [
+   "I. Allegro affettuoso",
+   "II. Intermezzo. Andantino grazioso",
+   "III. Allegro vivace"
+  ]
+ },
+ "schumann-op-92": {
+  "mbid": "21560c8d-d56c-3540-b550-3f91607fb052",
+  "title": "Konzertstück (Introduction and Allegro appassionato) in G major, op. 92",
+  "movements": [
+   "I. Introduction",
+   "II. Allegro appassionato"
+  ]
+ },
+ "schumann-op-133": {
+  "mbid": "3df936ec-820e-4f61-880d-48582e597c9e",
+  "title": "Gesänge der Frühe, op. 133",
+  "movements": [
+   "Nr. 1. Im ruhigen Tempo",
+   "Nr. 2. Belebt, nicht zu rasch",
+   "Nr. 3. Lebhaft",
+   "Nr. 4. Bewegt",
+   "Nr. 5. Im Anfange ruhiges, im Verlauf bewegtes Tempo"
+  ]
+ },
+ "schumann-woo-24": {
+  "mbid": "054f14c0-8edf-43b5-8946-88f9bd6c3dc1",
+  "title": "\"Geistervariationen\" in E-flat major for piano solo, WoO 24",
+  "movements": [
+   "Thema: Moderato",
+   "Variation I",
+   "Variation II: In canon form",
+   "Variation III: Poco più moso",
+   "Variation IV",
+   "Variation V"
+  ]
+ },
+ "schumann-op-20-2": {
+  "mbid": "0d4d8528-3305-4df6-934d-1aad4e9fca66",
+  "title": "Variations on a Theme by Robert Schumann, op. 20",
+  "movements": [
+   "Thema",
+   "Variation 1",
+   "Variation 2",
+   "Variation 3",
+   "Variation 4",
+   "Variation 5",
+   "Variation 6",
+   "Variation 7"
+  ]
+ },
+ "schumann-op-7-2": {
+  "mbid": "8f4e1205-4860-455a-8f68-d941a09aaca4",
+  "title": "Concerto for Piano and Orchestra in A minor, op. 7",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Romanze. Andante non troppo, con grazia",
+   "III. Finale. Allegro non troppo"
+  ]
+ },
+ "liszt-s-173": {
+  "mbid": "49d54dc0-fa0e-473b-933d-a5c217511761",
+  "title": "Harmonies poétiques et religieuses, S. 173",
+  "movements": [
+   "No. 1. Invocation",
+   "No. 2. Ave Maria",
+   "No. 3. Bénédiction de Dieu dans la solitude",
+   "No. 4. Pensée des morts",
+   "No. 5. Pater noster",
+   "No. 6. Hymne de l'enfant à son réveil",
+   "No. 7. Funérailles",
+   "No. 8. Miserere d'après Palestrina",
+   "No. 9. Andante lagrimoso",
+   "No. 10. Cantique d'amour"
+  ]
+ },
+ "liszt-s-124": {
+  "mbid": "d7793d9f-4613-4a34-9f2e-c2dffb8d2412",
+  "title": "Concerto for Piano and Orchestra no. 1 in E‐flat major, S. 124",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Quasi adagio",
+   "III. Allegretto vivace – Allegro animato",
+   "IV. Allegro marziale animato"
+  ]
+ },
+ "liszt-s-126": {
+  "mbid": "32eb27c7-1f61-3061-b2b7-bde4bd474e32",
+  "title": "Totentanz, S. 126/2",
+  "movements": [
+   "I. Andante - Allegro - Allegro moderato",
+   "II. Variation I",
+   "III. Variation II",
+   "IV. Variation III",
+   "V. Variation IV",
+   "VI. Variation V",
+   "VII. Cadenza",
+   "VIII. Variation VI",
+   "IX. Cadenza",
+   "X. Allegro animato"
+  ]
+ },
+ "alkan-op-33": {
+  "mbid": "4b9e1860-b501-40d4-973d-07874971091f",
+  "title": "Grande sonate, op. 33 \"Les quatre âges\"",
+  "movements": [
+   "I. 20 ans. Très vite",
+   "II. 30 ans: Quasi-Faust. Assez vite",
+   "III. 40 ans: Un ménage heureux. Lentement",
+   "IV. 50 ans: Prométhée enchaîné. Extrêmement lent"
+  ]
+ },
+ "alkan-op-15": {
+  "mbid": "208c18e9-3276-4c53-8dc5-31b647423fc7",
+  "title": "3 morceaux dans le genre pathétique, op. 15 “Souvenirs”",
+  "movements": [
+   "I. Aime-moi",
+   "II. Le Vent",
+   "III. Morte"
+  ]
+ },
+ "litolff-op-102": {
+  "mbid": "ca139438-05a3-491e-9c64-3c66b1a206a3",
+  "title": "Concerto Symphonique no. 4 in D minor, op. 102",
+  "movements": [
+   "I. Allegro con fuoco",
+   "II. Scherzo",
+   "III. Adagio religioso",
+   "IV. Allegro impetuoso"
+  ]
+ },
+ "brahms-op-1": {
+  "mbid": "3ceba99b-e62b-4d0a-b4b0-c36e41974a0c",
+  "title": "Sonata for Piano no. 1 in C major, op. 1",
+  "movements": [
+   "I. Allegro",
+   "II. Andante (nach einem altdeutschen Minneliede)",
+   "III. Scherzo. Allegro molto e con fuoco - Più mosso",
+   "IV. Finale. Allegro con fuoco"
+  ]
+ },
+ "brahms-op-2": {
+  "mbid": "bfe0067a-af44-4087-a999-df9819a72afe",
+  "title": "Sonata for Piano no. 2 in F-sharp minor, op. 2",
+  "movements": [
+   "I. Allegro non troppo ma energico",
+   "II. Andante con espressione",
+   "III. Scherzo. Allegro - Poco più moderato",
+   "IV. Finale. Introduzione. Sostenuto - Allegro non troppo e rubato - Molto sostenuto"
+  ]
+ },
+ "brahms-op-5": {
+  "mbid": "5188c466-6c11-4e53-a48a-1908d1f734f8",
+  "title": "Sonata for Piano no. 3 in F minor, op. 5",
+  "movements": [
+   "I. Allegro maestoso",
+   "II. Andante. Andante espressivo - Andante molto",
+   "III. Scherzo. Allegro energico",
+   "IV. Intermezzo. Andante molto",
+   "V. Finale. Allegro moderato ma rubato"
+  ]
+ },
+ "brahms-op-9": {
+  "mbid": "57e16131-a025-390c-815c-0eee8e8fc8d2",
+  "title": "Variations in F-sharp minor on a Theme by Robert Schumann, op. 9",
+  "movements": [
+   "Thema: Ziemlich langsam",
+   "Variation I",
+   "Variation II: Poco più moto, espressivo/staccato e leggiero",
+   "Variation III: Tempo di tema",
+   "Variation IV: Poco più moto, espressivo/leggiero",
+   "Variation V: Allegro capriccioso",
+   "Variation VI: Allegro",
+   "Variation VII: Andante",
+   "Variation VIII: Andante (non troppo lento), espressivo",
+   "Variation IX: Schnell",
+   "Variation X: Poco adagio, espressivo dolce",
+   "Variation XI: Un poco più animato, sempre pianissimo dolcissimo",
+   "Variation XII: Allegretto, poco scherzando, staccato e leggiero",
+   "Variation XIII: Non troppo presto, molto leggiero",
+   "Variation XIV: Andante, espressivo/staccato e leggiero",
+   "Variation XV: Poco adagio, espressivo",
+   "Variation XVI: Adagio"
+  ]
+ },
+ "brahms-op-24": {
+  "mbid": "7fc5a01f-0c35-41d7-897d-1b48481fd529",
+  "title": "Variations and Fugue on a Theme by Handel, op. 24",
+  "movements": [
+   "Aria",
+   "Variation I",
+   "Variation II",
+   "Variation III",
+   "Variation IV: Risoluto",
+   "Variation V: Espressivo",
+   "Variation VI",
+   "Variation VII: Con vivacità",
+   "Variation VIII",
+   "Variation IX: Poco sostenuto",
+   "Variation X",
+   "Variation XI",
+   "Variation XII",
+   "Variation XIII: Largamente, ma non più",
+   "Variation XIV",
+   "Variation XV",
+   "Variation XVI",
+   "Variation XVII: Più mosso",
+   "Variation XVIII",
+   "Variation XIX: Leggiero e vivace",
+   "Variation XX",
+   "Variation XXI",
+   "Variation XXII",
+   "Variation XXIII",
+   "Variation XXIV",
+   "Variation XXV",
+   "Fuga"
+  ]
+ },
+ "brahms-op-35": {
+  "mbid": "3667b340-dbb0-4b75-8153-619c6638e58d",
+  "title": "Variations on a Theme by Paganini, op. 35",
+  "movements": [
+   "Book I",
+   "Book II"
+  ]
+ },
+ "brahms-op-10": {
+  "mbid": "168a76c9-0ef7-4e82-ad3b-8d894cb5d8dd",
+  "title": "Ballades, op. 10",
+  "movements": [
+   "No. 1 in D minor \"Edward\"",
+   "No. 2 in D major. Andante",
+   "No. 3 in B minor. Intermezzo. Allegro",
+   "No. 4 in B major. Andante con moto"
+  ]
+ },
+ "brahms-op-116": {
+  "mbid": "1b9379af-25ea-4cec-acea-6e06d9d4093f",
+  "title": "7 Fantasias, op. 116",
+  "movements": [
+   "No. 1 in D minor. Capriccio. Presto energico",
+   "No. 2 in A minor. Intermezzo. Andante",
+   "No. 3 in G minor. Capriccio. Allegro passionato",
+   "No. 4 in E major. Intermezzo. Adagio",
+   "No. 5 in E minor. Intermezzo. Andante con grazia ed intimissimo sentimento",
+   "No. 6 in E major. Intermezzo. Andanti teneramente",
+   "No. 7 in D minor. Capriccio. Allegro agitato"
+  ]
+ },
+ "brahms-op-15": {
+  "mbid": "b078677e-f408-4c95-9d48-62cbb3f6f6e1",
+  "title": "Concerto for Piano and Orchestra no. 1 in D minor, op. 15",
+  "movements": [
+   "I. Maestoso",
+   "II. Adagio",
+   "III. Rondo. Allegro non troppo"
+  ]
+ },
+ "brahms-op-83": {
+  "mbid": "11c6eebb-8ac5-4e59-af48-fb6207fff3ce",
+  "title": "Concerto for Piano and Orchestra no. 2 in B-flat major, op. 83",
+  "movements": [
+   "I. Allegro non troppo",
+   "II. Allegro appassionato",
+   "III. Andante – Più adagio",
+   "IV. Allegretto grazioso"
+  ]
+ },
+ "saint-saens-op-17": {
+  "mbid": "ee45211c-72d2-407a-a15b-a4aa313e243b",
+  "title": "Piano Concerto no. 1 in D major, op. 17",
+  "movements": [
+   "I. Andante – Allegro assai",
+   "II. Andante sostenuto quasi adagio",
+   "III. Allegro con fuoco"
+  ]
+ },
+ "saint-saens-op-22": {
+  "mbid": "eb86844b-1186-4b85-bbc4-6f0e40510023",
+  "title": "Concerto pour piano nº 2 en sol mineur, op. 22",
+  "movements": [
+   "I. Andante sostenuto",
+   "II. Allegro scherzando",
+   "III. Presto"
+  ]
+ },
+ "saint-saens-op-29": {
+  "mbid": "70a4e4cc-d6ea-47df-bdc2-b286278e5e87",
+  "title": "Piano Concerto no. 3 in E-flat major, op. 29",
+  "movements": [
+   "I. Moderato assai - Più mosso (Allegro maestoso)",
+   "II. Andante",
+   "III. Allegro non troppo"
+  ]
+ },
+ "saint-saens-op-44": {
+  "mbid": "bff74e36-99ea-47ad-ba7f-8e7165be3d2d",
+  "title": "Piano Concerto no. 4 in C minor, op. 44",
+  "movements": [
+   "I. Allegro moderato - Andante",
+   "II. Allegro vivace - Andante - Allegro"
+  ]
+ },
+ "saint-saens-op-103": {
+  "mbid": "fb9586d6-869c-4400-ae2f-0481acb3cbea",
+  "title": "Concerto pour piano et orchestre n° 5 en fa majeur, op. 103 \"L'Égyptien\"",
+  "movements": [
+   "I. Allegro animato",
+   "II. Andante",
+   "III. Molto allegro"
+  ]
+ },
+ "balakirev-piano-sonata-in-b-flat-minor": {
+  "mbid": "17dcde1c-5774-4988-88e9-42732bed22ae",
+  "title": "Piano Sonata in B-flat minor, op. 3 \"Grande sonate\"",
+  "movements": [
+   "I. Allegro feroce",
+   "II. Mazurka",
+   "III. Andante",
+   "IV. Finale. Allegro grazioso",
+   "V. Epilogue. Fuga"
+  ]
+ },
+ "tchaikovsky-op-37a": {
+  "mbid": "76cd571a-1a95-4cee-8ae0-40387733d0f0",
+  "title": "The Seasons, op. 37a",
+  "movements": [
+   "I. January “At the Fireside”",
+   "II. February “Carnaval”",
+   "III. March “Song of the Lark”",
+   "IV. April “Snowdrop”",
+   "V. May “Starlight Nights”",
+   "VI. June “Barcarolle”",
+   "VII. July “Song of the Reaper”",
+   "VIII. August “Harvest Song”",
+   "IX. September “Hunting Song”",
+   "X. October “Autumn Song”",
+   "XI. November “Troika”",
+   "XII. December “Christmas”"
+  ]
+ },
+ "tchaikovsky-op-23": {
+  "mbid": "ba27a04b-1a26-4771-909e-81b2f8449ff7",
+  "title": "Concerto for Piano and Orchestra no. 1 in B-flat minor, op. 23",
+  "movements": [
+   "I. Andante non troppo e molto maestoso",
+   "II. Andantino semplice",
+   "III. Allegro con fuoco"
+  ]
+ },
+ "tchaikovsky-op-44": {
+  "mbid": "843460cd-0fee-4d12-bd1c-60a45e204939",
+  "title": "Piano Concerto no. 2 in G major, op. 44",
+  "movements": [
+   "I. Allegro brillante",
+   "II. Andante non troppo",
+   "III. Allegro con fuoco"
+  ]
+ },
+ "tchaikovsky-op-56": {
+  "mbid": "b908a5cf-5909-4aa6-9f47-d3024b917d08",
+  "title": "Concert Fantasia, op. 56",
+  "movements": [
+   "I. Quasi Rondo",
+   "II. Contrastes"
+  ]
+ },
+ "dvorak-op-101": {
+  "mbid": "077beb4e-3072-4002-8c0d-16514c2b0b84",
+  "title": "8 Humoresques, B. 187, op. 101",
+  "movements": [
+   "Vivace",
+   "Poco andante",
+   "Poco andante e molto cantabile",
+   "Poco andante",
+   "Vivace",
+   "Poco allegretto",
+   "Poco lento e grazioso",
+   "Poco andante - Vivace - Meno mosso, quasi tempo I"
+  ]
+ },
+ "dvorak-op-33": {
+  "mbid": "3fd0b2ff-4f8b-4d98-bc41-5c1bfb3ac428",
+  "title": "Piano Concerto in G minor, op. 33, B. 63",
+  "movements": [
+   "I. Allegro agitato",
+   "II. Andante sostenuto",
+   "III. Finale: Allegro con fuoco"
+  ]
+ },
+ "grieg-op-7": {
+  "mbid": "76e1591a-47af-4acd-bc73-db8fcc3e1a32",
+  "title": "Sonate for Piano i e-moll, op. 7",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante molto",
+   "III. Alla menuetto ma poco piu lento",
+   "IV. Finale. Molto allegro"
+  ]
+ },
+ "grieg-op-16": {
+  "mbid": "b95fea1e-8181-4b93-9779-1d0a414855dc",
+  "title": "Concerto in A minor for Piano and Orchestra, op. 16",
+  "movements": [
+   "I. Allegro molto moderato",
+   "II. Adagio",
+   "III. Allegro moderato molto e marcato"
+  ]
+ },
+ "albeniz-iberia": {
+  "mbid": "d79d77d6-957d-4a7e-bde4-7634707b9a3e",
+  "title": "Iberia, B. 47",
+  "movements": [
+   "Book I: I. Evocación",
+   "Book I: II. El puerto",
+   "Book I: III. El Corpus en Sevilla",
+   "Book II: I. Rondeña",
+   "Book II: II. Almería",
+   "Book II: III. Triana",
+   "Book III: I. El Albaicín",
+   "Book III: II. El Polo",
+   "Book III: III. Lavapiés",
+   "Book IV: I. Málaga",
+   "Book IV: II. Jerez",
+   "Book IV: III. Eritaña"
+  ]
+ },
+ "granados-op-11": {
+  "mbid": "fb6cc4b7-95fa-44be-bbf5-67f80d56e345",
+  "title": "Goyescas, H.64",
+  "movements": [
+   "No. 1: Los requiebros",
+   "No. 2: Coloquio en la reja",
+   "No. 3: El fandango de Candil",
+   "No. 4: Quejas o la maja y el ruiseñor",
+   "No. 5: El amor y la muerte",
+   "No. 6: La serenata del espectro"
+  ]
+ },
+ "granados-valses-poeticos": {
+  "mbid": "bf8962c0-e32e-4294-be28-736837703992",
+  "title": "Valses poéticos",
+  "movements": [
+   "H.147: Preludio: Vivace molto",
+   "H.147: No. 1. Melódico",
+   "H.147: No. 2. Tempo de vals noble",
+   "H.147: No. 3. Tempo de vals lento",
+   "H.147: No. 4. Allegro humorístico",
+   "H.147: No. 5. Allegretto: Elegante",
+   "H.147: No. 6. Quasi ad libitum: Sentimental",
+   "H.147: No. 7. Vivo",
+   "H.147: No. 8. Coda"
+  ]
+ },
+ "faure-op-73": {
+  "mbid": "2b5d75eb-1692-41e1-9c42-7ae6d08cf10d",
+  "title": "Thème et Variations en Ut dièse mineur, op. 73",
+  "movements": [
+   "I. Theme",
+   "II. Variation 1",
+   "III. Variation 2",
+   "IV. Variation 3",
+   "V. Variation 4",
+   "VI. Variation 5",
+   "VII. Variation 6",
+   "VIII. Variation 7",
+   "IX. Variation 8",
+   "X. Variation 9",
+   "XI. Variation 10",
+   "XII. Variation 11"
+  ]
+ },
+ "scriabin-op-11": {
+  "mbid": "9b3061f1-5d5f-48ed-86f5-da2899adf361",
+  "title": "24 Preludes, op. 11",
+  "movements": [
+   "No. 1 in C major. Vivace",
+   "No. 2 in A minor. Allegretto",
+   "No. 3 in G major. Vivo",
+   "No. 4 in E minor. Lento",
+   "No. 5 in D major. Andante cantabile",
+   "No. 6 in B minor. Allegro",
+   "No. 7 in A major. Allegro assai",
+   "No. 8 in F-sharp minor. Allegro agitato",
+   "No. 9 in E major. Andantino",
+   "No. 10 in C-sharp minor. Andante",
+   "No. 11 in B major. Allegro assai",
+   "No. 12 in G-sharp minor. Andante",
+   "No. 13 in G-flat major. Lento",
+   "No. 14 in E-flat minor. Presto",
+   "No. 15 in D-flat major. Lento",
+   "No. 16 in B-flat minor. Misterioso",
+   "No. 17 in A-flat major. Allegretto",
+   "No. 18 in F minor. Allegro agitato",
+   "No. 19 in E-flat major. Affettuoso",
+   "No. 20 in C minor. Appassionato",
+   "No. 21 in B-flat major. Andante",
+   "No. 22 in G minor. Lento",
+   "No. 23 in F major. Vivo",
+   "No. 24 in D minor. Presto"
+  ]
+ },
+ "scriabin-op-6": {
+  "mbid": "0b05f1af-850e-406c-a85d-32e974a7c87b",
+  "title": "Piano Sonata no. 1 in F minor, op. 6",
+  "movements": [
+   "I. Allegro con fuoco",
+   "II. []",
+   "III. Presto",
+   "IV. Funèbre"
+  ]
+ },
+ "scriabin-op-19": {
+  "mbid": "1d09596d-ee5a-4b21-a0a7-9d23238c61b3",
+  "title": "Piano Sonata no. 2 in G-sharp minor, op. 19 \"Sonata-Fantasy\"",
+  "movements": [
+   "I. Andante",
+   "II. Presto"
+  ]
+ },
+ "scriabin-op-23": {
+  "mbid": "6d14b9eb-e77e-47ba-be2c-9f9efde78b4d",
+  "title": "Piano Sonata no. 3 in F-sharp minor, op. 23",
+  "movements": [
+   "I. Drammàtico",
+   "II. Allegretto",
+   "III. Andante",
+   "IV. Presto con fuoco"
+  ]
+ },
+ "scriabin-op-30": {
+  "mbid": "083a476b-1330-4b60-82b1-c391ffa3248f",
+  "title": "Piano Sonata no. 4 in F-sharp major, op. 30",
+  "movements": [
+   "I. Andante",
+   "II. Prestissimo volando"
+  ]
+ },
+ "scriabin-op-20": {
+  "mbid": "17be064b-f158-45c4-a813-59b82b1dec1e",
+  "title": "Piano Concerto in F-sharp minor, op. 20",
+  "movements": [
+   "I. Allegro",
+   "II. Andante – Allegro scherzando – Adagio – Allegretto – Tempo 1",
+   "III. Allegro moderato"
+  ]
+ },
+ "rachmaninoff-op-33": {
+  "mbid": "b54c2649-c9a3-4b09-8505-c07bd7552b28",
+  "title": "Études-tableaux, op. 33",
+  "movements": [
+   "No. 1 in F minor: Allegro non troppo",
+   "No. 2 in C major: Allegro",
+   "No. 3 in C minor: Grave",
+   "No. 4 in D minor: Moderato",
+   "No. 5 in E-flat minor: Non allegro – Presto",
+   "No. 6 in E-flat major: Allegro con fuoco",
+   "No. 7 in G minor: Moderato",
+   "No. 8 in C-sharp minor: Grave"
+  ]
+ },
+ "rachmaninoff-op-28": {
+  "mbid": "5d7dc856-4e6d-477f-ac9b-c2deb1ab6408",
+  "title": "Piano Sonata no. 1 in D minor, op. 28",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Lento",
+   "III. Allegro molto"
+  ]
+ },
+ "rachmaninoff-op-36": {
+  "mbid": "7357f854-d093-43df-9b9c-d6e796bfeea5",
+  "title": "Piano Sonata no. 2 in B-flat minor, op. 36",
+  "movements": [
+   "I. Allegro agitato",
+   "II. Non allegro (Lento)",
+   "III. L’istesso tempo (Allegro molto)"
+  ]
+ },
+ "rachmaninoff-op-22": {
+  "mbid": "64a79c76-e8cf-3c28-ab35-65709296f510",
+  "title": "Variations on a Theme of Chopin, op. 22",
+  "movements": [
+   "Theme. Largo",
+   "Variation I. Moderato",
+   "Variation II. Allegro",
+   "Variation III",
+   "Variation IV",
+   "Variation V. Meno mosso",
+   "Variation VI. Meno mosso",
+   "Variation VII. Allegro",
+   "Variation VIII",
+   "Variation IX",
+   "Variation X. Più vivo",
+   "Variation XI. Lento",
+   "Variation XII. Moderato",
+   "Variation XIII. Largo",
+   "Variation XIV. Moderato",
+   "Variation XV. Allegro scherzando",
+   "Variation XVI. Lento",
+   "Variation XVII. Grave",
+   "Variation XVIII. Più mosso",
+   "Variation XIX. Allegro vivace",
+   "Variation XX. Presto",
+   "Variation XXI. Andante - Più vivo",
+   "Variation XXII. Maestoso"
+  ]
+ },
+ "rachmaninoff-op-42": {
+  "mbid": "a5cf8acd-06dc-3355-b536-f456c8e95bce",
+  "title": "Variations on a Theme of Corelli, op. 42",
+  "movements": [
+   "Thema: Andante",
+   "Var. I: Poco più mosso",
+   "Var. II: L'istesso tempo",
+   "Var. III: Tempo di menuetto",
+   "Var. IV: Andante",
+   "Var. V: Allegro (ma non tanto)",
+   "Var. VI: L'istesso tempo",
+   "Var. VII: Vivace",
+   "Var. VIII: Adagio misterioso",
+   "Var. IX: Un poco più mosso",
+   "Var. X: Allegro scherzando",
+   "Var. XI: Allegro vivace",
+   "Var. XII: L'istesso tempo",
+   "Var. XIII: Agitato",
+   "Intermezzo: A tempo rubato",
+   "Var. XIV: Andante (come prima)",
+   "Var. XV: L'istesso tempo",
+   "Var. XVI: Allegro vivace",
+   "Var. XVII: Meno mosso",
+   "Var. XVIII: Allegro con brio",
+   "Var. XIX: Più mosso. Agitato",
+   "Var. XX: Più mosso",
+   "Coda: Andante"
+  ]
+ },
+ "rachmaninoff-op-1": {
+  "mbid": "b54d962b-58c0-4151-8db5-d793fd7ce520",
+  "title": "Piano Concerto no. 1 in F-sharp minor, op. 1",
+  "movements": [
+   "I. Vivace",
+   "II. Andante",
+   "III. Allegro vivace"
+  ]
+ },
+ "rachmaninoff-op-30": {
+  "mbid": "21b5596b-5b70-320c-bf3f-c7285f770783",
+  "title": "Piano Concerto no. 3 in D minor, op. 30",
+  "movements": [
+   "I. Allegro ma non tanto",
+   "II. Intermezzo. Adagio",
+   "III. Finale. Alla breve"
+  ]
+ },
+ "rachmaninoff-op-40": {
+  "mbid": "42f2a0b3-16cf-4045-a8f5-843d1ba8f635",
+  "title": "Piano Concerto no. 4 in G minor, op. 40",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Largo",
+   "III. Allegro vivace"
+  ]
+ },
+ "rachmaninoff-op-43": {
+  "mbid": "17eea09b-0497-370c-a0a2-4f7f2d49300f",
+  "title": "Rhapsody on a Theme of Paganini, op. 43",
+  "movements": [
+   "Introduction: Allegro vivace",
+   "Variation I: (Precedente)",
+   "Thema. L’istesso tempo",
+   "Variation II: L’istesso tempo",
+   "Variation III: L’istesso tempo",
+   "Variation IV: Più vivo",
+   "Variation V: Tempo precedente",
+   "Variation VI: L’istesso tempo",
+   "Variation VII: Meno mosso, a tempo moderato",
+   "Variation VIII: Tempo I",
+   "Variation IX: L’istesso tempo",
+   "Variation X: Poco marcato",
+   "Variation XI: Moderato",
+   "Variation XII: Tempo di minuetto",
+   "Variation XIII: Allegro",
+   "Variation XIV: L’istesso tempo",
+   "Variation XV: Più vivo scherzando",
+   "Variation XVI: Allegretto",
+   "Variation XVII: (Allegretto)",
+   "Variation XVIII: Andante cantabile",
+   "Variation XIX: L’istesso tempo",
+   "Variation XX: Un poco più vivo",
+   "Variation XXI: Un poco più vivo",
+   "Variation XXII: Un poco più vivo (Alla breve)",
+   "Variation XXIII: L’istesso tempo",
+   "Variation XXIV: A tempo un poco meno mosso"
+  ]
+ },
+ "rachmaninoff-op-10": {
+  "mbid": "0f5782d3-1bdf-49a1-bca7-1c513ecbdf22",
+  "title": "Morceaux de salon, op. 10",
+  "movements": [
+   "No. 5. Humoresque in G major",
+   "No. 5. Humoresque in G major",
+   "No. 5. Humoresque in G major",
+   "no. 1 Nocturne in A minor",
+   "no. 2 Valse in A major",
+   "no. 3 Barcarolle in G minor",
+   "no. 4 Mélodie in E minor",
+   "no. 6 Romance in F minor",
+   "no. 7 Mazurka in D-flat major"
+  ]
+ },
+ "medtner-op-50": {
+  "mbid": "438f69f7-4a89-4a2d-9a5a-05014525b22d",
+  "title": "Piano Concerto no. 2 in C minor, op. 50",
+  "movements": [
+   "I. Toccata: Allegro risoluto",
+   "II. Romanza: Andante con moto",
+   "III. Divertimento: Allegro risoluto e molto vivace"
+  ]
+ },
+ "busoni-op-39": {
+  "mbid": "10b922cf-4384-43a1-999d-f15c5d112455",
+  "title": "Piano Concerto in C major, op. 39",
+  "movements": [
+   "I. Prologo e introito (Allegro, dolce e solenne)",
+   "II. Pezzo giocoso (Vivacemente, ma senza fretta)",
+   "III. Pezzo serioso",
+   "IV. All' italiana (Tarantella) (Vivace; In un tempo)",
+   "V. Cantico (Largamente)"
+  ]
+ },
+ "strauss-trv-145": {
+  "mbid": "589eea6b-9de6-30fd-af43-79717e493092",
+  "title": "Burleske in D minor, TrV 145",
+  "movements": [
+   "I. Allegro vivace",
+   "II. Tranquillo",
+   "III. A tempo. Sostenuto",
+   "IV. Un poco animato. Quasi cadenza"
+  ]
+ },
+ "macdowell-op-23": {
+  "mbid": "1f1ae0a2-eafd-44d1-970a-7e3e3aa57bc7",
+  "title": "Piano Concerto no. 2 in D minor, op. 23",
+  "movements": [
+   "I. Larghetto calmato - Poco passione",
+   "II. Presto giocoso",
+   "III. Largo - Molto allegro"
+  ]
+ },
+ "debussy-l-75": {
+  "mbid": "51c5a474-470e-48d8-a138-df81f568896a",
+  "title": "Suite bergamasque, L. 75, CD 82",
+  "movements": [
+   "I. Prélude",
+   "II. Menuet",
+   "III. Clair de lune",
+   "IV. Passepied"
+  ]
+ },
+ "debussy-l-100": {
+  "mbid": "a418831e-509d-4986-837d-2216de83fe92",
+  "title": "Estampes, L. 100, CD 108",
+  "movements": [
+   "I. Pagodes. Modérément animé",
+   "II. La Soirée dans Grenade. Mouvement de Habanera",
+   "III. Jardins sous la pluie. Net et vif"
+  ]
+ },
+ "debussy-l-110": {
+  "mbid": "0b5def1a-3892-4716-a7a2-2ee02b10c55f",
+  "title": "Images, Livre 1, L. 110, CD 105",
+  "movements": [
+   "No. 1. Reflets dans l’eau",
+   "No. 2. Hommage à Rameau",
+   "No. 3. Mouvement"
+  ]
+ },
+ "debussy-l-111": {
+  "mbid": "732c6498-cc95-43a7-be0a-f2092396bd88",
+  "title": "Images, Livre 2, L. 111, CD 120",
+  "movements": [
+   "No. 1. Cloches à travers les feuilles",
+   "No. 2. Et la lune descend sur le temple qui fut",
+   "No. 3. Poissons d’or"
+  ]
+ },
+ "debussy-l-113": {
+  "mbid": "bd18eb14-b1c5-4804-af2e-c9d3a31d57c1",
+  "title": "Children’s Corner, L. 113, CD 119",
+  "movements": [
+   "I. Doctor Gradus ad Parnassum",
+   "II. Jimbo’s Lullaby",
+   "III. Serenade for the Doll",
+   "IV. The Snow is Dancing",
+   "V. The Little Shepherd",
+   "VI. Golliwogg’s Cake‐Walk"
+  ]
+ },
+ "debussy-l-95": {
+  "mbid": "3e401575-bb50-4a03-8ae1-33dece70a025",
+  "title": "Pour le piano, L. 95, CD 95",
+  "movements": [
+   "I. Prélude. À Mademoiselle M.W. de Romilly. Assez animé et très rythmé - Tempo di cadenza - Tempo I",
+   "II. Sarabande. À Madame E. Rouart (née Y. Lerolle). Avec une élégance grave et lente",
+   "III. Toccata. À N.G. Coronio. Vif"
+  ]
+ },
+ "debussy-l-136": {
+  "mbid": "089505e0-b2b5-4972-899a-b4d251ce0e13",
+  "title": "Douze Études, pour piano, L. 136, CD 143",
+  "movements": [
+   "I. Pour les « cinq doigts » d'après monsieur Czerny",
+   "II. Pour les tierces",
+   "III. Pour les quartes",
+   "IV. Pour les sixtes",
+   "V. Pour les octaves",
+   "VI. Pour les huits doigts",
+   "VII. Pour les degrés chromatiques",
+   "VIII. Pour les agréments",
+   "IX. Pour les notes répétées",
+   "X. Pour les sonorités opposées",
+   "XI. Pour les arpèges composés",
+   "XII. Pour les accords"
+  ]
+ },
+ "debussy-l-73": {
+  "mbid": "bccb3d23-4e75-43a4-b398-0133cfb1f998",
+  "title": "Fantaisie pour piano et orchestre, L. 73, CD 72",
+  "movements": [
+   "I. Andante - Allegro",
+   "II. Lento e molto espressivo",
+   "III. Allegro molto"
+  ]
+ },
+ "ravel-m-40": {
+  "mbid": "1b581055-38b8-444d-806a-d9d357b4bdaf",
+  "title": "Sonatine",
+  "movements": [
+   "I. Modéré",
+   "II. Mouvement de menuet",
+   "III. Animé"
+  ]
+ },
+ "ravel-m-43": {
+  "mbid": "8192e0b8-156a-4c03-966c-1262468c05c3",
+  "title": "Miroirs",
+  "movements": [
+   "I. Noctuelles",
+   "II. Oiseaux tristes",
+   "III. Une barque sur l’océan",
+   "IV. Alborada del gracioso",
+   "V. La Vallée des cloches"
+  ]
+ },
+ "ravel-m-82": {
+  "mbid": "1abda5c6-93ca-31a6-996e-0503522504ec",
+  "title": "Concerto for Piano and Orchestra for the Left Hand in D major",
+  "movements": [
+   "I. Lento",
+   "II. Allegro",
+   "III. Tempo I"
+  ]
+ },
+ "ravel-m-83": {
+  "mbid": "191c0821-e4da-4333-afa5-e5ebe2497308",
+  "title": "Piano Concerto in G major, M. 83",
+  "movements": [
+   "I. Allegramente",
+   "II. Adagio assai",
+   "III. Presto"
+  ]
+ },
+ "falla-noches-en-los-jardines-de-espana": {
+  "mbid": "d0c2f4fe-e012-419e-be4c-09b9951266c1",
+  "title": "Noches en los jardines de España",
+  "movements": [
+   "I. En el Generalife",
+   "II. Danza lejana",
+   "III. En los jardines de la sierra de Córdoba"
+  ]
+ },
+ "mompou-musica-callada": {
+  "mbid": "db180191-6b22-4dc7-a748-ad6518b05039",
+  "title": "Música callada, cuaderno 2",
+  "movements": [
+   "X. Lento - Cantabile",
+   "XI. Allegretto",
+   "XII. Lento",
+   "XIII. Tranquilo - Très calme",
+   "XIV. Severo - Sérieux",
+   "XV. Lento - Plaintif",
+   "XVI. Calme"
+  ]
+ },
+ "szymanowski-op-34": {
+  "mbid": "705828f8-cfbf-4e95-8a80-75b1dce8b5b8",
+  "title": "Masques, op. 34, M35",
+  "movements": [
+   "I. Shéhérazade",
+   "II. Tantris le bouffon",
+   "III. Sérénade de Don Juan"
+  ]
+ },
+ "szymanowski-op-29": {
+  "mbid": "3a1c185d-9994-4ab6-88f8-ec9593a27976",
+  "title": "Métopes, op. 29, M31",
+  "movements": [
+   "I. L’Île des sirènes",
+   "II. Calypso",
+   "III. Nausicaa"
+  ]
+ },
+ "janacek-in-the-mists": {
+  "mbid": "9ce7ecb3-4aa4-433c-982f-2e88d3e866db",
+  "title": "V mlhách",
+  "movements": [
+   "I. Andante - Poco mosso",
+   "II. Molto adagio - Presto",
+   "III. Andantino - Poco mosso",
+   "IV. Presto - Meno mosso - Andante"
+  ]
+ },
+ "janacek-on-an-overgrown-path": {
+  "mbid": "05e1bae9-de77-42c1-afeb-740c5aab8f48",
+  "title": "On an Overgrown Path",
+  "movements": [
+   "Book 1",
+   "Book 2"
+  ]
+ },
+ "bartok-sz-55": {
+  "mbid": "53e1d11f-3eb6-47a8-b335-d072e719da65",
+  "title": "Sonatina, Sz. 55, BB 69",
+  "movements": [
+   "I. Dudások. Molto moderato",
+   "II. Medvetánc. Moderato",
+   "III. Finale. Allegro vivace"
+  ]
+ },
+ "bartok-sz-56": {
+  "mbid": "4a7a0246-4b06-3611-948f-30bc37774fdc",
+  "title": "Romanian Folk Dances, Sz. 56, BB 68",
+  "movements": [
+   "I. Jocul cu bâtă",
+   "II. Brâul",
+   "III. Pe Loc",
+   "IV. Buciumeana",
+   "V. Poarga Românească",
+   "VI. Mărunţel"
+  ]
+ },
+ "bartok-sz-62": {
+  "mbid": "f01bf015-c1ac-449b-a993-83498141e21f",
+  "title": "Suite for Piano, op. 14, Sz. 62",
+  "movements": [
+   "I. Allegretto",
+   "II. Scherzo",
+   "III. Allegro molto",
+   "IV. Sostenuto"
+  ]
+ },
+ "bartok-sz-80": {
+  "mbid": "5a13704e-9183-4cfc-9b2b-41fd72b0e680",
+  "title": "Piano Sonata, Sz. 80",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Sostenuto e pesante",
+   "III. Allegro molto"
+  ]
+ },
+ "bartok-sz-81": {
+  "mbid": "1078e168-7a4c-4e90-bf33-0ddcccf45326",
+  "title": "Out of Doors, Sz. 81, BB 89",
+  "movements": [
+   "No. 1: With Drums and Pipes",
+   "No. 2: Barcarolla",
+   "No. 3: Musettes",
+   "No. 4: The Night's Music",
+   "No. 5: The Chase"
+  ]
+ },
+ "bartok-sz-107": {
+  "mbid": "05e73b3f-7664-4745-ab48-d140dd106a5e",
+  "title": "Mikrokosmos, Sz. 107, BB 105",
+  "movements": [
+   "Volume I",
+   "Volume II",
+   "Volume III",
+   "Volume IV",
+   "Volume V",
+   "Volume VI"
+  ]
+ },
+ "bartok-sz-42": {
+  "mbid": "8402f95e-8258-4d2b-b5a1-b0c6eec901d4",
+  "title": "For Children, Sz. 42, BB 53",
+  "movements": [
+   "Book 1",
+   "Book 2",
+   "Book 3",
+   "Book 4"
+  ]
+ },
+ "bartok-sz-83": {
+  "mbid": "9ab0f9ef-b35f-4b21-b496-0fd8f98510b9",
+  "title": "Piano Concerto no. 1, Sz. 83, BB 91",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andante",
+   "III. Allegro molto"
+  ]
+ },
+ "bartok-sz-95": {
+  "mbid": "eb8c4dab-fb27-46d3-a018-25e250905042",
+  "title": "Piano Concerto no. 2 in G major, Sz. 95, BB 101",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio - Più adagio - Presto",
+   "III. Allegro molto"
+  ]
+ },
+ "bartok-sz-119": {
+  "mbid": "8096a4aa-7b33-4053-b5e5-63a9e88ee29a",
+  "title": "Piano Concerto no. 3 in E major, Sz. 119, BB 127",
+  "movements": [
+   "I. Allegretto",
+   "II. Adagio religioso",
+   "III. Allegro vivace"
+  ]
+ },
+ "prokofiev-op-14": {
+  "mbid": "7c2b2fbe-2965-49f2-84ef-fbfba3201849",
+  "title": "Piano Sonata no. 2 in D minor, op. 14",
+  "movements": [
+   "I. Allegro, ma non troppo",
+   "II. Scherzo - Allegro marcato",
+   "III. Andante",
+   "IV. Vivace - Moderato"
+  ]
+ },
+ "prokofiev-op-29": {
+  "mbid": "599739eb-1de0-4c65-b662-7067a7a05c9a",
+  "title": "Piano Sonata no. 4 in C minor, Op. 29",
+  "movements": [
+   "I. Allegro molto sostenuto",
+   "II. Andante assai",
+   "III. Allegro con brio, ma non leggiero"
+  ]
+ },
+ "prokofiev-op-38": {
+  "mbid": "2af25560-4844-4f2a-8782-b87cb8388d40",
+  "title": "Piano Sonata no. 5, op. 38",
+  "movements": [
+   "I. Allegro tranquillo",
+   "II. Andantino",
+   "III. Un poco allegretto"
+  ]
+ },
+ "prokofiev-op-82": {
+  "mbid": "e70d0050-2865-4fe3-ba10-450bf706b34f",
+  "title": "Piano Sonata no. 6 in A major, op. 82",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Allegretto",
+   "III. Tempo di valzer lentissimo",
+   "IV. Vivace"
+  ]
+ },
+ "prokofiev-op-83": {
+  "mbid": "45d6ee5d-b598-4196-9f96-b07aa68ed223",
+  "title": "Piano Sonata no. 7 in B-flat major, op. 83",
+  "movements": [
+   "I. Allegro inquieto - Andantino",
+   "II. Andante caloroso",
+   "III. Precipitato"
+  ]
+ },
+ "prokofiev-op-84": {
+  "mbid": "57513a93-1e2e-4b80-9680-bf5fa33beca6",
+  "title": "Piano Sonata no. 8 in B-flat major, op. 84",
+  "movements": [
+   "I. Andante dolce - Allegro moderato - Andante - Andante dolce come prima - Allegro",
+   "II. Andante sognando",
+   "III. Vivace - Allegro ben marcato - Andantino - Vivace"
+  ]
+ },
+ "prokofiev-op-103": {
+  "mbid": "82cd7fc6-e09c-4497-a660-f4b14e382e6c",
+  "title": "Piano Sonata no. 9, op. 103",
+  "movements": [
+   "I. Allegretto",
+   "II. Allegro strepitoso",
+   "III. Andante tranquillo",
+   "IV. Allegro"
+  ]
+ },
+ "prokofiev-op-17": {
+  "mbid": "5d5753e0-a430-4206-b33a-8db870391d8c",
+  "title": "Sarcasms, op. 17",
+  "movements": [
+   "I. Tempestoso",
+   "II. Allegro rubato",
+   "III. Allegro precipitato",
+   "IV. Smanioso",
+   "V. Precipitosissimo"
+  ]
+ },
+ "prokofiev-op-22": {
+  "mbid": "b551b81f-b71b-4143-95f0-f7316cf8b3f4",
+  "title": "Visions fugitives, op. 22",
+  "movements": [
+   "No. 1. Lentamente",
+   "No. 2. Andante",
+   "No. 3. Allegretto",
+   "No. 4. Animato",
+   "No. 5. Molto giocoso",
+   "No. 6. Con eleganza",
+   "No. 7. Pittoresco",
+   "No. 8. Commodo",
+   "No. 9. Allegretto tranquillo",
+   "No. 10. Ridicolosamente",
+   "No. 11. Con vivacità",
+   "No. 12. Assai moderato",
+   "No. 13. Allegretto",
+   "No. 14. Feroce",
+   "No. 15. Inquieto",
+   "No. 16. Dolente",
+   "No. 17. Poetico",
+   "No. 18. Con una dolce lentezza",
+   "No. 19. Presto agitatissimo e molto accentuato",
+   "No. 20. Lento irrealmente"
+  ]
+ },
+ "prokofiev-op-10": {
+  "mbid": "b18bb93c-51b7-4f6d-a036-bf2eba45d2eb",
+  "title": "Piano Concerto no. 1 in D-flat major, op. 10",
+  "movements": [
+   "I. Allegro brioso",
+   "II. Andante assai",
+   "III. Allegro scherzando"
+  ]
+ },
+ "prokofiev-op-16": {
+  "mbid": "c8b0aedf-a0b7-4e9c-90db-284ba7795e8a",
+  "title": "Piano Concerto no. 2 in G minor, op. 16",
+  "movements": [
+   "I. Andantino – Allegretto",
+   "II. Scherzo. Vivace",
+   "III. Intermezzo. Allegro moderato",
+   "IV. Finale. Allegro tempestoso"
+  ]
+ },
+ "prokofiev-op-26": {
+  "mbid": "7598a5f7-825a-42ee-8641-3ed34fcf08fc",
+  "title": "Piano Concerto no. 3 in C major, op. 26",
+  "movements": [
+   "I. Andante – Allegro",
+   "II. Tema con variazioni (Andantino)",
+   "III. Allegro ma non troppo"
+  ]
+ },
+ "prokofiev-op-53": {
+  "mbid": "491c53ed-387f-4ee1-b759-5ad04e420d21",
+  "title": "Piano Concerto no. 4 in B-flat major, op. 53",
+  "movements": [
+   "I. Vivace",
+   "II. Andante",
+   "III. Moderato",
+   "IV. Vivace"
+  ]
+ },
+ "prokofiev-op-55": {
+  "mbid": "66dadd60-cfc9-4e5e-9f9a-4317846a645f",
+  "title": "Piano Concerto no. 5 in G major, op. 55",
+  "movements": [
+   "I. Allegro con brio",
+   "II. Moderato ben accentuato",
+   "III. Toccata. Allegro con fuoco",
+   "IV. Larghetto",
+   "V. Vivo"
+  ]
+ },
+ "prokofiev-op-31": {
+  "mbid": "7795f9a3-d1ef-4f8b-b817-0494921df220",
+  "title": "Сказки старой бабушки, соч. 31",
+  "movements": [
+   "I. Moderato",
+   "II. Andantino",
+   "III. Andante assai",
+   "IV. Sostenuto"
+  ]
+ },
+ "poulenc-fp-14": {
+  "mbid": "d6ecf8df-eb30-4964-ba76-22b5a9dc562b",
+  "title": "Trois mouvements perpétuels, FP 14a",
+  "movements": [
+   "I. Assez modéré",
+   "II. Très modéré",
+   "III. Alerte"
+  ]
+ },
+ "poulenc-fp-84": {
+  "mbid": "9ba46f08-1f2c-4f60-ba54-50f2870ed443",
+  "title": "Les Soirées de Nazelles, FP 84",
+  "movements": [
+   "Préambule",
+   "Variation I. Le Comble de la distinction",
+   "Variation II. Le Cœur sur la main",
+   "Variation III. La Désinvolture et la discrétion",
+   "Variation IV. La Suite dans les idées",
+   "Variation V. La Charme enjôleur",
+   "Variation VI. Le Contentement de soi",
+   "Variation VII. Le Goût du malheur",
+   "Variation VIII. L'Alerte Vieillesse",
+   "Cadence",
+   "Final"
+  ]
+ },
+ "poulenc-fp-61": {
+  "mbid": "cd2d9db3-4d24-4265-b50a-fdbcef536ebd",
+  "title": "Concerto for Two Pianos and Orchestra in D minor, FP 61",
+  "movements": [
+   "I. Allegro ma non troppo",
+   "II. Larghetto",
+   "III. Finale (Allegro molto)"
+  ]
+ },
+ "poulenc-fp-146": {
+  "mbid": "e59e9bcc-8bc5-42dd-87ce-867697ed3b44",
+  "title": "Piano Concerto in C-sharp minor, FP 146",
+  "movements": [
+   "I. Allegretto",
+   "II. Andante con moto",
+   "III. Rondo à la Française"
+  ]
+ },
+ "poulenc-fp-51": {
+  "mbid": "e04dfc83-c6e2-469b-906b-ebcf82a9879a",
+  "title": "Aubade, FP 51",
+  "movements": [
+   "I. Toccata",
+   "II. Recitatif: Les compagnes de Diane",
+   "III. Rondeau: Diane et compagnes",
+   "IV. Presto: Toilette de Diane",
+   "V. Recitatif: Introduction a la variation de Diane",
+   "VI. Andante: Variation de Diane",
+   "VII. Allegro feroce: Désespoir de Diane",
+   "VIII. Conclusion: Adieux et départ de Diane"
+  ]
+ },
+ "gershwin-three-preludes": {
+  "mbid": "013d4aad-70a5-4822-985d-ff41c6656417",
+  "title": "Three Preludes",
+  "movements": [
+   "No. 1. Allegro ben ritmato e deciso",
+   "No. 2. Andante con moto e poco rubato",
+   "No. 3. Allegro ben ritmato e deciso"
+  ]
+ },
+ "gershwin-concerto-in-f": {
+  "mbid": "1b74d74a-7903-4d6f-9757-a85b4ff8832e",
+  "title": "Concerto for Piano and Orchestra in F major",
+  "movements": [
+   "I. Allegro",
+   "II. Adagio - Andante con moto",
+   "III. Allegro agitato"
+  ]
+ },
+ "shostakovich-op-5": {
+  "mbid": "e815f4b9-f912-47b1-a218-74e77c93fb1d",
+  "title": "Three Fantastic Dances, op. 5",
+  "movements": [
+   "no. 1: March in C major. Allegretto",
+   "no. 2: Waltz in G major. Andantino - Allegretto",
+   "no. 3: Polka in C major. Allegretto"
+  ]
+ },
+ "shostakovich-op-34": {
+  "mbid": "20f2b3e3-1b4c-4345-9599-c93711997980",
+  "title": "24 Preludes, op. 34",
+  "movements": [
+   "no. 1: Moderato in C major",
+   "no. 2: Allegretto in A minor",
+   "no. 3: Andante in G major",
+   "no. 4: Moderato in E minor",
+   "no. 5: Allegro vivace in D major",
+   "no. 6: Allegretto in B minor",
+   "no. 7: Andante in A major",
+   "no. 8: Allegretto in F-sharp minor",
+   "no. 9: Presto in E major",
+   "no. 10: Moderato non troppo in C-sharp minor",
+   "no. 11: Allegretto in B major",
+   "no. 12: Allegro non troppo in G-sharp minor",
+   "no. 13: Moderato in F-sharp minor",
+   "no. 14: Adagio in E-flat minor",
+   "no. 15: Allegretto in D-flat major",
+   "no. 16: Andantino in B-flat minor",
+   "no. 17: Largo in A-flat major",
+   "no. 18: Allegretto in F minor",
+   "no. 19: Andantino in E-flat major",
+   "no. 20: Allegretto furioso in C minor",
+   "no. 21: Allegretto poco moderato in B-flat major",
+   "no. 22: Adagio in G minor",
+   "no. 23: Moderato in F major",
+   "no. 24: Allegretto in D minor"
+  ]
+ },
+ "shostakovich-op-61": {
+  "mbid": "cae10746-fecf-45e0-ad7e-061e12495935",
+  "title": "Piano Sonata no. 2 in B minor, op. 61",
+  "movements": [
+   "I. Allegretto",
+   "II. Largo",
+   "III. Moderato con moto"
+  ]
+ },
+ "shostakovich-op-35": {
+  "mbid": "063c624b-62e1-471d-a905-1ef6eddbb46b",
+  "title": "Concerto for Piano, Trumpet and String Orchestra no. 1 in C minor, op. 35",
+  "movements": [
+   "I. Allegretto",
+   "II. Lento",
+   "III. Moderato",
+   "IV. Allegro con brio"
+  ]
+ },
+ "shostakovich-op-102": {
+  "mbid": "3ed3ae19-6230-4337-b1f6-b5d2a718cc1a",
+  "title": "Piano Concerto no. 2 in F major, op. 102",
+  "movements": [
+   "I. Allegro",
+   "II. Andante",
+   "III. Allegro"
+  ]
+ },
+ "messiaen-preludes": {
+  "mbid": "7e28b298-93af-4cb6-9e91-6f11154df483",
+  "title": "Huit préludes",
+  "movements": [
+   "Préludes: No. 1. La colombe",
+   "Préludes: No. 2. Chant d'extase dans une paysage triste",
+   "Préludes: No. 3. Le nombre léger",
+   "Préludes: No. 4. Instants défunts",
+   "Préludes: No. 5. Les sons impalpables du rêve",
+   "Préludes: No. 6. Cloches d'angoisse et larmes d'adieu",
+   "Préludes: No. 7. Plainte calme",
+   "Préludes: No. 8. Un reflet dans le vent"
+  ]
+ },
+ "messiaen-vingt-regards-sur-l-enfant-jesus": {
+  "mbid": "ee96d77a-8d91-4855-9cc4-3057ae15553d",
+  "title": "Vingt regards sur l’enfant Jésus",
+  "movements": [
+   "I. Regard du Père",
+   "II. Regard de l’étoile",
+   "III. L’échange",
+   "IV. Regard de la Vierge",
+   "V. Regard du Fils sur le Fils",
+   "VI. Par lui tout a été fait",
+   "VII. Regard de la Croix",
+   "VIII. Regard des hauteurs",
+   "IX. Regard du temps",
+   "X. Regard de l’Esprit de joie",
+   "XI. Première communion de la Vierge",
+   "XII. La parole toute-puissante",
+   "XIII. Noël",
+   "XIV. Regard des Anges",
+   "XV. Le baiser de l’enfant Jésus",
+   "XVI. Regard des prophètes, des bergers et des mages",
+   "XVII. Regard du silence",
+   "XVIII. Regard de l’onction terrible",
+   "XIX. Je dors, mais mon cœur veille",
+   "XX. Regard de l’Église d’amour"
+  ]
+ },
+ "messiaen-quatre-etudes-de-rythme": {
+  "mbid": "1366f6c8-1075-489f-8800-d8e84cde85dd",
+  "title": "Quatre Études de rythme",
+  "movements": [
+   "No. 1. Île de feu 1",
+   "No. 2. Mode de valeurs et d'intensités",
+   "No. 3. Neumes rhythmiques",
+   "No. 4. Île de feu 2"
+  ]
+ },
+ "messiaen-catalogue-d-oiseaux": {
+  "mbid": "cd2a69f2-cf8b-4300-a993-c91d74f222e1",
+  "title": "Catalogue d’oiseaux, I/42",
+  "movements": [
+   "I. Le Chocard des Alpes",
+   "II. Le Loriot",
+   "III. Le Merle bleu",
+   "IV. Le Traquet stapazin",
+   "V. La Chouette hulotte",
+   "VI. L’Alouette-lulu",
+   "VII. Le Rousserolle effarvatte",
+   "VIII. L’Alouette calandrelle",
+   "IX. La Bouscarle",
+   "X. Le Merle de roche",
+   "XI. La Buse variable",
+   "XII. La Traquet rieur",
+   "XIII. Le Courlis cendré"
+  ]
+ },
+ "khachaturian-piano-concerto-in-d-flat-major": {
+  "mbid": "1a2ae0f0-b3ef-45ce-8ca7-f3a849850322",
+  "title": "Piano Concerto, op. 38",
+  "movements": [
+   "I. Allegro ma non troppo e maestoso",
+   "II. Andante con anima",
+   "III. Allegro brillante"
+  ]
+ },
+ "kabalevsky-op-46": {
+  "mbid": "f697753d-ef36-46a2-9732-65ec773dd1d6",
+  "title": "Piano Sonata no. 3 in F major, op. 46",
+  "movements": [
+   "I. Allegro con moto",
+   "II. Andante cantabile",
+   "III. Allegro giocoso"
+  ]
+ },
+ "kabalevsky-op-23": {
+  "mbid": "11ec174c-6879-413f-b339-8f27d738d1e4",
+  "title": "Piano Concerto no. 2 in G minor, op. 23",
+  "movements": [
+   "I. Allegro moderato",
+   "II. Andantino semplice",
+   "III. Allegro molto"
+  ]
+ },
+ "kabalevsky-op-50": {
+  "mbid": "2f971cac-4bf8-4e2f-a9ed-9ed53fe2a6c2",
+  "title": "Piano Concerto no. 3 in D major, op. 50 \"Youth\"",
+  "movements": [
+   "I. Allegro molto - Poco più mosso - Cadenza (Sostenuto - Allegro molto) - Tempo I - Poco più mosso",
+   "II. Andante con moto - Pochissimo più mosso - Ancora pochissimo più mosso - Tempo I",
+   "III. Presto - [ ] - Tempo I (Prestissimo)"
+  ]
+ },
+ "ginastera-op-2": {
+  "mbid": "89924816-11e5-4437-9b9f-b5a23db01d97",
+  "title": "Danzas argentinas, op. 2",
+  "movements": [
+   "I. Danza del viejo boyero",
+   "II. Danza de la moza donosa",
+   "III. Danza del gaucho matrero"
+  ]
+ },
+ "ginastera-op-22": {
+  "mbid": "6169c643-5380-4b63-9443-995a3724e246",
+  "title": "Piano Sonata no. 1, op. 22",
+  "movements": [
+   "I. Allegro marcato",
+   "II. Presto misterioso",
+   "III. Adagio molto appassionato",
+   "IV. Ruvido ed ostinato"
+  ]
+ },
+ "ginastera-op-28": {
+  "mbid": "7ba14a36-f94a-422c-8ed2-bd76b659552d",
+  "title": "Piano Concerto no. 1, op. 28",
+  "movements": [
+   "I. Cadenza e varianti",
+   "II. Scherzo allucinante",
+   "III. Adagissimo",
+   "IV. Toccata concertata"
+  ]
+ },
+ "barber-op-20": {
+  "mbid": "23c63ebf-ccbb-4252-a9bf-e63d93a3932f",
+  "title": "Excursions, op. 20",
+  "movements": [
+   "I. Un poco allegro",
+   "II. In slow blues tempo",
+   "III. Allegretto",
+   "IV. Allegro molto"
+  ]
+ },
+ "barber-op-26": {
+  "mbid": "5a88448e-3b21-45ae-b718-571f8bf548d5",
+  "title": "Sonata for Piano, op. 26",
+  "movements": [
+   "I. Allegro energico - Un poco meno mosso - Tempo I",
+   "II. Allegro vivace e leggero",
+   "III. Adagio mesto",
+   "IV. Fuga. Allegro con spirito"
+  ]
+ },
+ "barber-op-38": {
+  "mbid": "9c1c4f42-7f6c-4af6-81da-a13168bfeec7",
+  "title": "Concerto for Piano and Orchestra, op. 38",
+  "movements": [
+   "I. Allegro appassionato",
+   "II. Canzone: Moderato",
+   "III. Allegro molto"
+  ]
+ },
+ "copland-piano-sonata": {
+  "mbid": "4a441709-0570-4eb1-8e41-e836b0fd7a1a",
+  "title": "Piano Sonata",
+  "movements": [
+   "I. Molto moderato",
+   "II. Vivace",
+   "III. Andante sostenuto"
+  ]
+ },
+ "copland-four-piano-blues": {
+  "mbid": "0779a2df-72fc-49ca-9a84-31e664d0a62f",
+  "title": "Four Piano Blues",
+  "movements": [
+   "I. For Leo Smit. Freely poetic",
+   "II. For Andor Foldes. Soft and languid",
+   "III. For William Kapell. Muted and sensuous",
+   "IV. For John Kirkpatrick. With bounce"
+  ]
+ },
+ "copland-piano-concerto": {
+  "mbid": "c0ce29fd-94d2-4c47-a779-0c32d3eacf27",
+  "title": "Piano Concerto",
+  "movements": [
+   "I. Andante sostenuto",
+   "II. Molto moderato (molto rubato)"
+  ]
+ },
+ "ligeti-musica-ricercata": {
+  "mbid": "d5a4d92c-ac14-4a01-a043-8fdebb0a7b88",
+  "title": "Musica ricercata",
+  "movements": [
+   "I. Sostenuto - Misurato - Prestissimo",
+   "II. Mesto, rigido e cerimoniale",
+   "III. Allegro con spirito",
+   "IV. Tempo di valse (Poco vivace - à l'orgue de Barbarie)",
+   "V. Rubato. Lamentoso",
+   "VI. Allegro molto capriccioso",
+   "VII. Cantabile, molto legato",
+   "VIII. Vivace. Energico",
+   "IX. Adagio. Mesto - Allegro maestoso",
+   "X. Vivace. Capriccioso",
+   "XI. Andante misurato e tranquillo"
+  ]
+ },
+ "ligeti-piano-concerto": {
+  "mbid": "09b11afd-a9a4-4fa0-b27a-efc51dc77bce",
+  "title": "Concerto for Piano and Orchestra",
+  "movements": [
+   "I. Vivace molto ritmico e preciso - attacca subito",
+   "II. Lento e deserto",
+   "III. Vivace cantabile",
+   "IV. Allegro, risoluto, colto ritmico - attacca subito",
+   "V. Presto luminoso: fluido, constate, sempre molto ritmico"
+  ]
+ }
+}

@@ -1,0 +1,276 @@
+# Best-known works, in the order the YouTube matcher should fetch them (hand-picked).
+# Format: composer surname | catalogue number | common title.  Matched to data/works.json by
+# composer + normalised catalogue number; anything unmatched is reported by catalogue.py.
+Beethoven | Op. 27 No. 2 | Moonlight Sonata
+Beethoven | WoO 59 | Für Elise
+Chopin | Op. 9 No. 2 | Nocturne in E-flat major
+Debussy | L. 75 No. 3 | Clair de lune
+Satie | Gymnopédie No. 1 | Gymnopédie No. 1
+Tchaikovsky | Op. 23 | Piano Concerto No. 1
+Rachmaninoff | Op. 18 | Piano Concerto No. 2
+Grieg | Op. 16 | Piano Concerto in A minor
+Mozart | K. 331 | Piano Sonata No. 11 (Rondo alla Turca)
+Gershwin | Rhapsody in Blue | Rhapsody in Blue
+Chopin | Op. 66 | Fantaisie-Impromptu
+Liszt | S. 541 No. 3 | Liebestraum No. 3
+Liszt | S. 244 No. 2 | Hungarian Rhapsody No. 2
+Liszt | S. 141 No. 3 | La campanella
+Chopin | Op. 10 No. 12 | Étude "Revolutionary"
+Chopin | Op. 10 No. 3 | Étude "Tristesse"
+Chopin | Op. 23 | Ballade No. 1
+Chopin | Op. 53 | Polonaise "Heroic"
+Chopin | Op. 64 No. 1 | Minute Waltz
+Chopin | Op. 64 No. 2 | Waltz in C-sharp minor
+Chopin | Op. 28 No. 4 | Prelude in E minor
+Chopin | Op. 28 No. 15 | Prelude "Raindrop"
+Chopin | B. 49 | Nocturne in C-sharp minor
+Chopin | Op. 11 | Piano Concerto No. 1
+Chopin | Op. 21 | Piano Concerto No. 2
+Chopin | Op. 31 | Scherzo No. 2
+Chopin | Op. 35 | Piano Sonata No. 2 "Funeral March"
+Chopin | Op. 25 No. 11 | Étude "Winter Wind"
+Chopin | Op. 10 No. 5 | Étude "Black Key"
+Chopin | Op. 25 No. 1 | Étude "Aeolian Harp"
+Chopin | Op. 69 No. 1 | Waltz "L'adieu"
+Chopin | Op. 18 | Grande valse brillante
+Chopin | Op. 52 | Ballade No. 4
+Chopin | Op. 60 | Barcarolle
+Chopin | Op. 22 | Andante spianato et Grande polonaise
+Beethoven | Op. 13 | Pathétique Sonata
+Beethoven | Op. 57 | Appassionata Sonata
+Beethoven | Op. 53 | Waldstein Sonata
+Beethoven | Op. 31 No. 2 | Tempest Sonata
+Beethoven | Op. 81a | Les Adieux Sonata
+Beethoven | Op. 106 | Hammerklavier Sonata
+Beethoven | Op. 111 | Piano Sonata No. 32
+Beethoven | Op. 109 | Piano Sonata No. 30
+Beethoven | Op. 110 | Piano Sonata No. 31
+Beethoven | Op. 73 | Piano Concerto No. 5 "Emperor"
+Beethoven | Op. 58 | Piano Concerto No. 4
+Beethoven | Op. 37 | Piano Concerto No. 3
+Beethoven | Op. 15 | Piano Concerto No. 1
+Beethoven | Op. 19 | Piano Concerto No. 2
+Beethoven | Op. 120 | Diabelli Variations
+Beethoven | Op. 129 | Rage over a Lost Penny
+Mozart | K. 545 | Piano Sonata No. 16 "Sonata facile"
+Mozart | K. 467 | Piano Concerto No. 21
+Mozart | K. 466 | Piano Concerto No. 20
+Mozart | K. 488 | Piano Concerto No. 23
+Mozart | K. 491 | Piano Concerto No. 24
+Mozart | K. 595 | Piano Concerto No. 27
+Mozart | K. 271 | Piano Concerto No. 9 "Jeunehomme"
+Mozart | K. 265 | Twelve Variations on "Ah vous dirai-je, Maman"
+Mozart | K. 397 | Fantasia in D minor
+Mozart | K. 310 | Piano Sonata No. 8 in A minor
+Mozart | K. 330 | Piano Sonata No. 10
+Mozart | K. 332 | Piano Sonata No. 12
+Mozart | K. 457 | Piano Sonata No. 14 in C minor
+Mozart | K. 475 | Fantasia in C minor
+Bach | BWV 988 | Goldberg Variations
+Bach | BWV 846 | Prelude and Fugue in C major (WTC I)
+Bach | BWV 971 | Italian Concerto
+Bach | BWV 1052 | Keyboard Concerto in D minor
+Bach | BWV 1056 | Keyboard Concerto in F minor
+Bach | BWV 903 | Chromatic Fantasia and Fugue
+Bach | BWV 772 | Invention No. 1
+Bach | BWV 826 | Partita No. 2 in C minor
+Bach | BWV 825 | Partita No. 1
+Bach | BWV 831 | French Overture
+Bach | BWV 812 | French Suite No. 1
+Bach | BWV 816 | French Suite No. 5
+Bach | BWV 807 | English Suite No. 2
+Bach | BWV 847 | Prelude and Fugue in C minor (WTC I)
+Bach | BWV 992 | Capriccio on the departure of a beloved brother
+Scarlatti | K. 141 | Sonata in D minor
+Scarlatti | K. 380 | Sonata in E major
+Scarlatti | K. 9 | Sonata in D minor "Pastorale"
+Scarlatti | K. 466 | Sonata in F minor
+Scarlatti | K. 27 | Sonata in B minor
+Scarlatti | K. 213 | Sonata in D minor
+Handel | HWV 430 | Suite No. 5 "Harmonious Blacksmith"
+Rameau | Le rappel des oiseaux | Le rappel des oiseaux
+Couperin | Les barricades mystérieuses | Les barricades mystérieuses
+Haydn | Hob. XVI:52 | Piano Sonata in E-flat major
+Haydn | Hob. XVIII:11 | Piano Concerto in D major
+Haydn | Hob. XVII:6 | Variations in F minor
+Schubert | D. 899 No. 3 | Impromptu in G-flat major
+Schubert | D. 899 No. 2 | Impromptu in E-flat major
+Schubert | D. 899 No. 4 | Impromptu in A-flat major
+Schubert | D. 935 No. 2 | Impromptu in A-flat major
+Schubert | D. 935 No. 3 | Impromptu in B-flat major
+Schubert | D. 960 | Piano Sonata in B-flat major
+Schubert | D. 760 | Wanderer Fantasy
+Schubert | D. 780 No. 3 | Moment musical No. 3
+Schubert | D. 959 | Piano Sonata in A major
+Schubert | D. 958 | Piano Sonata in C minor
+Schubert | D. 664 | Piano Sonata in A major
+Schubert | D. 946 | Drei Klavierstücke
+Mendelssohn | Op. 25 | Piano Concerto No. 1
+Mendelssohn | Op. 14 | Rondo capriccioso
+Mendelssohn | Op. 54 | Variations sérieuses
+Mendelssohn | Op. 62 No. 6 | Spring Song
+Mendelssohn | Op. 19b No. 6 | Venetian Boat Song
+Schumann | Op. 54 | Piano Concerto in A minor
+Schumann | Op. 15 No. 7 | Träumerei
+Schumann | Op. 15 | Kinderszenen
+Schumann | Op. 9 | Carnaval
+Schumann | Op. 17 | Fantasie in C major
+Schumann | Op. 16 | Kreisleriana
+Schumann | Op. 13 | Symphonic Études
+Schumann | Op. 26 | Faschingsschwank aus Wien
+Schumann | Op. 12 | Fantasiestücke
+Schumann | Op. 6 | Davidsbündlertänze
+Schumann | Op. 2 | Papillons
+Schumann | Op. 18 | Arabeske
+Schumann | Op. 82 | Waldszenen
+Schumann | Op. 68 | Album for the Young
+Clara Schumann | Op. 7 | Piano Concerto in A minor
+Liszt | S. 124 | Piano Concerto No. 1
+Liszt | S. 125 | Piano Concerto No. 2
+Liszt | S. 178 | Piano Sonata in B minor
+Liszt | S. 139 No. 4 | Mazeppa
+Liszt | S. 514 | Mephisto Waltz No. 1
+Liszt | S. 160 | Années de pèlerinage I
+Liszt | S. 161 | Années de pèlerinage II
+Liszt | S. 163 | Années de pèlerinage III
+Liszt | S. 144 No. 3 | Un sospiro
+Liszt | S. 126 | Totentanz
+Liszt | S. 173 No. 7 | Funérailles
+Liszt | S. 434 | Rigoletto Paraphrase
+Liszt | S. 172 No. 3 | Consolation No. 3
+Liszt | S. 175 No. 1 | St. François d'Assise
+Liszt | S. 171 | Ballade No. 2
+Brahms | Op. 15 | Piano Concerto No. 1
+Brahms | Op. 83 | Piano Concerto No. 2
+Brahms | Op. 118 No. 2 | Six Pieces (Intermezzo in A major)
+Brahms | Op. 117 No. 1 | Three Intermezzi
+Brahms | Op. 119 No. 1 | Four Pieces
+Brahms | Op. 116 | Fantasien
+Brahms | Op. 79 No. 2 | Two Rhapsodies
+Brahms | Op. 24 | Handel Variations
+Brahms | Op. 35 | Paganini Variations
+Brahms | Op. 5 | Piano Sonata No. 3
+Brahms | Op. 39 No. 15 | Waltzes (Waltz in A-flat)
+Saint-Saëns | Op. 22 | Piano Concerto No. 2
+Saint-Saëns | Op. 103 | Piano Concerto No. 5 "Egyptian"
+Saint-Saëns | Op. 44 | Piano Concerto No. 4
+Franck | Prelude, Chorale and Fugue | Prelude, Chorale and Fugue
+Franck | Variations symphoniques | Symphonic Variations
+Litolff | Op. 102 | Concerto symphonique No. 4 (Scherzo)
+Mussorgsky | Pictures at an Exhibition | Pictures at an Exhibition
+Balakirev | Islamey | Islamey
+Tchaikovsky | Op. 37a No. 6 | June: Barcarolle
+Tchaikovsky | Op. 37a | The Seasons
+Tchaikovsky | Op. 44 | Piano Concerto No. 2
+Tchaikovsky | Op. 39 | Album for the Young
+Grieg | Op. 65 No. 6 | Lyric Pieces Book VIII (Wedding Day at Troldhaugen)
+Grieg | Op. 43 No. 6 | To Spring
+Grieg | Op. 43 No. 1 | Butterfly
+Grieg | Op. 24 | Ballade in G minor
+Grieg | Op. 40 | Holberg Suite
+Dvořák | Op. 33 | Piano Concerto in G minor
+Dvořák | Op. 101 No. 7 | Humoresques
+Rimsky-Korsakov | Op. 30 | Piano Concerto
+Rachmaninoff | Op. 30 | Piano Concerto No. 3
+Rachmaninoff | Op. 43 | Rhapsody on a Theme of Paganini
+Rachmaninoff | Op. 1 | Piano Concerto No. 1
+Rachmaninoff | Op. 40 | Piano Concerto No. 4
+Rachmaninoff | Op. 3 No. 2 | Prelude in C-sharp minor
+Rachmaninoff | Op. 23 No. 5 | Prelude in G minor
+Rachmaninoff | Op. 32 No. 12 | Prelude in G-sharp minor
+Rachmaninoff | Op. 23 No. 4 | Prelude in D major
+Rachmaninoff | Op. 36 | Piano Sonata No. 2
+Rachmaninoff | Op. 39 No. 5 | Études-tableaux Op. 39
+Rachmaninoff | Op. 33 | Études-tableaux Op. 33
+Rachmaninoff | Op. 16 No. 4 | Moments musicaux
+Rachmaninoff | Op. 42 | Corelli Variations
+Scriabin | Op. 8 No. 12 | Étude in D-sharp minor
+Scriabin | Op. 2 No. 1 | Étude in C-sharp minor
+Scriabin | Op. 20 | Piano Concerto
+Scriabin | Op. 19 | Piano Sonata No. 2 "Sonata-Fantasy"
+Scriabin | Op. 9 No. 2 | Prelude and Nocturne for the left hand
+Scriabin | Op. 53 | Piano Sonata No. 5
+Scriabin | Op. 68 | Piano Sonata No. 9 "Black Mass"
+Scriabin | Op. 72 | Vers la flamme
+Debussy | L. 66 No. 1 | Arabesque No. 1
+Debussy | L. 117 No. 8 | La fille aux cheveux de lin
+Debussy | L. 117 No. 10 | La cathédrale engloutie
+Debussy | L. 123 No. 12 | Feux d'artifice
+Debussy | L. 113 | Children's Corner
+Debussy | L. 100 | Estampes
+Debussy | L. 110 No. 1 | Reflets dans l'eau
+Debussy | L. 111 | Images Book II
+Debussy | L. 106 | L'isle joyeuse
+Debussy | L. 68 | Rêverie
+Debussy | L. 136 | Études
+Debussy | L. 121 | La plus que lente
+Debussy | L. 95 | Pour le piano
+Ravel | M. 83 | Piano Concerto in G major
+Ravel | M. 82 | Piano Concerto for the Left Hand
+Ravel | M. 19 | Pavane pour une infante défunte
+Ravel | M. 55 | Gaspard de la nuit
+Ravel | M. 30 | Jeux d'eau
+Ravel | M. 43 | Miroirs (Alborada del gracioso)
+Ravel | M. 68 | Le tombeau de Couperin
+Ravel | M. 61 | Valses nobles et sentimentales
+Ravel | M. 72 | La valse (piano)
+Ravel | M. 40 | Sonatine
+Satie | Gnossienne No. 1 | Gnossiennes
+Satie | Je te veux | Je te veux
+Fauré | Op. 19 | Ballade for piano and orchestra
+Fauré | Op. 33 No. 1 | Nocturnes
+Albéniz | Op. 165 No. 2 | España (Tango)
+Albéniz | Op. 47 No. 5 | Suite española (Asturias)
+Albéniz | Iberia | Iberia
+Granados | Op. 11 | Goyescas
+Granados | Op. 37 No. 5 | Danzas españolas
+de Falla | Noches en los jardines de España | Nights in the Gardens of Spain
+de Falla | Ritual Fire Dance | Ritual Fire Dance (piano)
+Mompou | Música callada | Música callada
+Prokofiev | Op. 26 | Piano Concerto No. 3
+Prokofiev | Op. 16 | Piano Concerto No. 2
+Prokofiev | Op. 10 | Piano Concerto No. 1
+Prokofiev | Op. 83 | Piano Sonata No. 7
+Prokofiev | Op. 82 | Piano Sonata No. 6
+Prokofiev | Op. 84 | Piano Sonata No. 8
+Prokofiev | Op. 11 | Toccata
+Prokofiev | Op. 22 | Visions fugitives
+Prokofiev | Op. 75 | Romeo and Juliet (piano pieces)
+Prokofiev | Op. 28 | Piano Sonata No. 3
+Shostakovich | Op. 102 | Piano Concerto No. 2
+Shostakovich | Op. 35 | Piano Concerto No. 1
+Shostakovich | Op. 87 | 24 Preludes and Fugues
+Shostakovich | Op. 34 | 24 Preludes
+Bartók | Sz. 95 | Piano Concerto No. 2
+Bartók | Sz. 119 | Piano Concerto No. 3
+Bartók | Sz. 83 | Piano Concerto No. 1
+Bartók | Sz. 56 | Romanian Folk Dances
+Bartók | Sz. 107 | Mikrokosmos
+Bartók | Sz. 49 | Allegro barbaro
+Bartók | Sz. 80 | Piano Sonata
+Bartók | Sz. 81 | Out of Doors
+Gershwin | Concerto in F | Piano Concerto in F
+Gershwin | Three Preludes | Three Preludes
+Khachaturian | Piano Concerto | Piano Concerto in D-flat major
+Poulenc | FP 61 | Concerto for Two Pianos
+Barber | Op. 38 | Piano Concerto
+Barber | Op. 26 | Piano Sonata
+Messiaen | Vingt regards sur l'enfant-Jésus | Vingt regards sur l'enfant-Jésus
+Ligeti | Études pour piano, Book 1 | Études pour piano
+Strauss | Burleske | Burleske
+Field | Nocturne No. 5 | Nocturnes
+Alkan | Op. 39 | Twelve Études in all the minor keys
+Janáček | In the Mists | In the Mists
+Szymanowski | Op. 34 | Masques
+Ginastera | Op. 2 | Danzas argentinas
+Villa-Lobos | Bachianas brasileiras No. 3 | Bachianas brasileiras No. 3
+Copland | Piano Variations | Piano Variations
+Chaminade | Op. 35 No. 2 | Automne
+Medtner | Op. 38 | Forgotten Melodies
+Weber | Op. 65 | Invitation to the Dance
+Weber | Op. 79 | Konzertstück in F minor
+Hummel | Op. 85 | Piano Concerto in A minor
+Clementi | Op. 36 | Sonatinas
+Busoni | Op. 39 | Piano Concerto
+Kabalevsky | Op. 50 | Piano Concerto No. 3
+MacDowell | Op. 51 No. 1 | Woodland Sketches (To a Wild Rose)
