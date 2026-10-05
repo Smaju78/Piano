@@ -5,82 +5,153 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Piano · Solo works and concertos</title>
 <meta name="description" content="Piano: the well-known classical piano repertoire, from Bach to Ligeti. Solo works and piano concertos with details, movements, moods and the best YouTube performances, plus a jukebox.">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f4f1ea">
+<script>
+  // A remembered theme choice applies before the first paint; otherwise the system scheme (CSS) decides.
+  (function () {
+    var th = null;
+    try { th = localStorage.getItem("piano.theme"); } catch (e) { /* storage unavailable */ }
+    if (th === "light" || th === "dark") document.documentElement.dataset.theme = th;
+  })();
+</script>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='3' y='6' width='26' height='20' rx='3' fill='%23f6f2ea' stroke='%231c1a17' stroke-width='2'/%3E%3Cpath d='M10 6v12M16 6v12M22 6v12' stroke='%231c1a17' stroke-width='1.5'/%3E%3Crect x='8' y='6' width='4' height='11' fill='%231c1a17'/%3E%3Crect x='14' y='6' width='4' height='11' fill='%231c1a17'/%3E%3Crect x='20' y='6' width='4' height='11' fill='%231c1a17'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Source+Sans+3:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Inter:wght@400;500;600;700&display=swap">
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
-<header class="top">
-  <a class="brand" href="#/">
-    <span class="brand-mark" aria-hidden="true"></span>
-    <span class="brand-name">Piano</span>
-    <span class="brand-sub">Solo works &amp; concertos</span>
-  </a>
-  <nav class="nav" aria-label="Main">
-    <a href="#/" data-nav="home">Listen</a>
-    <a href="#/browse/composer" data-nav="browse">Browse</a>
-    <a href="#/jukebox" data-nav="jukebox">Jukebox</a>
-  </nav>
+<body data-screen="home">
+<header class="mast">
+  <div class="mast-in">
+    <a class="brand" href="#/"><span class="mark keys" aria-hidden="true"></span><span class="word">Piano</span><small>Solo works &amp; concertos</small></a>
+    <nav class="nav" aria-label="Main">
+      <a href="#/" data-nav="home">Listen</a>
+      <a href="#/browse/composer" data-nav="browse">Browse</a>
+      <a href="#/jukebox" data-nav="jukebox">Jukebox</a>
+      <a href="#/mine" data-nav="mine">Mine</a>
+    </nav>
+    <form class="searchf" role="search" id="searchf">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search a work, composer, pianist or Op. number" aria-label="Search works, composers and pianists" autocomplete="off">
+    </form>
+    <button class="pill icon theme-toggle" type="button" aria-label="Switch between the light and the dark look">
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+    </button>
+    <span class="account" id="account" hidden></span>
+  </div>
+  <div class="keys" aria-hidden="true"></div>
 </header>
 
-<main id="view" tabindex="-1">
-  <p class="loading">Loading the repertoire…</p>
+<main>
+  <div id="view" tabindex="-1">
+    <div class="loading"><div class="keys" aria-hidden="true"></div><p>Loading the repertoire…</p></div>
+  </div>
+
+  <!-- The jukebox stays in the page on every route (moved off-screen when not shown) so playback continues. -->
+  <section id="jb-screen" class="np offstage" aria-hidden="true" aria-label="Jukebox">
+    <div class="np-main">
+      <div class="stage">
+        <div class="video jb-player">
+          <div id="yt-player"></div>
+          <div class="jb-empty" id="jb-empty">
+            <div class="keys" aria-hidden="true"></div>
+            <p id="jb-empty-msg"></p>
+            <button class="btn sm" type="button" id="jb-empty-play"></button>
+            <button class="btn ghost sm" type="button" id="jb-empty-clear" hidden>Clear filters</button>
+          </div>
+        </div>
+        <div class="sidep" id="jb-side"></div>
+      </div>
+      <div id="jb-now"></div>
+      <div class="seek">
+        <span id="jb-cur">0:00</span>
+        <input type="range" id="jb-seek" min="0" max="1000" value="0" step="1" aria-label="Position in the recording" disabled>
+        <span id="jb-dur">–:––</span>
+      </div>
+      <div class="ctls">
+        <button id="jb-like" class="side" type="button" disabled aria-pressed="false" aria-label="Like this work" title="Liked works come up 4× as often">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l8.8 8.8 8.8-8.8a5.5 5.5 0 0 0 0-7.8z"/></svg>
+        </button>
+        <button id="jb-prev" type="button" disabled aria-label="Previous work"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg></button>
+        <button id="jb-play" class="big" type="button" data-playing="false" aria-label="Play">
+          <svg class="playi" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          <svg class="pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+        </button>
+        <button id="jb-skip" type="button" disabled aria-label="Next work"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg></button>
+        <a id="jb-yt" class="side yt" href="https://www.youtube.com/" target="_blank" rel="noopener" data-open-yt aria-label="Open in YouTube" title="Open in YouTube (ad-free with Premium)"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2C2 8.8 2 12 2 12s0 3.2.4 4.8a2.5 2.5 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8c.4-1.6.4-4.8.4-4.8s0-3.2-.4-4.8zM10 15V9l5.2 3z"/></svg></a>
+        <button id="jb-never" class="side" type="button" disabled aria-label="Never play this work" title="Never play this work in the jukebox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M5.6 5.6l12.8 12.8"/></svg></button>
+      </div>
+      <div id="jb-notes"></div>
+    </div>
+    <div class="queue">
+      <div class="qh">
+        <h2>Programme</h2>
+        <span class="cnt" id="jb-count"></span>
+        <button class="btn ghost sm fbtn" type="button" id="jb-edit" aria-expanded="false" aria-controls="sheet">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 5h18M6 12h12M10 19h4"/></svg>Filters
+        </button>
+      </div>
+      <div class="active" id="jb-active"></div>
+      <p class="upnext" id="jb-next"></p>
+      <div id="jb-queue"></div>
+    </div>
+  </section>
+
+  <footer class="legal">
+    <p>Work data checked against <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>;
+    movements from <a href="https://musicbrainz.org" target="_blank" rel="noopener">MusicBrainz</a> (both CC0).
+    Recordings play from YouTube. Personal, non-commercial project.</p>
+    <p>This site uses YouTube API Services:
+    <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms of Service</a> ·
+    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> ·
+    <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
+  </footer>
 </main>
 
-<!-- The jukebox stays in the page on every route (moved off-screen when not shown) so playback continues. -->
-<section id="jukebox" class="jukebox offstage" aria-label="Jukebox">
-  <div class="jb-stage">
-    <div class="jb-player">
-      <div id="yt-player"></div>
-      <div class="jb-empty" id="jb-empty">
-        <p id="jb-empty-msg">Press Play for a shuffle of works that match your filters.</p>
-        <button class="btn" type="button" id="jb-empty-clear" hidden>Clear filters</button>
-      </div>
+<div class="mini" id="mini" hidden role="region" aria-label="Now playing">
+  <div class="bar edge"><i id="mini-bar"></i></div>
+  <img class="thumb" id="mini-thumb" src="" alt="">
+  <a class="meta" id="mini-title" href="#/jukebox"><b id="mini-main"></b><span id="mini-sub"></span></a>
+  <div class="mid">
+    <div class="ctl">
+      <button class="hide-s" type="button" id="mini-prev" aria-label="Previous work"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 6h2v12H6zm3.5 6 8.5 6V6z"/></svg></button>
+      <button class="big" type="button" id="mini-play" data-playing="false" aria-label="Play">
+        <svg class="playi" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+        <svg class="pause" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" hidden><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+      </button>
+      <button type="button" id="mini-skip" aria-label="Next work"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg></button>
     </div>
-    <div class="jb-side">
-      <div class="jb-now" id="jb-now"><p class="hint">Nothing playing yet.</p></div>
-      <div class="jb-controls">
-        <button id="jb-prev" class="btn icon" type="button" disabled aria-label="Previous work">⏮</button>
-        <button id="jb-play" class="btn primary" type="button">▶ Play</button>
-        <button id="jb-skip" class="btn icon" type="button" disabled aria-label="Next work">⏭</button>
-        <button id="jb-like" class="btn" type="button" disabled aria-pressed="false" title="Liked works come up 4× as often">♥ Like</button>
-        <button id="jb-never" class="btn" type="button" disabled title="Never play this work in the jukebox">Never play</button>
-      </div>
-      <p class="jb-next hint" id="jb-next"></p>
-      <div id="jb-movements"></div>
-    </div>
+    <div class="prog hide-s"><span id="mini-cur">0:00</span><div class="bar"><i id="mini-prog"></i></div><span id="mini-dur">–:––</span></div>
   </div>
-
-  <div class="jb-filterbar">
-    <span class="jb-count" id="jb-count"></span>
-    <div class="jb-active" id="jb-active"></div>
-    <button class="btn small" type="button" id="jb-edit" aria-expanded="false" aria-controls="jb-filters">Edit filters</button>
-  </div>
-  <div class="jb-filters" id="jb-filters" hidden></div>
-  <details class="jb-prefs" id="jb-prefs"></details>
-</section>
-
-<div class="mini" id="mini" hidden>
-  <a class="mini-title" id="mini-title" href="#/jukebox"></a>
-  <div class="mini-btns">
-    <button class="btn icon" type="button" id="mini-play" aria-label="Pause">❚❚</button>
-    <button class="btn icon" type="button" id="mini-skip" aria-label="Next work">⏭</button>
-    <button class="btn icon" type="button" id="mini-like" aria-pressed="false" aria-label="Like">♥</button>
-  </div>
+  <a class="hide-s side yt" id="mini-yt" href="https://www.youtube.com/" target="_blank" rel="noopener" data-open-yt aria-label="Open in YouTube" title="Open in YouTube (ad-free with Premium)"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2C2 8.8 2 12 2 12s0 3.2.4 4.8a2.5 2.5 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8c.4-1.6.4-4.8.4-4.8s0-3.2-.4-4.8zM10 15V9l5.2 3z"/></svg></a>
+  <button class="hide-s side" type="button" id="mini-like" aria-pressed="false" aria-label="Like"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l8.8 8.8 8.8-8.8a5.5 5.5 0 0 0 0-7.8z"/></svg></button>
 </div>
 
-<footer class="foot">
-  <p>Work data checked against <a href="https://www.wikidata.org" target="_blank" rel="noopener">Wikidata</a>;
-  movements from <a href="https://musicbrainz.org" target="_blank" rel="noopener">MusicBrainz</a> (both CC0).
-  Recordings play from YouTube. Personal, non-commercial project.</p>
-  <p>This site uses YouTube API Services:
-  <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms of Service</a> ·
-  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a> ·
-  <a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></p>
-</footer>
+<nav class="tabs" aria-label="Main">
+  <a href="#/" data-nav="home"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M3 11l9-8 9 8v10a1 1 0 0 1-1 1h-5v-7h-6v7H4a1 1 0 0 1-1-1z"/></svg>Listen</a>
+  <a href="#/browse/composer" data-nav="browse"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 5h16M4 12h16M4 19h10"/></svg>Browse</a>
+  <a href="#/jukebox" data-nav="jukebox"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/></svg>Jukebox</a>
+  <a href="#/mine" data-nav="mine"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l8.8 8.8 8.8-8.8a5.5 5.5 0 0 0 0-7.8z"/></svg>Mine</a>
+</nav>
+
+<div class="sheet-bg" id="sheet-bg"></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" aria-hidden="true">
+  <div class="handle" aria-hidden="true"></div>
+  <h3><span id="sheet-title">Filters</span><span class="cnt" id="sheet-count"></span><button type="button" id="sheet-close">Done</button></h3>
+  <div id="jb-filters"></div>
+  <div class="foot"><button class="btn ghost sm" type="button" id="sheet-clear">Clear all</button><button class="btn sm" type="button" id="sheet-done">Done</button></div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<dialog class="dlg" id="resume" aria-labelledby="resume-title">
+  <h2 id="resume-title">Welcome back</h2>
+  <p id="resume-text"></p>
+  <div class="dlg-btns"><button class="btn sm" type="button" id="resume-yes">Continue</button><button class="btn ghost sm" type="button" id="resume-no">No, go to the home page</button></div>
+</dialog>
 
 <script src="app.js"></script>
+<script type="module" src="sync.js"></script>
 </body>
 </html>
