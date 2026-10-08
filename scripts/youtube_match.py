@@ -271,6 +271,11 @@ class Work:
         core = KEY_RE_STRIP.sub(" ", fold(w["formal"]))
         self.core = words(re.sub(r"\(.*?\)", " ", core))
         self.core_distinct = bool(re.search(r"\bno \d+\b", self.core)) or bool(set(self.core.split()) - FORM_WORDS)
+        if not self.core_distinct and not w["cat"] and len(self.core.split()) >= 2:
+            # a generic title ("Piano Variations") is distinctive when it is the composer's only work so named
+            others = [words(re.sub(r"\(.*?\)", " ", KEY_RE_STRIP.sub(" ", fold(x["formal"]))))
+                      for x in all_works if x["composer"] == w["composer"] and x["id"] != w["id"]]
+            self.core_distinct = not any(self.core in o or o in self.core for o in others)
         self.aliases = [words(a) for a in w["aliases"] + w["search"] if words(a)]
         self.form_words = FORM_SYNONYMS.get(w["form"], [fold(w["form"]).split()[0]])
         # is (form, key) unique for this composer? then "Chopin Ballade in G minor" identifies the work
@@ -285,7 +290,9 @@ class Work:
             return SMALL_MAX[self.w["form"]]
         whole_cycle = self.w["form"] in ("suite", "variations", "character piece", "étude", "prelude",
                                          "prelude and fugue") and not re.search(r"No\.\s*\d+$", self.w["cat"])
-        return LONG_MAX_SEC if whole_cycle and (self.multi or self.w["form"] in ("variations", "suite")) else MAX_SEC
+        if whole_cycle and (self.multi or self.w["form"] in ("variations", "suite")):
+            return LONG_MAX_SEC
+        return 80 * 60 if self.concerto else MAX_SEC  # Busoni's concerto runs about 70 minutes
 
     def min_sec(self):
         if self.concerto:
@@ -541,7 +548,10 @@ def main():
             p = OUT / f'{w["id"]}.json'
             if p.exists():
                 r = json.loads(p.read_text(encoding="utf-8"))
-                r["videos"] = keep_videos(Work(w, all_works), r["candidates"])
+                old = {v["id"]: v for v in r.get("videos", [])}  # keep stats updated by refresh_stats.py
+                r["videos"] = [{**v, **{k: old[v["id"]][k] for k in ("title", "channel", "views", "likes", "seconds")
+                                        if k in old.get(v["id"], {})}}
+                               for v in keep_videos(Work(w, all_works), r["candidates"])]
                 p.write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
                 n += 1
         print(f"refiltered {n} cached works")
