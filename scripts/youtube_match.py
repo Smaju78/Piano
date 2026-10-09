@@ -373,7 +373,7 @@ def judge(work, v):
         elif num and base in vcats and re.search(rf"\b(no|nr|n°|#)\.?\s*{num}\b", t):
             cat_ok = True  # "Nocturne No. 2, Op. 9"
         elif num and base in vcats and (
-                re.search(rf"(?<![a-z0-9]){ROMAN_OF[int(num)]}\s*[.:)]\s|[:,]\s*{num}\s*[.:]\s", t)
+                re.search(rf"(?<![a-z0-9]){ROMAN_OF.get(int(num), num)}\s*[.:)]\s|[:,]\s*{num}\s*[.:]\s", t)
                 or any(phrase_in(a, tw) for a in work.aliases if len(a) >= 6)
                 or (work.core_distinct and phrase_in(work.core, tw))):
             cat_ok = True  # "Suite bergamasque, L. 75: III. Clair de lune", "Préludes, L. 117: 10. La cathédrale"
