@@ -175,7 +175,7 @@ OTHER_INSTRUMENT = re.compile(r"\b(cello|cellist|violin|violinist|guitar|guitari
                               r"accordion|saxophone|clarinet|choir|vocal|singer|soprano|tenor)\b")
 PART = re.compile(r"\bpart \d|\bpt\.? ?\d|\(\d/\d\)|\b\d/\d\)|\[\d/\d\]", re.I)
 MOVEMENT = re.compile(r"\b(1st|2nd|3rd|4th|ist|first|second|third|fourth|last|final)\s*\.?\s*(mov|movement|mvt|mvmt)|"
-                      r"\((i|ii|iii|iv)\)|"
+                      r"\((i|ii|iii|iv)\)|\bmvt\.?\s*(i{1,3}|iv)\b|"
                       r"\bmov(ement|t)?\.?\s*(\d|i{1,3}|iv)\b|\bmvt\.?\s*\d|\b(i|ii|iii|iv)\.\s+[a-z]|"
                       r"\b(i|ii|iii|iv)\s*-\s*(allegro|adagio|andante|presto|largo|lento|rondo|scherzo|vivace|moderato)", re.I)
 # falling-notes visualiser / arrangement channels (the brief excludes visualisers)
@@ -251,7 +251,12 @@ class Work:
         self.key = (w["key"] or "").lower()
         self.concerto = w["type"] == "concerto"
         # multi-movement: known parts, or a form that always has them (Scarlatti's sonatas are single movements)
-        self.multi = (len(MOVEMENTS.get(w["id"], {}).get("movements", [])) >= 2
+        # a catalogue range (Alkan "Op. 39 Nos. 8–10", Bach "BWV 787–801") covers several numbered pieces
+        m = re.fullmatch(r"op(\d+)nos(\d+)[-–](\d+)", self.cat) if self.cat else None
+        self.range = set()
+        if m:
+            self.range = {f"op{m.group(1)}"} | {f"op{m.group(1)}-{n}" for n in range(int(m.group(2)), int(m.group(3)) + 1)}
+        self.multi = bool(self.range) or (len(MOVEMENTS.get(w["id"], {}).get("movements", [])) >= 2
                       or (w["form"] in ("sonata", "partita", "suite", "sonatina", "concerto")
                           and w["composer"] != "Domenico Scarlatti" and "Sonatas" not in w["formal"]))
         movs = MOVEMENTS.get(w["id"], {}).get("movements", [])
@@ -286,6 +291,7 @@ class Work:
     def max_sec(self):
         whole_set = re.search(r"preludes|etudes|waltzes|mazurkas|nocturnes|inventions|intermezzi|impromptus|"
                               r"sinfonias|bagatelles|fugues|melodies|\bbook\b", fold(self.w["formal"]))
+        whole_set = whole_set or "Nos." in self.w["cat"]  # Alkan's Op. 39 Nos. 8–10: three études as one work
         if self.w["form"] in SMALL_MAX and not self.multi and not whole_set:  # one short piece, never a set
             return SMALL_MAX[self.w["form"]]
         whole_cycle = self.w["form"] in ("suite", "variations", "character piece", "étude", "prelude",
@@ -365,7 +371,12 @@ def judge(work, v):
     vcats = cats_in(title, work.kinds)
     same_kind = {c for c in vcats if cat_kind(c) == cat_kind(work.cat)} if work.cat else set()
     cat_ok = False
-    if work.cat:
+    if work.range:  # "Op. 39 Nos. 8–10": the parts' numbers belong to this work, if the work is named too
+        if vcats and vcats <= work.range and (phrase_in(work.core, tw) or any(phrase_in(a, tw) for a in work.aliases)):
+            return True, "catalogue number"
+        if vcats - work.range:
+            return False, f"other catalogue number {sorted(vcats - work.range)}"
+    elif work.cat:
         base = re.sub(r"-\d+$", "", work.cat)
         num = work.cat.rsplit("-", 1)[1] if base != work.cat else None
         if work.cat in vcats:

@@ -378,7 +378,7 @@ saint-saens-op-52-no-6 Dn Vi
 saint-saens-op-111-no-6 Vi Pl
 balakirev-op-18 Vi Dn
 balakirev-the-lark-glinka Te Me
-balakirev-piano-sonata-in-b-flat-minor Me Pa
+balakirev-op-102 Me Pa
 mussorgsky-une-larme Me Te
 tchaikovsky-op-37a Te Me Dn
 tchaikovsky-op-37a-no-1 Ca Te

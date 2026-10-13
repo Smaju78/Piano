@@ -12980,11 +12980,11 @@
   "links": 0
  },
  {
-  "id": "balakirev-piano-sonata-in-b-flat-minor",
-  "title": "Piano Sonata in B-flat minor",
-  "formal": "Piano Sonata in B-flat minor",
+  "id": "balakirev-op-102",
+  "title": "Piano Sonata No. 2 in B-flat minor",
+  "formal": "Piano Sonata No. 2 in B-flat minor",
   "composer": "Mily Balakirev",
-  "cat": "",
+  "cat": "Op. 102",
   "key": "B-flat minor",
   "year": 1905,
   "period": "Romantic",
@@ -12992,11 +12992,13 @@
   "type": "solo",
   "set": "",
   "aliases": [],
-  "search": [],
+  "search": [
+   "Piano Sonata in B-flat minor"
+  ],
   "pop": null,
-  "wikidata": null,
+  "wikidata": "Q3490071",
   "enwiki": null,
-  "links": 0
+  "links": 4
  },
  {
   "id": "mussorgsky-pictures-at-an-exhibition",

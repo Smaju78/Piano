@@ -264,7 +264,7 @@ Op. 111 No. 6 | Toccata (Étude No. 6) in F major | 1899 | toccata | +Toccata af
 ## - | | piece
 Op. 18 | Islamey, Oriental Fantasy | 1869 | fantasy | Islamey
 - | The Lark (Glinka) | 1864 | transcription | Zhavoronok
-- | Piano Sonata in B-flat minor | 1905 | sonata
+Op. 102 | Piano Sonata No. 2 in B-flat minor | 1905 | sonata | +Piano Sonata in B-flat minor
 
 @ Modest Mussorgsky
 ## - | | suite
