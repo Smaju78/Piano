@@ -64,7 +64,7 @@ p { margin: 0; }
 
 /* ---- shell ---- */
 .mast { border-bottom: 1px solid var(--line); background: var(--bg); position: relative; z-index: 20; }
-.mast-in { max-width: 1180px; margin: 0 auto; padding: 12px var(--gut) 10px; display: grid; grid-template-columns: 1fr auto auto; grid-template-areas: "brand theme acct" "search search search"; gap: 10px 8px; align-items: center; }
+.mast-in { max-width: 1180px; margin: 0 auto; padding: 12px var(--gut) 10px; display: grid; grid-template-columns: auto 1fr auto auto; grid-template-areas: "hub brand theme acct" "search search search search"; gap: 10px 8px; align-items: center; }
 .brand { grid-area: brand; display: flex; align-items: center; gap: 10px; min-width: 0; }
 .brand .mark { width: 34px; height: 14px; flex: 0 0 auto; border: 1px solid var(--fg); border-radius: 2px; background-size: 34px 60%, 34px 100%; }
 .brand .mark.keys { background:
@@ -98,7 +98,7 @@ p { margin: 0; }
 .account { grid-area: acct; position: relative; display: inline-flex; }
 body[data-screen="jukebox"] .searchf { display: none; }
 @media (min-width: 900px) {
-  .mast-in { grid-template-columns: auto auto 1fr auto auto; grid-template-areas: "brand nav search theme acct"; gap: 18px; padding: 16px 32px 14px; }
+  .mast-in { grid-template-columns: auto auto auto 1fr auto auto; grid-template-areas: "hub brand nav search theme acct"; gap: 18px; padding: 16px 32px 14px; }
   .brand small { display: inline; }
   .brand .word { font-size: 1.8rem; }
   .nav { display: flex; margin-left: 10px; }
@@ -525,3 +525,8 @@ a.icon-btn.yt:hover { color: var(--yt); border-color: var(--yt); }
 .doc h2 { font-size: 1.3rem; margin: 26px 0 6px; }
 .doc p, .doc li { line-height: 1.7; margin: 0 0 10px; color: var(--fg2); }
 .doc a { color: var(--acc); border-bottom: 1px solid var(--line2); }
+
+/* Link back to the Sur hub (smaju78.github.io) */
+.hub{grid-area:hub;display:inline-grid;place-items:center;width:34px;height:34px;flex:none;border-radius:50%;margin-right:4px}
+.hub svg{width:24px;height:24px}
+.hub:hover{background:rgba(127,127,127,.14)}
