@@ -526,7 +526,7 @@ a.icon-btn.yt:hover { color: var(--yt); border-color: var(--yt); }
 .doc p, .doc li { line-height: 1.7; margin: 0 0 10px; color: var(--fg2); }
 .doc a { color: var(--acc); border-bottom: 1px solid var(--line2); }
 
-/* Link back to the Sur hub (smaju78.github.io) */
+/* Link back to the Surghor hub (smaju78.github.io) */
 .hub{grid-area:hub;display:inline-grid;place-items:center;width:34px;height:34px;flex:none;border-radius:50%;margin-right:4px}
 .hub svg{width:24px;height:24px}
 .hub:hover{background:rgba(127,127,127,.14)}
